@@ -1,0 +1,7 @@
+facet,type,headline_inputs,direction
+Control,Magnitude,Possession %; Pass completion %,Higher = more ball dominance and circulation security
+Access,Magnitude,Final-third receptions; Final-third offers; Offers inside opposition shape,Higher = more advanced availability and reception
+Line-breaking,Magnitude,Defensive-line breaks per 100 passes,Higher = more deep penetration through the defensive line
+Chance threat,Magnitude,xG per match,Higher = greater underlying chance threat
+Attacking approach,Bipolar style axis,Control composite minus transition-attack composite,Higher = more control-oriented; lower = more transition-oriented
+Defensive approach,Bipolar style axis,Front-foot pressing/high-block composite minus deep-block composite,Higher = more front-foot; lower = more deep-block oriented

@@ -1,0 +1,283 @@
+# Column dictionary
+
+One line per column across the four output files. Grain is noted per file. ICC(1) values (one-way random-effects reliability, unbalanced-groups formula) are given for player_matches_clean.csv numeric metrics where computable, to show how much of each column's variance is a stable player trait vs match-to-match noise. Methodology: computed on raw column values (not per-90 normalized) restricted to rows with minutes_played > 0, grouped by (team, player_number), requiring >= 2 qualifying match appearances per player. Because these are raw counts, columns that scale with playing time will show somewhat lower ICC than the same metric expressed per-90 would.
+
+## team_matches_clean.csv
+Grain: one row per team per match (208 rows).
+
+- `match_id`: Unique match identifier (from the report cover page / filename). Grain: one row per team per match.
+- `round`: Competition stage label as printed on the cover page (e.g. "Group A", "Round of 16", "Final").
+- `date`: Match date as printed on the report header.
+- `team`: Team name for this row.
+- `opponent`: The other team in this match.
+- `is_home`: True if this team is the left/red side in the report layout. Not necessarily the tournament host.
+- `team_score`: This team's official final score. Includes own goals scored by the opponent into their own net.
+- `opponent_score`: Opponent's official final score. Includes own goals scored by this team into its own net.
+- `formation`: Starting XI formation string (e.g. "4-3-3"), read from the vertical axis label beside the page-2 tactical diagram.
+- `possession_pct`: Team's share of match possession (page 3 Key Statistics). Home+away sums to ~100% (99.9-100.1% across all 208 rows).
+- `goals`: Same figure as team_score, sourced independently from the Key Statistics page. Kept for cross-validation. Caveat: includes own goals, unlike player.goals and attempts_at_goal shot outcomes.
+- `xg`: Expected goals (page 3).
+- `shots`: Attempts at goal, page 3. Matches row count in attempts_at_goal.csv for this (match_id, team) exactly.
+- `shots_on_target`: Attempts at goal on target, page 3.
+- `passes`: Total passes attempted, page 3.
+- `passes_completed`: Total passes completed, page 3.
+- `pass_completion_pct`: Team pass completion %, page 3.
+- `completed_line_breaks`: Page 3 team total.
+- `defensive_line_breaks`: Page 3 team total.
+- `receptions_final_third`: Page 3 team total.
+- `crosses`: All-situation completed crosses, team total, page 3.
+- `ball_progressions`: Page 3 team total.
+- `def_pressures`: Total defensive pressures applied, page 3 (same figure also shown on page 29).
+- `def_pressures_direct`: Direct defensive pressures, page 3.
+- `forced_turnovers`: Team forced turnovers, page 3 (same figure also on pages 25/29).
+- `second_balls`: Page 3 team total.
+- `total_distance_km`: Team total distance covered, page 3.
+- `zone4_low_speed_sprint_km`: Team distance covered at 20-25 km/h, page 3.
+- `phase_build_up_unopposed_pct`: In-possession: % of sequences classified as unopposed build-up. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_build_up_opposed_pct`: In-possession: % classified as opposed build-up. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_progression_pct`: In-possession: % classified as progression. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_final_third_pct`: In-possession: % classified as final-third play. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_long_ball_pct`: In-possession: % classified as long-ball. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_attacking_transition_pct`: In-possession: % classified as attacking transition. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_counter_attack_pct`: In-possession: % classified as counter-attack. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_set_piece_pct`: In-possession: % classified as set-piece. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_high_press_pct`: Out-of-possession: % classified as high press. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_mid_press_pct`: Out-of-possession: % classified as mid press. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_low_press_pct`: Out-of-possession: % classified as low press. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_high_block_pct`: Out-of-possession: % classified as high block. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_mid_block_pct`: Out-of-possession: % classified as mid block. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_low_block_pct`: Out-of-possession: % classified as low block. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_recovery_pct`: Out-of-possession: % classified as recovery. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_defensive_transition_pct`: Out-of-possession: % classified as defensive transition. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `phase_counter_press_pct`: Out-of-possession: % classified as counter-press. **Never sums to 100%** across the 8 (in-possession) / 9 (out-of-possession) phase columns for a team-match -- verified genuine against the source PDF at both extremes in this dataset (avg ~108%/range 84-149% in-possession; avg ~87%/range 73-97% out-of-possession). Categories overlap (in-possession) or leave gaps (out-of-possession) by design; this is not a parsing artifact.
+- `avg_pressure_duration_s`: Average duration of a defensive pressure sequence, page 29.
+- `ball_recovery_time_s`: Average time to regain possession after losing it, page 29.
+- `pushing_on_into_pressing`: Team count, page 29.
+- `pushing_on`: Team count, page 29.
+- `pressing_direction_inside`: Team count of presses directed inside, page 29.
+- `pressing_direction_outside`: Team count of presses directed outside, page 29.
+- `ip_build_up_low_team_width_m`: Team width (m), in-possession phase "build_up_low" (pages 6-7/27-28).
+- `ip_build_up_low_team_length_m`: Team length/depth (m), in-possession phase "build_up_low" (pages 6-7/27-28).
+- `ip_build_up_low_line_height_m`: Defensive line height (m) from own goal line, in-possession phase "build_up_low" (pages 6-7/27-28).
+- `ip_build_up_mid_team_width_m`: Team width (m), in-possession phase "build_up_mid" (pages 6-7/27-28).
+- `ip_build_up_mid_team_length_m`: Team length/depth (m), in-possession phase "build_up_mid" (pages 6-7/27-28).
+- `ip_build_up_mid_line_height_m`: Defensive line height (m) from own goal line, in-possession phase "build_up_mid" (pages 6-7/27-28).
+- `ip_final_third_phase_team_width_m`: Team width (m), in-possession phase "final_third_phase" (pages 6-7/27-28).
+- `ip_final_third_phase_team_length_m`: Team length/depth (m), in-possession phase "final_third_phase" (pages 6-7/27-28).
+- `ip_final_third_phase_line_height_m`: Defensive line height (m) from own goal line, in-possession phase "final_third_phase" (pages 6-7/27-28).
+- `oop_high_block_press_team_width_m`: Team width (m), out-of-possession phase "high_block_press" (pages 6-7/27-28).
+- `oop_high_block_press_team_length_m`: Team length/depth (m), out-of-possession phase "high_block_press" (pages 6-7/27-28).
+- `oop_high_block_press_line_height_m`: Defensive line height (m) from own goal line, out-of-possession phase "high_block_press" (pages 6-7/27-28).
+- `oop_mid_block_team_width_m`: Team width (m), out-of-possession phase "mid_block" (pages 6-7/27-28).
+- `oop_mid_block_team_length_m`: Team length/depth (m), out-of-possession phase "mid_block" (pages 6-7/27-28).
+- `oop_mid_block_line_height_m`: Defensive line height (m) from own goal line, out-of-possession phase "mid_block" (pages 6-7/27-28).
+- `oop_low_block_team_width_m`: Team width (m), out-of-possession phase "low_block" (pages 6-7/27-28).
+- `oop_low_block_team_length_m`: Team length/depth (m), out-of-possession phase "low_block" (pages 6-7/27-28).
+- `oop_low_block_line_height_m`: Defensive line height (m) from own goal line, out-of-possession phase "low_block" (pages 6-7/27-28).
+- `lb_4u_attempted`: Team line breaks attempted bypassing 4 defensive units, pages 8-9.
+- `lb_3u_attempted`: Team line breaks attempted bypassing 3 defensive units, pages 8-9.
+- `lb_2u_attempted`: Team line breaks attempted bypassing 2 defensive units, pages 8-9.
+- `lb_4u_inside_shape`: Of the 4-unit line breaks, how many arrived inside the opponent block shape, pages 8-9.
+- `lb_3u_inside_shape`: Of the 3-unit line breaks, how many arrived inside the opponent block shape, pages 8-9.
+- `lb_2u_inside_shape`: Of the 2-unit line breaks, how many arrived inside the opponent block shape, pages 8-9.
+- `lb_4u_outside_shape`: Of the 4-unit line breaks, how many arrived outside the opponent block shape, pages 8-9.
+- `lb_3u_outside_shape`: Of the 3-unit line breaks, how many arrived outside the opponent block shape, pages 8-9.
+- `lb_2u_outside_shape`: Of the 2-unit line breaks, how many arrived outside the opponent block shape, pages 8-9.
+- `offers_made_total`: Team total "offer to receive" runs made, pages 20-21.
+- `offers_received_total`: Team total offers that were received (i.e. led to a pass), pages 20-21.
+- `offers_made_final_third`: Offers made in the final third, pages 20-21.
+- `offers_made_middle_third`: Offers made in the middle third, pages 20-21.
+- `offers_made_defensive_third`: Offers made in the defensive third, pages 20-21.
+- `offers_made_inside_shape`: Offers made inside the opponent block shape, pages 20-21.
+- `offers_made_outside_shape`: Offers made outside the opponent block shape, pages 20-21.
+- `possession_regained_total`: Team total possession regains, pages 25-26 (sum of the player-level possession_regains for this team should approximate this).
+- `interceptions_total`: Team total interceptions, pages 25-26.
+- `tackles_total`: Team total tackles, pages 25-26.
+- `possession_actions_per_defensive_action`: Ratio KPI card, pages 25-26: opponent possession actions allowed per defensive action taken.
+- `blocks_total`: Team total blocks (donut chart total only; the passes/shots/crosses/clearances breakdown is chart-graphic-only and was not extracted), pages 25-26.
+- `possession_contests_total`: Team total possession contests (donut chart total only; aerial/physical/other breakdown not extracted), pages 25-26.
+- `total_set_plays`: **[NEVER-STANDARDIZE]** Team total set-play count, pages 39-40.
+- `corner_direct_to_area_left`: **[NEVER-STANDARDIZE]** Corners delivered direct-to-area from the left side, pages 39-40.
+- `corner_direct_to_area_right`: **[NEVER-STANDARDIZE]** Corners delivered direct-to-area from the right side, pages 39-40.
+- `corner_direct_to_area_total`: **[NEVER-STANDARDIZE]** Left + right, pages 39-40.
+- `corner_short_left`: **[NEVER-STANDARDIZE]** Short corners taken from the left side, pages 39-40.
+- `corner_short_right`: **[NEVER-STANDARDIZE]** Short corners taken from the right side, pages 39-40.
+- `corner_short_total`: **[NEVER-STANDARDIZE]** Left + right, pages 39-40.
+- `corner_edge_box_left`: **[NEVER-STANDARDIZE]** Corners delivered to the edge of the box, from the left, pages 39-40.
+- `corner_edge_box_right`: **[NEVER-STANDARDIZE]** Corners delivered to the edge of the box, from the right, pages 39-40.
+- `corner_edge_box_total`: **[NEVER-STANDARDIZE]** Left + right, pages 39-40.
+- `corner_inswing`: **[NEVER-STANDARDIZE]** Corner delivery style count, pages 39-40.
+- `corner_outswing`: **[NEVER-STANDARDIZE]** Corner delivery style count, pages 39-40.
+- `corner_driven`: **[NEVER-STANDARDIZE]** Corner delivery style count, pages 39-40.
+- `corner_lofted`: **[NEVER-STANDARDIZE]** Corner delivery style count, pages 39-40.
+- `freekick_direct`: **[NEVER-STANDARDIZE]** Direct free kicks taken, pages 39-40.
+- `freekick_direct_on_target`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `freekick_direct_off_target`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `freekick_indirect`: **[NEVER-STANDARDIZE]** Indirect free kicks taken, pages 39-40.
+- `total_free_kicks`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `total_penalties`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `total_corners`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `total_throw_ins`: **[NEVER-STANDARDIZE]** Pages 39-40.
+- `movement_final_third_phase_total`: Total movements-to-receive tagged to the Final Third possession phase (donut center total). Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_progression_phase_total`: Total movements-to-receive tagged to the Progression possession phase (donut center total). Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_build_up_phase_total`: Total movements-to-receive tagged to the Build Up possession phase (donut center total). Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_all_types_total`: Total movements-to-receive across the whole match, all types combined (donut center total). Not simply the sum of the 3 phase totals above -- phase tagging is not necessarily exhaustive/mutually exclusive, consistent with the phase-of-play percentage columns elsewhere in this file also not summing to 100%. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_final_third_in_front`: Count of "in front" movements-to-receive in the final third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_final_third_in_between`: Count of "in between" movements-to-receive in the final third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_final_third_out_to_in`: Count of "out to in" movements-to-receive in the final third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_final_third_in_to_out`: Count of "in to out" movements-to-receive in the final third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_final_third_in_behind`: Count of "in behind" movements-to-receive in the final third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_middle_third_in_front`: Count of "in front" movements-to-receive in the middle third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_middle_third_in_between`: Count of "in between" movements-to-receive in the middle third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_middle_third_out_to_in`: Count of "out to in" movements-to-receive in the middle third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_middle_third_in_to_out`: Count of "in to out" movements-to-receive in the middle third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_middle_third_in_behind`: Count of "in behind" movements-to-receive in the middle third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_defensive_third_in_front`: Count of "in front" movements-to-receive in the defensive third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_defensive_third_in_between`: Count of "in between" movements-to-receive in the defensive third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_defensive_third_out_to_in`: Count of "out to in" movements-to-receive in the defensive third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_defensive_third_in_to_out`: Count of "in to out" movements-to-receive in the defensive third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+- `movement_defensive_third_in_behind`: Count of "in behind" movements-to-receive in the defensive third of the pitch. Pages 22-23. Caveat: this page has 3 chart groups -- "Movement Types by Phase" (3 donuts: Final Third/Progression/Build Up Phase), "All Movement Types" (1 donut), and "Movement Types Pitch Third" (a 3rd/5-type bar chart). Only each donut's CENTER TOTAL and the full pitch-third bar-chart breakdown are real extractable text -- the 5-category segment breakdown inside the phase donuts and the all-types donut is pure chart graphics with no underlying text at all (confirmed via a full word-position dump of the page), so it is not included here. Per-player, phase-split movement data does not exist anywhere in the report (checked separately) -- this is team-level only.
+
+## player_matches_clean.csv
+Grain: one row per rostered player per match (5392 rows; includes unused substitutes with null stat columns).
+
+- `match_id`: Same identifier as team_matches.match_id. Grain: one row per rostered player per match (starters + all substitutes, including unused subs).
+- `team`: Player's team for this match.
+- `player_number`: Shirt number for this match.
+- `player_name`: Player name as printed on the team sheet (page 2), ligature/hyphen glyph artifacts normalized.
+- `position`: One of GK / DF / MF / FW, from the page-2 team sheet.
+- `started`: True if named in the starting XI.
+- `minutes_played`: Computed from sub-on/off minutes and the match's estimated final minute (max of 90 or the latest recorded event minute). Floored at 1 for any player who has recorded stats but would otherwise compute to 0 (a very-late cameo) -- this was a deliberate fix so per-90 normalization never divides by zero. Known approximation: a player who plays into unlogged stoppage time with no card/sub event near the end can be undercounted by a minute or two. ICC(1)=0.50 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `yellow_card_minute`: Minute of yellow card, else null. Sparse (~5% non-null) -- ICC not computed.
+- `red_card_minute`: Minute of red card, else null. Sparse (~0.3% non-null) -- ICC not computed.
+- `goals`: Goals scored by this specific player (page-2 goal-icon event). Caveat: EXCLUDES own goals -- an own goal is credited to the scoring team's official score (team_matches.goals/team_score) but is not attributed as a personal goal to any player on that team. This is why sum(player.goals) for a team can run exactly 1 below team_matches.goals for matches with an own goal (confirmed: 21 of 208 team-match rows in this dataset, always a deficit of exactly 1). ICC(1)=0.13 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `formation_x`: RAW (uncorrected) tactical-diagram x-position as originally extracted -- left untouched. Away-team values are mirrored and NOT directly comparable to home-team values; use fx instead for any cross-team analysis. ICC(1)=-0.06 (k=609 players, n=2116 player-match observations, minutes_played>0, >=2 appearances).
+- `formation_y`: RAW (uncorrected) tactical-diagram y-position as originally extracted -- left untouched. Use fy instead for any cross-team analysis. ICC(1)=-0.00 (k=609 players, n=2116 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_attempted`: Player line breaks attempted, pages 10-11. ICC(1)=0.53 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_completed`: Player line breaks completed, pages 10-11. ICC(1)=0.53 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_completion_pct`: Player line break completion %, pages 10-11. ICC(1)=0.27 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_attacking_line`: Line breaks into/across the attacking line (4-unit breakdown), pages 10-11. ICC(1)=0.09 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_attacking_midfield_line`: Line breaks into/across the attacking-midfield line (4-unit breakdown), pages 10-11. ICC(1)=0.11 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_midfield_line`: Line breaks into/across the midfield line (4-unit breakdown), pages 10-11. ICC(1)=0.08 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_defensive_line`: Line breaks into/across the defensive line (4-unit breakdown), pages 10-11. ICC(1)=0.02 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_3u_attacking_line`: Line breaks into/across the attacking line (3-unit breakdown), pages 10-11. ICC(1)=0.52 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_3u_midfield_line`: Line breaks into/across the midfield line (3-unit breakdown), pages 10-11. ICC(1)=0.35 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_3u_defensive_line`: Line breaks into/across the defensive line (3-unit breakdown), pages 10-11. ICC(1)=0.13 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_2u_midfield_line`: Line breaks into/across the midfield line (2-unit breakdown), pages 10-11. ICC(1)=0.37 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_2u_defensive_line`: Line breaks into/across the defensive line (2-unit breakdown), pages 10-11. ICC(1)=0.19 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_through`: Line breaks delivered through the line, pages 10-11. ICC(1)=0.40 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_around`: Line breaks delivered around the line, pages 10-11. ICC(1)=0.46 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_over`: Line breaks delivered over the line, pages 10-11. ICC(1)=0.57 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_pass`: Line breaks delivered by pass, pages 10-11. ICC(1)=0.56 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_cross`: Line breaks delivered by cross, pages 10-11. ICC(1)=0.19 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `lb_ball_progression`: Line breaks delivered by ball progression (carry), pages 10-11. ICC(1)=0.28 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `passes_attempted`: Player passes attempted, pages 42/44. ICC(1)=0.58 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `passes_completed`: Player passes completed, pages 42/44. ICC(1)=0.58 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `pass_completion_pct`: Player pass completion %, pages 42/44. ICC(1)=0.24 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `switches_of_play`: Pages 42/44. ICC(1)=0.19 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `crosses_attempted`: ALL crosses attempted by this player, any situation (open play, set piece) -- pages 42/44. Compare to cross_total_attempted (open-play only, by delivery type) below; crosses_attempted >= cross_total_attempted in general. ICC(1)=0.42 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `crosses_completed`: ALL crosses completed, any situation -- pages 42/44. ICC(1)=0.24 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `ball_progressions`: Pages 42/44. ICC(1)=0.47 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `take_ons`: Pages 42/44. ICC(1)=0.51 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `step_ins`: Pages 42/44. ICC(1)=0.20 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `attempts_at_goal`: Shot count from the Distributions table -- should equal this player's row count in attempts_at_goal.csv. ICC(1)=0.31 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `ip_goals`: Goals column from the Distributions table (pages 42/44) -- independent source from the page-2 goal event; kept alongside 'goals' as a cross-check (both exclude own goals). ICC(1)=0.11 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `total_offers`: Total "offer to receive" runs made by this player, pages 43/45. ICC(1)=0.46 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_in_front`: Offers where the run was in front of the ball, pages 43/45. ICC(1)=0.54 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_in_between`: Offers between defensive lines, pages 43/45. ICC(1)=0.52 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_out_to_in`: Offers moving from outside to inside, pages 43/45. ICC(1)=0.24 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_in_to_out`: Offers moving from inside to outside, pages 43/45. ICC(1)=0.31 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_in_behind`: Offers in behind the defensive line, pages 43/45. ICC(1)=0.55 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offer_no_movement`: Offers made without a preceding movement, pages 43/45. ICC(1)=0.34 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `offers_received`: Of this player's offers, how many were received (led to a pass), pages 43/45. ICC(1)=0.43 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `tackles_made`: Tackles attempted, pages 47-48. ICC(1)=0.34 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `tackles_won`: Tackles won, pages 47-48. ICC(1)=0.18 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `blocks`: Pages 47-48. ICC(1)=0.26 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `interceptions`: Pages 47-48. ICC(1)=0.21 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `pressing_direct`: Direct pressures applied, pages 47-48. ICC(1)=0.37 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `pressing_indirect`: Indirect pressures applied, pages 47-48. ICC(1)=0.49 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `duels_won_aerial`: Pages 47-48. ICC(1)=0.33 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `duels_won_physical`: Pages 47-48. ICC(1)=0.03 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `possession_contests_won`: Pages 47-48. ICC(1)=0.32 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `clearances`: Pages 47-48. ICC(1)=0.55 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `loose_ball_receptions`: Pages 47-48. ICC(1)=0.31 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `pushing_on`: Pages 47-48. ICC(1)=0.39 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `pushing_on_into_pressing`: Pages 47-48. ICC(1)=0.40 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `possession_regains`: Pages 47-48. Team-level possession_regained_total is this summed across the squad (approximately). ICC(1)=0.44 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `possession_interrupted`: Pages 47-48. ICC(1)=0.43 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `total_distance_m`: Player total distance covered (m), pages 50-51. Decoded from an obfuscated custom font (digit glyphs remapped to private-use-area codepoints) -- verified against team_matches.total_distance_km by summing the squad (matched to within ~15m of the team total across every file checked) and confirmed the codepoint map is a global constant (zero unknown glyphs across all 104 files). ICC(1)=0.48 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `zone1_distance_m`: Distance covered at 0-7 km/h, pages 50-51. ICC(1)=0.51 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `zone2_distance_m`: Distance covered at 7-15 km/h, pages 50-51. ICC(1)=0.55 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `zone3_distance_m`: Distance covered at 15-20 km/h, pages 50-51. ICC(1)=0.58 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `zone4_distance_m`: Distance covered at 20-25 km/h, pages 50-51. ICC(1)=0.53 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `zone5_distance_m`: Distance covered at 25+ km/h, pages 50-51. ICC(1)=0.51 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `high_speed_runs_zone3`: Count of high-speed runs in the zone-3 speed band, pages 50-51. ICC(1)=0.56 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `sprints_zone4_5`: Count of sprints in the zone-4/5 speed band, pages 50-51. ICC(1)=0.54 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `top_speed_kmh`: Top speed reached, pages 50-51. ICC(1)=0.62 (k=849 players, n=3099 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_inswing`: Open-play inswinging crosses attempted, pages 18-19. ICC(1)=0.19 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_outswing`: Open-play outswinging crosses attempted, pages 18-19. ICC(1)=0.29 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_driven`: Open-play driven crosses attempted, pages 18-19. ICC(1)=0.03 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_lofted`: Open-play lofted crosses attempted, pages 18-19. ICC(1)=0.06 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_cutback`: Open-play cutback crosses attempted, pages 18-19. ICC(1)=0.07 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_push`: Open-play push crosses attempted, pages 18-19. ICC(1)=0.08 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `cross_total_attempted`: OPEN-PLAY crosses attempted only (sum of the 6 delivery-type columns above), pages 18-19. Compare to crosses_attempted (all situations) above; this is always <= crosses_attempted. ICC(1)=0.32 (k=846 players, n=3090 player-match observations, minutes_played>0, >=2 appearances).
+- `gk_line_breaks`: Goalkeeper line breaks via distribution, pages 32-33. Starting GK only (~3.9% non-null). ICC(1)=0.15 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gk_kick_from_feet_total`: Total distributions kicked from feet, pages 32-33. Starting GK only. Complete/incomplete split and delivery-style breakdown (Play Onto/Into/Around/Through/Beyond, Other) are chart-graphic-only and were not extractable as text. ICC(1)=0.24 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gk_kick_from_hands_total`: Total distributions kicked from hands, pages 32-33. Starting GK only. ICC(1)=0.18 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gk_throw_total`: Total throw distributions, pages 32-33. Starting GK only. ICC(1)=0.19 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_attempts_faced`: Total opponent attempts on goal faced by this GK, pages 34-35. Starting GK only. Caveat: usually but not always equal to the opponent team's shots column in team_matches -- spot-checked at a small deficit/surplus in some matches (e.g. one match showed 11 here vs 10 opponent shots); treat as this page's own count, not a guaranteed exact match to attempts_at_goal.csv row counts for the opponent. ICC(1)=0.25 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_interventions_total`: Of the attempts faced, how many were classified as requiring a genuine goalkeeping intervention (roughly: on-target attempts) -- equals the sum of the 5 intervention-type columns below. Pages 34-35. ICC(1)=0.03 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_save_retain`: Count of interventions resulting in save & retain, pages 34-35. ICC(1)=0.12 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_deflect_retain`: Count of interventions resulting in deflect & retain, pages 34-35. ICC(1)=0.13 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_save_deflect`: Count of interventions resulting in save & deflect, pages 34-35. ICC(1)=0.07 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_save_attempt`: Count of interventions resulting in a save attempt (no clean save/deflect/retain), pages 34-35. ICC(1)=0.13 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_no_save_attempt`: Count of attempts faced that did not require a save attempt (e.g. off-target/blocked before reaching the keeper), pages 34-35. ICC(1)=0.22 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `gp_save_pct`: Save % KPI card, pages 34-35. Intervention-by-body-part breakdown (Head/Hands/Upper Body/Lower Body/Feet) is chart-graphic-only and was not extractable as text. ICC(1)=-0.05 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_total_interventions`: Total aerial interventions by this GK, pages 36-37. Starting GK only. ICC(1)=0.11 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_punches_complete`: Pages 36-37. ICC(1)=0.03 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_punches_total`: Pages 36-37. Caveat: not simply ac_punches_complete + ac_punches_incomplete in every case observed -- the report does not document the exact relationship between these three numbers, so they are captured as literally labeled rather than assumed to be additive. ICC(1)=0.09 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_punches_incomplete`: Pages 36-37. ICC(1)=n/a (k=51 players with >=2 qualifying matches, too few for a stable estimate).
+- `ac_claims_complete`: Pages 36-37. ICC(1)=0.15 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_claims_total`: Pages 36-37. Same non-additive caveat as ac_punches_total. ICC(1)=0.15 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_claims_incomplete`: Pages 36-37. ICC(1)=n/a (k=51 players with >=2 qualifying matches, too few for a stable estimate).
+- `ac_tipped_palmed_complete`: Pages 36-37. ICC(1)=0.09 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_tipped_palmed_total`: Pages 36-37. Same non-additive caveat as ac_punches_total. ICC(1)=0.06 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_tipped_palmed_incomplete`: Pages 36-37. ICC(1)=n/a (k=51 players with >=2 qualifying matches, too few for a stable estimate).
+- `ac_delivery_total`: Total delivery types faced (crosses), pages 36-37. Crosses-faced pitch map is graphics-only and was not extracted. ICC(1)=0.19 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_inswing`: Pages 36-37. ICC(1)=0.15 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_outswing`: Pages 36-37. ICC(1)=0.02 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_driven`: Pages 36-37. ICC(1)=0.08 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_lofted`: Pages 36-37. ICC(1)=0.28 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_cutback`: Pages 36-37. ICC(1)=-0.06 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `ac_delivery_push`: Pages 36-37. ICC(1)=0.19 (k=51 players, n=201 player-match observations, minutes_played>0, >=2 appearances).
+- `fx`: Corrected tactical-diagram x-position, 0-1 scale, home-team coordinate space. Away-team rows are mirrored (x'=0.975-x) so both teams share one coordinate system. Starters only; null otherwise. See fy for the y counterpart and the formation-correction assertions in prep_data.py for validation. ICC(1)=0.96 (k=609 players, n=2116 player-match observations, minutes_played>0, >=2 appearances).
+- `fy`: Corrected tactical-diagram y-position, 0-1 scale (y'=0.937-y for away rows). Starters only. GK fy is 0.468 or 0.469 for all 208 starting keepers after correction -- use this as a sanity check if re-deriving. ICC(1)=0.74 (k=609 players, n=2116 player-match observations, minutes_played>0, >=2 appearances).
+
+## passing_network.csv
+Grain: one row per (match, team, passer, receiver) pair.
+
+- `match_id`: Match identifier.
+- `team`: Passer/receiver team.
+- `passer_number`: Passer's shirt number.
+- `passer_name`: Passer name.
+- `receiver_number`: Receiver's shirt number, looked up from the roster by name.
+- `receiver_name`: Receiver name.
+- `passes`: Count of COMPLETED passes from passer to receiver, pages 12-13. Grain: one row per (match, team, passer, receiver) pair, including 0-count pairs, for a complete adjacency matrix per team-match. Caveat: per-team sums run a bit below team_matches/player_matches.passes_completed (e.g. 442 vs 465 for one spot-checked match) -- traced to the raw source table itself, not a parsing bug; the network most likely excludes crosses and/or set-piece deliveries that the aggregate pass totals count as completed passes.
+
+## attempts_at_goal.csv
+Grain: one row per shot.
+
+- `match_id`: Match identifier.
+- `team`: Shooting player's team.
+- `minute`: Match minute of the attempt (string, since it can include stoppage-time notation like "90+2").
+- `player_number`: Shooter's shirt number.
+- `player_name`: Shooter name.
+- `outcome`: Free-text outcome, e.g. "On Target - Goal", "Incomplete - Blocked", "Off Target". Not a closed vocabulary -- treat as categorical text, not an enum.
+- `body_part`: One of: Left Foot, Right Foot, Head, Chest, Upper Body, Lower Body, Other.
+- `delivery_type`: How the ball arrived at the shooter, e.g. Pass, Cross, Corner, Freekick, Loose Ball, Ball Progression, Penalty, Tackle, Interception, Other. Free-text, not a closed vocabulary.
+- **Note**: Row count per (match_id, team) matches team_matches.shots exactly for all 208 team-match rows. Goals here (outcome contains "Goal") are attributed to the shooting player and therefore also EXCLUDE own goals, same caveat as player_matches.goals.
+
+## Cross-file caveats
+- **Own goals**: `team_matches.goals`/`team_score` include own goals (the official scoreline). `player_matches.goals`, `player_matches.ip_goals`, and goal-outcome rows in `attempts_at_goal.csv` do NOT -- an own goal has no attributable shooting player in this data. Confirmed: 21 of 208 team-match rows have `team.goals` exactly 1 above the player-level sum, consistent with one own goal each; zero rows run the other direction.
+- **Set-play columns are never-standardize**: flagged above in team_matches_clean.csv. These are small integer counts (many near/at zero across a single match), so z-scoring or other standardization is not meaningful and is sensitive to outliers.
+- **Phase-of-play percentages never sum to 100%**: by design, not a bug -- see the per-column notes above.

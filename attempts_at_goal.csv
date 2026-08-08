@@ -1,0 +1,2572 @@
+match_id,team,minute,player_number,player_name,outcome,body_part,delivery_type
+1,Mexico,3,26,Brian GUTIERREZ,Incomplete - Blocked,Right Foot,Freekick
+1,Mexico,4,9,Raul JIMENEZ,On Target - Saved,Left Foot,Cross
+1,Mexico,8,16,Julian QUINONES,On Target - Goal,Right Foot,Loose Ball
+1,Mexico,12,9,Raul JIMENEZ,Off Target - Saved,Head,Corner
+1,Mexico,19,16,Julian QUINONES,Off Target,Right Foot,Pass
+1,Mexico,29,26,Brian GUTIERREZ,Incomplete - Blocked,Right Foot,Pass
+1,Mexico,41,16,Julian QUINONES,Deflected Off Target - Defensive Event,Right Foot,Other
+1,Mexico,41,16,Julian QUINONES,Off Target,Right Foot,Pass
+1,Mexico,46,23,Jesus GALLARDO,Deflected Off Target - Defensive Event,Left Foot,Pass
+1,Mexico,48,26,Brian GUTIERREZ,Off Target,Right Foot,Pass
+1,Mexico,45,26,Brian GUTIERREZ,Off Target,Right Foot,Loose Ball
+1,Mexico,47,16,Julian QUINONES,On Target - Saved,Right Foot,Ball Progression
+1,Mexico,51,9,Raul JIMENEZ,Incomplete - Blocked,Right Foot,Freekick
+1,Mexico,51,23,Jesus GALLARDO,Off Target,Left Foot,Pass
+1,Mexico,57,15,Israel REYES,Incomplete - Player On Ball Error,Head,Freekick
+1,Mexico,66,9,Raul JIMENEZ,On Target - Goal,Head,Cross
+1,South Africa,37,9,Lyle FOSTER,Off Target,Head,Pass
+1,South Africa,44,14,Mbekezeli MBOKAZI,On Target - Saved,Left Foot,Loose Ball
+1,South Africa,55,6,Aubrey MODIBA,On Target - Saved,Left Foot,Pass
+2,Korea Republic,11,7,SON Heungmin,Deflected Off Target - Defensive Event,Left Foot,Pass
+2,Korea Republic,11,2,LEE Hanbeom,Off Target,Head,Cross
+2,Korea Republic,13,19,LEE Kangin,On Target - Saved,Left Foot,Pass
+2,Korea Republic,13,7,SON Heungmin,Incomplete - Blocked,Right Foot,Cross
+2,Korea Republic,37,7,SON Heungmin,Off Target,Right Foot,Pass
+2,Korea Republic,38,7,SON Heungmin,Off Target,Left Foot,Pass
+2,Korea Republic,46,7,SON Heungmin,Incomplete - Defensive Event,Right Foot,Cross
+2,Korea Republic,47,6,HWANG Inbeom,Off Target,Right Foot,Pass
+2,Korea Republic,48,6,HWANG Inbeom,On Target - Saved,Right Foot,Pass
+2,Korea Republic,48,10,LEE Jaesung,On Target - Saved,Left Foot,Other
+2,Korea Republic,55,7,SON Heungmin,On Target - Saved,Left Foot,Pass
+2,Korea Republic,60,10,LEE Jaesung,Off Target - Saved,Head,Cross
+2,Korea Republic,66,6,HWANG Inbeom,On Target - Goal,Right Foot,Pass
+2,Korea Republic,79,18,OH Hyeongyu,On Target - Goal,Left Foot,Cross
+2,Korea Republic,93,24,KIM Jingyu,Incomplete - Blocked,Left Foot,Pass
+2,Czechia,21,22,Tomas SOUCEK,Off Target,Left Foot,Corner
+2,Czechia,31,15,Pavel SULC,Off Target,Right Foot,Loose Ball
+2,Czechia,58,7,Ladislav KREJCI,On Target - Goal,Head,Other
+2,Czechia,81,9,Adam HLOZEK,On Target - Saved,Left Foot,Loose Ball
+2,Czechia,87,18,Michal SADILEK,On Target - Saved,Head,Interception
+2,Czechia,92,18,Michal SADILEK,On Target - Saved,Right Foot,Pass
+2,Czechia,93,9,Adam HLOZEK,Incomplete - Player On Ball Error,Upper Body,Cross
+3,Canada,16,10,Jonathan DAVID,On Target - Saved,Left Foot,Loose Ball
+3,Canada,27,10,Jonathan DAVID,Incomplete - Blocked,Left Foot,Pass
+3,Canada,29,8,Ismael KONE,Incomplete - Blocked,Right Foot,Freekick
+3,Canada,31,12,Tani OLUWASEYI,Off Target,Left Foot,Pass
+3,Canada,37,10,Jonathan DAVID,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+3,Canada,48,2,Alistair JOHNSTON,Deflected Off Target - Defensive Event,Right Foot,Other
+3,Canada,48,13,Derek CORNELIUS,Off Target,Head,Corner
+3,Canada,52,22,Richie LARYEA,On Target - Saved,Right Foot,Pass
+3,Canada,64,7,Stephen EUSTAQUIO,Off Target,Right Foot,Pass
+3,Canada,65,12,Tani OLUWASEYI,On Target - Goal Prevented,Head,Cross
+3,Canada,78,9,Cyle LARIN,Deflected On Target - Goal,Right Foot,Pass
+3,Canada,80,24,Promise DAVID,Off Target,Right Foot,Loose Ball
+3,Canada,95,9,Cyle LARIN,Incomplete - Blocked,Left Foot,Pass
+3,Bosnia and Herzegovina,2,15,Amar MEMIC,Off Target,Right Foot,Loose Ball
+3,Bosnia and Herzegovina,4,25,Jovo LUKIC,Off Target,Head,Cross
+3,Bosnia and Herzegovina,12,25,Jovo LUKIC,On Target - Saved,Head,Freekick
+3,Bosnia and Herzegovina,20,25,Jovo LUKIC,On Target - Goal,Head,Pass
+3,Bosnia and Herzegovina,43,6,Benjamin TAHIROVIC,Off Target,Right Foot,Loose Ball
+3,Bosnia and Herzegovina,45,10,Ermedin DEMIROVIC,On Target - Saved,Right Foot,Pass
+3,Bosnia and Herzegovina,58,4,Tarik MUHAREMOVIC,Off Target,Head,Corner
+3,Bosnia and Herzegovina,84,17,Dzenis BURNIC,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+4,USA,2,20,Folarin BALOGUN,Deflected On Target - Saved,Right Foot,Pass
+4,USA,30,20,Folarin BALOGUN,On Target - Goal,Right Foot,Pass
+4,USA,34,20,Folarin BALOGUN,Incomplete - Player On Ball Error,Head,Cross
+4,USA,36,17,Malik TILLMAN,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+4,USA,37,3,Chris RICHARDS,Off Target,Head,Corner
+4,USA,42,17,Malik TILLMAN,On Target - Saved,Right Foot,Loose Ball
+4,USA,49,20,Folarin BALOGUN,On Target - Goal,Left Foot,Ball Progression
+4,USA,46,20,Folarin BALOGUN,Incomplete - Blocked,Right Foot,Other
+4,USA,56,17,Malik TILLMAN,Incomplete - Blocked,Right Foot,Pass
+4,USA,60,17,Malik TILLMAN,Off Target,Right Foot,Loose Ball
+4,USA,74,17,Malik TILLMAN,On Target - Saved,Right Foot,Pass
+4,USA,76,21,Timothy WEAH,Off Target,Right Foot,Pass
+4,USA,88,9,Ricardo PEPI,Off Target,Left Foot,Pass
+4,USA,89,14,Sebastian BERHALTER,Off Target,Right Foot,Other
+4,USA,96,21,Timothy WEAH,Incomplete - Blocked,Right Foot,Pass
+4,USA,97,7,Giovanni REYNA,On Target - Goal,Right Foot,Ball Progression
+4,Paraguay,1,8,Diego GOMEZ,Off Target - Saved,Left Foot,Pass
+4,Paraguay,13,19,Julio ENCISO,Off Target,Right Foot,Ball Progression
+4,Paraguay,47,10,Miguel ALMIRON,Incomplete,Left Foot,Interception
+4,Paraguay,48,8,Diego GOMEZ,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+4,Paraguay,49,8,Diego GOMEZ,Incomplete,Right Foot,Ball Progression
+4,Paraguay,64,19,Julio ENCISO,Incomplete - Blocked,Right Foot,Ball Progression
+4,Paraguay,64,8,Diego GOMEZ,Off Target,Right Foot,Pass
+4,Paraguay,70,10,Miguel ALMIRON,Incomplete - Blocked,Left Foot,Other
+4,Paraguay,72,11,MAURICIO,On Target - Goal,Left Foot,Pass
+5,Haiti,4,11,Louicius DEEDSON,Off Target,Left Foot,Ball Progression
+5,Haiti,10,10,Jean-Ricner BELLEGARDE,Off Target,Left Foot,Pass
+5,Haiti,12,18,Wilson ISIDOR,Incomplete - Blocked,Right Foot,Pass
+5,Haiti,33,4,Ricardo ADE,Incomplete - Player On Ball Error,Head,Freekick
+5,Haiti,33,15,Ruben PROVIDENCE,On Target - Saved,Right Foot,Pass
+5,Haiti,33,20,Frantzdy PIERROT,Incomplete - Blocked,Left Foot,Other
+5,Haiti,35,18,Wilson ISIDOR,Off Target,Head,Freekick
+5,Haiti,41,10,Jean-Ricner BELLEGARDE,Off Target,Right Foot,Pass
+5,Haiti,72,15,Ruben PROVIDENCE,Off Target,Right Foot,Loose Ball
+5,Haiti,77,10,Jean-Ricner BELLEGARDE,Incomplete - Blocked,Right Foot,Pass
+5,Haiti,78,15,Ruben PROVIDENCE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+5,Haiti,78,21,Josue CASIMIR,Deflected Off Target,Right Foot,Pass
+5,Haiti,84,20,Frantzdy PIERROT,Off Target,Head,Cross
+5,Haiti,93,20,Frantzdy PIERROT,On Target - Saved,Right Foot,Pass
+5,Haiti,96,8,Martin EXPERIENCE,Off Target,Right Foot,Pass
+5,Scotland,2,17,Ben GANNON-DOAK,Off Target - Saved,Left Foot,Ball Progression
+5,Scotland,3,20,Lawrence SHANKLAND,Incomplete - Blocked,Right Foot,Pass
+5,Scotland,6,4,Scott McTOMINAY,Off Target,Head,Cross
+5,Scotland,16,4,Scott McTOMINAY,Off Target,Right Foot,Pass
+5,Scotland,27,10,Che ADAMS,On Target - Saved,Right Foot,Cross
+5,Scotland,27,7,John McGINN,Deflected On Target - Goal,Left Foot,Other
+5,Scotland,31,20,Lawrence SHANKLAND,Off Target,Head,Cross
+5,Scotland,54,17,Ben GANNON-DOAK,Deflected Off Target - Defensive Event,Right Foot,Cross
+5,Scotland,72,7,John McGINN,Off Target,Left Foot,Pass
+6,Australia,16,3,Alessandro CIRCATI,Off Target,Head,Corner
+6,Australia,26,17,Nestory IRANKUNDA,On Target - Goal,Right Foot,Ball Progression
+6,Australia,38,5,Jordan BOS,Off Target,Left Foot,Other
+6,Australia,44,17,Nestory IRANKUNDA,On Target - Saved,Right Foot,Ball Progression
+6,Australia,47,5,Jordan BOS,Deflected Off Target - Defensive Event,Right Foot,Pass
+6,Australia,48,4,Jacob ITALIANO,Off Target,Right Foot,Pass
+6,Australia,53,19,Harry SOUTTAR,On Target - Saved,Head,Corner
+6,Australia,53,9,Mohamed TOURE,Incomplete - Blocked,Lower Body,Cross
+6,Australia,74,8,Connor METCALFE,On Target - Goal,Left Foot,Loose Ball
+6,Türkiye,2,10,Hakan CALHANOGLU,Deflected Off Target - Defensive Event,Right Foot,Pass
+6,Türkiye,3,16,Ismail YUKSEK,Deflected Off Target - Defensive Event,Head,Corner
+6,Türkiye,6,8,Arda GULER,Off Target,Left Foot,Pass
+6,Türkiye,18,20,Ferdi KADIOGLU,Off Target,Right Foot,Pass
+6,Türkiye,26,8,Arda GULER,On Target - Saved,Right Foot,Loose Ball
+6,Türkiye,29,14,Abdulkerim BARDAKCI,Off Target,Left Foot,Loose Ball
+6,Türkiye,29,10,Hakan CALHANOGLU,Off Target,Right Foot,Pass
+6,Türkiye,35,6,Orkun KOKCU,Off Target,Right Foot,Pass
+6,Türkiye,41,8,Arda GULER,Off Target,Left Foot,Pass
+6,Türkiye,48,7,Kerem AKTURKOGLU,Incomplete - Blocked,Left Foot,Ball Progression
+6,Türkiye,45,10,Hakan CALHANOGLU,On Target - Saved,Right Foot,Pass
+6,Türkiye,49,10,Hakan CALHANOGLU,Incomplete - Blocked,Right Foot,Loose Ball
+6,Türkiye,49,16,Ismail YUKSEK,Deflected Off Target - Defensive Event,Left Foot,Ball Progression
+6,Türkiye,50,7,Kerem AKTURKOGLU,Incomplete - Defensive Event,Right Foot,Loose Ball
+6,Türkiye,56,8,Arda GULER,On Target - Saved,Left Foot,Freekick
+6,Türkiye,56,16,Ismail YUKSEK,Off Target,Right Foot,Pass
+6,Türkiye,59,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Ball Progression
+6,Türkiye,62,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Pass
+6,Türkiye,64,8,Arda GULER,Incomplete - Blocked,Left Foot,Pass
+6,Türkiye,65,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Pass
+6,Türkiye,65,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Loose Ball
+6,Türkiye,71,2,Zeki CELIK,On Target - Saved,Right Foot,Pass
+6,Türkiye,73,8,Arda GULER,Off Target,Left Foot,Pass
+6,Türkiye,76,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Pass
+6,Türkiye,76,7,Kerem AKTURKOGLU,On Target - Saved,Right Foot,Pass
+6,Türkiye,81,8,Arda GULER,Off Target,Left Foot,Pass
+6,Türkiye,85,10,Hakan CALHANOGLU,On Target - Saved,Right Foot,Freekick
+6,Türkiye,88,8,Arda GULER,On Target - Saved,Left Foot,Pass
+6,Türkiye,89,3,Merih DEMIRAL,Off Target,Head,Pass
+6,Türkiye,94,11,Kenan YILDIZ,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+7,Brazil,8,11,RAPHINHA,Incomplete - Blocked,Left Foot,Pass
+7,Brazil,13,25,IGOR THIAGO,Incomplete - Player On Ball Error,Head,Cross
+7,Brazil,19,20,LUCAS PAQUETA,Incomplete - Blocked,Right Foot,Pass
+7,Brazil,31,7,VINICIUS JUNIOR,On Target - Goal,Right Foot,Ball Progression
+7,Brazil,46,20,LUCAS PAQUETA,On Target - Saved,Left Foot,Cross
+7,Brazil,47,4,MARQUINHOS,Off Target,Head,Corner
+7,Brazil,45,8,BRUNO GUIMARAES,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+7,Brazil,47,4,MARQUINHOS,Deflected Off Target - Defensive Event,Right Foot,Corner
+7,Brazil,51,25,IGOR THIAGO,On Target - Saved,Left Foot,Other
+7,Brazil,77,11,RAPHINHA,On Target - Saved,Left Foot,Cross
+7,Brazil,90,18,DANILO SANTOS,Incomplete - Player On Ball Error,Head,Cross
+7,Brazil,92,18,DANILO SANTOS,On Target - Saved,Left Foot,Pass
+7,Morocco,5,10,Brahim DIAZ,Incomplete - Blocked,Right Foot,Pass
+7,Morocco,5,24,Neil EL AYNAOUI,Incomplete - Defensive Event,Right Foot,Loose Ball
+7,Morocco,6,23,Bilal EL KHANNOUSS,Incomplete - Blocked,Right Foot,Pass
+7,Morocco,6,2,Achraf HAKIMI,Off Target,Right Foot,Pass
+7,Morocco,8,10,Brahim DIAZ,Incomplete - Blocked,Right Foot,Pass
+7,Morocco,10,11,Ismael SAIBARI,Incomplete - Blocked,Left Foot,Pass
+7,Morocco,20,11,Ismael SAIBARI,On Target - Goal,Right Foot,Pass
+7,Morocco,26,2,Achraf HAKIMI,Off Target,Right Foot,Pass
+7,Morocco,28,24,Neil EL AYNAOUI,Incomplete - Player On Ball Error,Head,Freekick
+7,Morocco,29,11,Ismael SAIBARI,Incomplete - Blocked,Right Foot,Pass
+7,Morocco,29,10,Brahim DIAZ,Deflected On Target - Saved,Right Foot,Interception
+7,Morocco,30,2,Achraf HAKIMI,Off Target,Right Foot,Loose Ball
+7,Morocco,98,24,Neil EL AYNAOUI,Off Target - Saved,Right Foot,Loose Ball
+7,Morocco,98,21,Ayoube AMAIMOUNI,On Target - Saved,Right Foot,Other
+8,Qatar,1,8,EDMILSON JUNIOR,On Target - Saved,Right Foot,Loose Ball
+8,Qatar,29,4,ISSA LAYE,Off Target,Head,Cross
+8,Qatar,42,8,EDMILSON JUNIOR,On Target - Saved,Right Foot,Loose Ball
+8,Qatar,43,14,HOMAM AHMED,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+8,Qatar,74,12,KARIM BOUDIAF,Off Target,Right Foot,Pass
+8,Qatar,89,7,AHMED ALAAELDIN,On Target - Saved,Right Foot,Pass
+8,Switzerland,0,7,Breel EMBOLO,Incomplete - Blocked,Right Foot,Pass
+8,Switzerland,5,11,Dan NDOYE,On Target - Saved,Right Foot,Pass
+8,Switzerland,9,11,Dan NDOYE,Off Target,Left Foot,Cross
+8,Switzerland,11,5,Manuel AKANJI,On Target - Saved,Left Foot,Freekick
+8,Switzerland,16,7,Breel EMBOLO,On Target - Goal,Right Foot,Penalty
+8,Switzerland,20,6,Denis ZAKARIA,On Target - Saved,Right Foot,Pass
+8,Switzerland,20,17,Ruben VARGAS,Incomplete - Blocked,Right Foot,Pass
+8,Switzerland,33,11,Dan NDOYE,Incomplete - Blocked,Left Foot,Pass
+8,Switzerland,34,11,Dan NDOYE,Off Target,Right Foot,Pass
+8,Switzerland,41,7,Breel EMBOLO,Incomplete - Blocked,Right Foot,Corner
+8,Switzerland,45,11,Dan NDOYE,On Target - Saved,Left Foot,Pass
+8,Switzerland,47,17,Ruben VARGAS,Off Target - Saved,Right Foot,Pass
+8,Switzerland,48,6,Denis ZAKARIA,Incomplete,Right Foot,Pass
+8,Switzerland,50,20,Michel AEBISCHER,On Target - Goal Prevented,Right Foot,Pass
+8,Switzerland,47,4,Nico ELVEDI,Deflected Off Target - Defensive Event,Head,Freekick
+8,Switzerland,48,10,Granit XHAKA,Off Target,Left Foot,Pass
+8,Switzerland,50,11,Dan NDOYE,Off Target,Right Foot,Cross
+8,Switzerland,62,4,Nico ELVEDI,Incomplete - Blocked,Left Foot,Pass
+8,Switzerland,66,10,Granit XHAKA,Off Target,Left Foot,Pass
+8,Switzerland,71,22,Fabian RIEDER,Incomplete - Blocked,Right Foot,Pass
+8,Switzerland,74,17,Ruben VARGAS,On Target - Saved,Right Foot,Pass
+8,Switzerland,75,7,Breel EMBOLO,Off Target,Right Foot,Pass
+8,Switzerland,80,9,Johan MANZAMBI,Off Target,Right Foot,Other
+8,Switzerland,85,9,Johan MANZAMBI,Incomplete - Blocked,Left Foot,Pass
+8,Switzerland,91,23,Zeki AMDOUNI,Incomplete - Blocked,Right Foot,Pass
+8,Switzerland,96,14,Ardon JASHARI,Off Target,Left Foot,Loose Ball
+9,Côte d'Ivoire,15,6,Seko FOFANA,Incomplete,Right Foot,Pass
+9,Côte d'Ivoire,17,12,Elye WAHI,On Target - Saved,Right Foot,Pass
+9,Côte d'Ivoire,32,6,Seko FOFANA,Off Target,Right Foot,Pass
+9,Côte d'Ivoire,34,19,Nicolas PEPE,Incomplete - Blocked,Left Foot,Pass
+9,Côte d'Ivoire,46,5,Wilfried SINGO,Off Target,Right Foot,Cross
+9,Côte d'Ivoire,47,19,Nicolas PEPE,Incomplete,Left Foot,Ball Progression
+9,Côte d'Ivoire,49,11,Yan DIOMANDE,Off Target,Left Foot,Pass
+9,Côte d'Ivoire,51,12,Elye WAHI,Off Target,Right Foot,Cross
+9,Côte d'Ivoire,52,6,Seko FOFANA,Off Target,Left Foot,Pass
+9,Côte d'Ivoire,57,11,Yan DIOMANDE,Off Target,Right Foot,Tackle
+9,Côte d'Ivoire,60,6,Seko FOFANA,Deflected On Target - Saved,Right Foot,Corner
+9,Côte d'Ivoire,82,3,Ghislain KONAN,Off Target,Right Foot,Loose Ball
+9,Côte d'Ivoire,89,15,Amad DIALLO,On Target - Goal,Left Foot,Pass
+9,Côte d'Ivoire,93,15,Amad DIALLO,On Target - Saved,Left Foot,Pass
+9,Côte d'Ivoire,96,26,Christ Inao OULAI,Off Target,Right Foot,Pass
+9,Ecuador,1,23,Moises CAICEDO,Off Target,Right Foot,Pass
+9,Ecuador,13,9,John YEBOAH,Off Target,Left Foot,Loose Ball
+9,Ecuador,22,9,John YEBOAH,Off Target,Left Foot,Tackle
+9,Ecuador,23,14,Alan MINDA,Off Target,Right Foot,Loose Ball
+9,Ecuador,29,14,Alan MINDA,Off Target,Right Foot,Pass
+9,Ecuador,29,9,John YEBOAH,Off Target,Left Foot,Pass
+9,Ecuador,45,13,Enner VALENCIA,Off Target,Left Foot,Pass
+9,Ecuador,55,15,Pedro VITE,Off Target,Left Foot,Pass
+9,Ecuador,67,19,Gonzalo PLATA,On Target - Saved,Left Foot,Pass
+9,Ecuador,86,4,Joel ORDONEZ,Deflected Off Target - Defensive Event,Head,Freekick
+9,Ecuador,87,4,Joel ORDONEZ,Incomplete - Blocked,Right Foot,Corner
+9,Ecuador,98,3,Piero HINCAPIE,Deflected Off Target - Defensive Event,Head,Corner
+10,Germany,5,10,Jamal MUSIALA,Incomplete - Blocked,Right Foot,Pass
+10,Germany,5,23,Felix NMECHA,On Target - Goal,Right Foot,Pass
+10,Germany,6,10,Jamal MUSIALA,Incomplete - Blocked,Right Foot,Ball Progression
+10,Germany,8,23,Felix NMECHA,Off Target,Right Foot,Pass
+10,Germany,9,17,Florian WIRTZ,Incomplete - Blocked,Right Foot,Ball Progression
+10,Germany,10,19,Leroy SANE,Off Target,Left Foot,Ball Progression
+10,Germany,11,23,Felix NMECHA,On Target - Saved,Right Foot,Pass
+10,Germany,13,17,Florian WIRTZ,Off Target,Right Foot,Pass
+10,Germany,27,15,Nico SCHLOTTERBECK,On Target - Saved,Head,Freekick
+10,Germany,29,5,Aleksandar PAVLOVIC,Deflected Off Target - Defensive Event,Left Foot,Pass
+10,Germany,31,19,Leroy SANE,Incomplete - Blocked,Left Foot,Pass
+10,Germany,37,15,Nico SCHLOTTERBECK,On Target - Goal,Head,Corner
+10,Germany,44,18,Nathaniel BROWN,Incomplete - Blocked,Right Foot,Loose Ball
+10,Germany,44,5,Aleksandar PAVLOVIC,On Target - Goal Prevented,Right Foot,Pass
+10,Germany,44,7,Kai HAVERTZ,Incomplete - Player On Ball Error,Head,Loose Ball
+10,Germany,49,7,Kai HAVERTZ,On Target - Goal,Left Foot,Penalty
+10,Germany,46,10,Jamal MUSIALA,On Target - Goal,Right Foot,Pass
+10,Germany,49,23,Felix NMECHA,On Target - Saved,Right Foot,Freekick
+10,Germany,52,17,Florian WIRTZ,Deflected Off Target - Defensive Event,Right Foot,Cross
+10,Germany,53,7,Kai HAVERTZ,Incomplete - Blocked,Left Foot,Other
+10,Germany,53,5,Aleksandar PAVLOVIC,Off Target,Right Foot,Pass
+10,Germany,62,19,Leroy SANE,Off Target,Left Foot,Pass
+10,Germany,67,18,Nathaniel BROWN,On Target - Goal,Right Foot,Pass
+10,Germany,77,26,Deniz UNDAV,On Target - Goal,Right Foot,Pass
+10,Germany,85,22,David RAUM,Deflected On Target - Saved,Left Foot,Pass
+10,Germany,87,7,Kai HAVERTZ,Deflected On Target - Goal,Left Foot,Pass
+10,Curaçao,18,10,Leandro BACUNA,Off Target,Left Foot,Other
+10,Curaçao,20,8,Livano COMENENCIA,Deflected On Target - Goal,Left Foot,Loose Ball
+10,Curaçao,35,7,Juninho BACUNA,Off Target,Right Foot,Pass
+10,Curaçao,46,12,Sontje HANSEN,On Target - Saved,Right Foot,Pass
+10,Curaçao,61,10,Leandro BACUNA,Off Target,Head,Freekick
+10,Curaçao,66,8,Livano COMENENCIA,Incomplete - Referee Event,Right Foot,Loose Ball
+10,Curaçao,74,21,Tahith CHONG,Off Target,Left Foot,Ball Progression
+10,Curaçao,75,16,Jearl MARGARITHA,Off Target,Right Foot,Pass
+11,Netherlands,2,18,Donyell MALEN,On Target - Saved,Right Foot,Ball Progression
+11,Netherlands,33,18,Donyell MALEN,On Target - Saved,Head,Corner
+11,Netherlands,33,15,Micky VAN DE VEN,Off Target,Head,Cross
+11,Netherlands,35,11,Cody GAKPO,Off Target,Right Foot,Loose Ball
+11,Netherlands,50,4,Virgil VAN DIJK,On Target - Goal,Head,Cross
+11,Netherlands,63,24,Crysencio SUMMERVILLE,On Target - Goal,Left Foot,Pass
+11,Netherlands,72,11,Cody GAKPO,On Target - Saved,Right Foot,Pass
+11,Netherlands,72,6,Jan Paul VAN HECKE,On Target - Saved,Head,Corner
+11,Netherlands,75,20,Teun KOOPMEINERS,Deflected Off Target - Saved,Left Foot,Pass
+11,Netherlands,92,20,Teun KOOPMEINERS,Off Target,Head,Cross
+11,Japan,27,21,Hiroki ITO,Off Target,Left Foot,Pass
+11,Japan,42,13,Keito NAKAMURA,Off Target,Right Foot,Cross
+11,Japan,44,18,Ayase UEDA,Off Target,Right Foot,Pass
+11,Japan,56,13,Keito NAKAMURA,Deflected On Target - Goal,Right Foot,Pass
+11,Japan,66,8,Takefusa KUBO,Off Target,Left Foot,Loose Ball
+11,Japan,74,13,Keito NAKAMURA,Off Target,Right Foot,Corner
+11,Japan,77,19,Koki OGAWA,Incomplete,Head,Cross
+11,Japan,79,2,Yukinari SUGAWARA,On Target - Saved,Right Foot,Cross
+11,Japan,88,19,Koki OGAWA,Incomplete - Assist,Head,Corner
+12,Sweden,4,17,Viktor GYOKERES,Off Target,Right Foot,Pass
+12,Sweden,6,17,Viktor GYOKERES,On Target - Defensive Event,Left Foot,Loose Ball
+12,Sweden,6,18,Yasin AYARI,On Target - Goal,Right Foot,Loose Ball
+12,Sweden,29,9,Alexander ISAK,On Target - Goal,Right Foot,Ball Progression
+12,Sweden,32,3,Victor LINDELOF,Off Target,Head,Corner
+12,Sweden,52,17,Viktor GYOKERES,Incomplete - Blocked,Right Foot,Loose Ball
+12,Sweden,58,17,Viktor GYOKERES,On Target - Goal,Right Foot,Pass
+12,Sweden,65,17,Viktor GYOKERES,Off Target,Right Foot,Pass
+12,Sweden,67,9,Alexander ISAK,Incomplete - Blocked,Right Foot,Pass
+12,Sweden,83,19,Mattias SVANBERG,On Target - Goal,Right Foot,Pass
+12,Sweden,87,9,Alexander ISAK,On Target - Saved,Right Foot,Pass
+12,Sweden,89,7,Lucas BERGVALL,Deflected Off Target - Defensive Event,Right Foot,Pass
+12,Sweden,95,18,Yasin AYARI,On Target - Goal,Right Foot,Pass
+12,Tunisia,17,8,Elias SAAD,Off Target,Right Foot,Pass
+12,Tunisia,30,13,Rani KHEDIRA,Incomplete - Referee Event,Right Foot,Pass
+12,Tunisia,42,4,Omar REKIK,On Target - Goal,Head,Cross
+12,Tunisia,51,10,Hannibal MEJBRI,Off Target,Right Foot,Freekick
+12,Tunisia,54,3,Montassar TALBI,Incomplete - Player On Ball Error,Head,Corner
+12,Tunisia,92,7,Elias ACHOURI,On Target - Saved,Right Foot,Loose Ball
+13,Saudi Arabia,17,10,SALEM ALDAWSARI,Off Target,Right Foot,Pass
+13,Saudi Arabia,37,4,ABDULELAH ALAMRI,On Target - Saved,Right Foot,Corner
+13,Saudi Arabia,38,15,ABDULLAH ALKHAIBARI,Off Target,Right Foot,Loose Ball
+13,Saudi Arabia,40,23,MOHAMED KANNO,On Target - Saved,Head,Corner
+13,Saudi Arabia,40,4,ABDULELAH ALAMRI,On Target - Goal,Right Foot,Other
+13,Saudi Arabia,86,23,MOHAMED KANNO,Incomplete - Blocked,Right Foot,Loose Ball
+13,Saudi Arabia,86,12,SAUD ABDULHAMID,Off Target,Right Foot,Ball Progression
+13,Uruguay,4,20,Maxi ARAUJO,On Target - Saved,Left Foot,Pass
+13,Uruguay,5,21,Federico VINAS,Incomplete,Head,Corner
+13,Uruguay,20,6,Rodrigo BENTANCUR,Incomplete,Head,Freekick
+13,Uruguay,44,21,Federico VINAS,On Target - Saved,Head,Freekick
+13,Uruguay,45,9,Darwin NUNEZ,Incomplete - Player On Ball Error,Head,Corner
+13,Uruguay,45,21,Federico VINAS,On Target - Saved,Head,Cross
+13,Uruguay,49,21,Federico VINAS,Off Target,Head,Corner
+13,Uruguay,53,16,Mathias OLIVERA,Incomplete - Blocked,Head,Corner
+13,Uruguay,53,5,Manuel UGARTE,Off Target,Right Foot,Loose Ball
+13,Uruguay,58,14,Agustin CANOBBIO,Off Target,Head,Cross
+13,Uruguay,59,5,Manuel UGARTE,On Target - Saved,Right Foot,Pass
+13,Uruguay,59,25,Juan Manuel SANABRIA,Off Target,Right Foot,Loose Ball
+13,Uruguay,66,8,Federico VALVERDE,On Target - Saved,Right Foot,Freekick
+13,Uruguay,66,13,Guillermo VARELA,Incomplete - Blocked,Right Foot,Loose Ball
+13,Uruguay,78,7,Nicolas DE LA CRUZ,Incomplete - Blocked,Left Foot,Pass
+13,Uruguay,79,21,Federico VINAS,On Target - Saved,Head,Pass
+13,Uruguay,79,20,Maxi ARAUJO,On Target - Goal,Left Foot,Other
+13,Uruguay,81,25,Juan Manuel SANABRIA,Deflected Off Target - Defensive Event,Left Foot,Pass
+13,Uruguay,82,3,Sebastian CACERES,Off Target,Head,Corner
+13,Uruguay,83,18,Brian RODRIGUEZ,Off Target,Right Foot,Ball Progression
+13,Uruguay,90,7,Nicolas DE LA CRUZ,On Target - Saved,Left Foot,Pass
+13,Uruguay,92,8,Federico VALVERDE,On Target - Saved,Right Foot,Corner
+13,Uruguay,93,3,Sebastian CACERES,Off Target,Head,Corner
+13,Uruguay,94,8,Federico VALVERDE,Deflected Off Target - Defensive Event,Right Foot,Pass
+13,Uruguay,95,13,Guillermo VARELA,Incomplete - Blocked,Right Foot,Loose Ball
+13,Uruguay,95,18,Brian RODRIGUEZ,On Target - Saved,Right Foot,Pass
+13,Uruguay,97,25,Juan Manuel SANABRIA,Incomplete - Defensive Event,Right Foot,Loose Ball
+14,Spain,14,20,PEDRI,On Target - Saved,Right Foot,Loose Ball
+14,Spain,18,8,Fabian RUIZ,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+14,Spain,19,22,Pau CUBARSI,Incomplete,Right Foot,Pass
+14,Spain,28,9,GAVI,Incomplete - Blocked,Right Foot,Pass
+14,Spain,28,24,Marc CUCURELLA,Off Target,Right Foot,Other
+14,Spain,38,7,Ferran TORRES,Off Target,Right Foot,Pass
+14,Spain,38,21,Mikel OYARZABAL,On Target - Saved,Head,Other
+14,Spain,39,7,Ferran TORRES,Incomplete - Blocked,Head,Corner
+14,Spain,40,8,Fabian RUIZ,Off Target,Left Foot,Pass
+14,Spain,44,7,Ferran TORRES,On Target - Saved,Left Foot,Loose Ball
+14,Spain,46,14,Aymeric LAPORTE,Deflected On Target - Saved,Head,Corner
+14,Spain,47,16,RODRI,Incomplete - Blocked,Head,Corner
+14,Spain,48,21,Mikel OYARZABAL,Off Target,Head,Cross
+14,Spain,47,21,Mikel OYARZABAL,Incomplete - Player On Ball Error,Head,Cross
+14,Spain,47,8,Fabian RUIZ,Off Target,Left Foot,Pass
+14,Spain,50,8,Fabian RUIZ,Off Target,Left Foot,Pass
+14,Spain,55,8,Fabian RUIZ,On Target - Saved,Head,Cross
+14,Spain,57,14,Aymeric LAPORTE,Off Target,Left Foot,Pass
+14,Spain,72,6,Mikel MERINO,On Target - Saved,Right Foot,Pass
+14,Spain,74,7,Ferran TORRES,Incomplete - Blocked,Right Foot,Pass
+14,Spain,77,20,PEDRI,Incomplete - Blocked,Right Foot,Pass
+14,Spain,81,24,Marc CUCURELLA,On Target - Saved,Head,Pass
+14,Spain,84,16,RODRI,Off Target,Left Foot,Loose Ball
+14,Spain,87,21,Mikel OYARZABAL,Deflected Off Target - Defensive Event,Right Foot,Pass
+14,Spain,91,19,Lamine YAMAL,Incomplete - Defensive Event,Left Foot,Pass
+14,Spain,94,19,Lamine YAMAL,Deflected Off Target - Defensive Event,Left Foot,Interception
+14,Spain,94,21,Mikel OYARZABAL,Off Target,Head,Corner
+14,Cabo Verde,26,22,STEVEN MOREIRA,Incomplete - Blocked,Right Foot,Ball Progression
+14,Cabo Verde,34,19,DAILON LIVRAMENTO,Off Target,Right Foot,Loose Ball
+14,Cabo Verde,37,7,JOVANE CABRAL,Off Target,Right Foot,Freekick
+14,Cabo Verde,89,6,KEVIN PINA,Deflected Off Target - Defensive Event,Right Foot,Pass
+14,Cabo Verde,90,3,DINEY BORGES,On Target - Saved,Head,Corner
+14,Cabo Verde,93,20,RYAN MENDES,Off Target,Right Foot,Pass
+15,IR Iran,5,17,Arya YOUSEFI,On Target - Saved,Right Foot,Ball Progression
+15,IR Iran,22,9,Mehdi TAREMI,Off Target,Right Foot,Pass
+15,IR Iran,28,14,Saman GHODDOS,Off Target,Right Foot,Interception
+15,IR Iran,29,14,Saman GHODDOS,Off Target,Left Foot,Loose Ball
+15,IR Iran,31,20,Shahriyar MOGHANLOO,Incomplete - Defensive Event,Right Foot,Loose Ball
+15,IR Iran,31,23,Ramin REZAEIAN,On Target - Goal,Right Foot,Loose Ball
+15,IR Iran,47,20,Shahriyar MOGHANLOO,Off Target,Head,Other
+15,IR Iran,48,10,Mehdi GHAYEDI,Incomplete - Blocked,Right Foot,Pass
+15,IR Iran,50,20,Shahriyar MOGHANLOO,Off Target,Left Foot,Pass
+15,IR Iran,63,8,Mohammad MOHEBBI,On Target - Goal,Head,Cross
+15,IR Iran,72,8,Mohammad MOHEBBI,Incomplete - Blocked,Right Foot,Pass
+15,IR Iran,75,3,Ehsan HAJISAFI,Incomplete - Blocked,Left Foot,Pass
+15,IR Iran,79,9,Mehdi TAREMI,Off Target,Head,Cross
+15,IR Iran,84,11,Ali ALIPOUR,Incomplete - Blocked,Left Foot,Loose Ball
+15,IR Iran,84,6,Saeid EZATOLAHI,Off Target,Right Foot,Loose Ball
+15,IR Iran,86,6,Saeid EZATOLAHI,On Target - Saved,Right Foot,Pass
+15,IR Iran,88,19,Ali NEMATI,Incomplete,Left Foot,Loose Ball
+15,New Zealand,6,11,Elijah JUST,On Target - Goal,Right Foot,Other
+15,New Zealand,11,10,Sarpreet SINGH,Off Target,Left Foot,Ball Progression
+15,New Zealand,13,8,Marko STAMENIC,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+15,New Zealand,14,20,Callum McCOWATT,Incomplete,Right Foot,Loose Ball
+15,New Zealand,14,9,Chris WOOD,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+15,New Zealand,18,10,Sarpreet SINGH,On Target,Left Foot,Pass
+15,New Zealand,29,13,Liberato CACACE,On Target - Saved,Left Foot,Pass
+15,New Zealand,44,9,Chris WOOD,On Target - Saved,Right Foot,Freekick
+15,New Zealand,45,20,Callum McCOWATT,On Target - Saved,Left Foot,Ball Progression
+15,New Zealand,46,9,Chris WOOD,Off Target,Right Foot,Ball Progression
+15,New Zealand,54,11,Elijah JUST,On Target - Goal,Right Foot,Pass
+15,New Zealand,60,10,Sarpreet SINGH,On Target,Left Foot,Loose Ball
+15,New Zealand,80,16,Finn SURMAN,Incomplete - Player On Ball Error,Head,Cross
+15,New Zealand,92,9,Chris WOOD,On Target - Saved,Head,Cross
+16,Belgium,5,10,Leandro TROSSARD,Incomplete - Blocked,Left Foot,Pass
+16,Belgium,6,7,Kevin DE BRUYNE,Off Target,Right Foot,Pass
+16,Belgium,30,8,Youri TIELEMANS,Off Target,Head,Cross
+16,Belgium,37,10,Leandro TROSSARD,Incomplete - Player On Ball Error,Right Foot,Pass
+16,Belgium,38,10,Leandro TROSSARD,Deflected On Target - Defensive Event,Left Foot,Pass
+16,Belgium,42,7,Kevin DE BRUYNE,Incomplete,Right Foot,Pass
+16,Belgium,45,11,Jeremy DOKU,Off Target,Right Foot,Pass
+16,Belgium,52,7,Kevin DE BRUYNE,Off Target,Right Foot,Freekick
+16,Belgium,61,8,Youri TIELEMANS,Off Target,Left Foot,Loose Ball
+16,Belgium,61,7,Kevin DE BRUYNE,On Target - Saved,Right Foot,Pass
+16,Belgium,72,15,Thomas MEUNIER,On Target - Saved,Left Foot,Pass
+16,Belgium,77,9,Romelu LUKAKU,Incomplete - Blocked,Right Foot,Pass
+16,Belgium,82,4,Brandon MECHELE,On Target - Saved,Head,Pass
+16,Belgium,86,9,Romelu LUKAKU,Off Target,Head,Cross
+16,Belgium,93,4,Brandon MECHELE,Off Target,Right Foot,Freekick
+16,Egypt,19,8,EMAM ASHOUR,On Target - Goal,Right Foot,Pass
+16,Egypt,32,11,MOSTAFA ZICO,On Target - Saved,Right Foot,Pass
+16,Egypt,48,22,OMAR MARMOUSH,Off Target - Saved,Right Foot,Loose Ball
+16,Egypt,48,3,MOHAMED HANY,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+16,Egypt,47,11,MOSTAFA ZICO,Incomplete - Blocked,Left Foot,Cross
+16,Egypt,47,22,OMAR MARMOUSH,Incomplete - Blocked,Right Foot,Loose Ball
+16,Egypt,54,10,MOHAMED SALAH,On Target - Saved,Head,Cross
+16,Egypt,54,8,EMAM ASHOUR,Off Target - Player On Ball Error,Right Foot,Loose Ball
+16,Egypt,56,19,MARAWAN ATTIA,Incomplete - Blocked,Left Foot,Loose Ball
+16,Egypt,59,22,OMAR MARMOUSH,Off Target,Right Foot,Ball Progression
+16,Egypt,64,22,OMAR MARMOUSH,Deflected Off Target - Defensive Event,Right Foot,Pass
+16,Egypt,78,25,ZIZO,Incomplete - Blocked,Right Foot,Pass
+16,Egypt,83,22,OMAR MARMOUSH,Incomplete - Blocked,Right Foot,Pass
+16,Egypt,89,3,MOHAMED HANY,Incomplete - Blocked,Right Foot,Ball Progression
+17,France,18,7,Ousmane DEMBELE,Incomplete - Blocked,Left Foot,Pass
+17,France,46,20,Desire DOUE,Off Target,Left Foot,Pass
+17,France,52,11,Michael OLISE,On Target - Saved,Left Foot,Ball Progression
+17,France,56,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+17,France,64,19,Theo HERNANDEZ,Incomplete - Blocked,Left Foot,Pass
+17,France,65,10,Kylian MBAPPE,On Target - Goal,Right Foot,Pass
+17,France,71,11,Michael OLISE,On Target - Saved,Left Foot,Loose Ball
+17,France,73,20,Desire DOUE,Deflected On Target - Saved,Left Foot,Pass
+17,France,81,12,Bradley BARCOLA,On Target - Goal,Right Foot,Pass
+17,France,84,10,Kylian MBAPPE,On Target - Saved,Left Foot,Pass
+17,France,95,10,Kylian MBAPPE,On Target - Goal,Right Foot,Loose Ball
+17,Senegal,6,18,Ismaila SARR,Incomplete - Blocked,Right Foot,Pass
+17,Senegal,24,11,Nicolas JACKSON,Off Target - Player On Ball Error,Left Foot,Pass
+17,Senegal,30,18,Ismaila SARR,Off Target,Right Foot,Pass
+17,Senegal,39,10,Sadio MANE,On Target - Saved,Right Foot,Pass
+17,Senegal,50,18,Ismaila SARR,Off Target,Right Foot,Cross
+17,Senegal,94,20,Ibrahim MBAYE,On Target - Goal,Right Foot,Ball Progression
+18,Iraq,4,18,AYMEN HUSSEIN,Off Target,Head,Other
+18,Iraq,12,9,ALI ALHAMADI,Off Target,Right Foot,Pass
+18,Iraq,27,4,ZAID TAHSEEN,Off Target,Left Foot,Loose Ball
+18,Iraq,38,18,AYMEN HUSSEIN,On Target - Goal,Head,Cross
+18,Iraq,47,9,ALI ALHAMADI,Incomplete,Head,Pass
+18,Iraq,47,8,IBRAHIM BAYESH,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+18,Iraq,48,4,ZAID TAHSEEN,Off Target,Head,Cross
+18,Iraq,49,9,ALI ALHAMADI,Deflected Off Target - Defensive Event,Right Foot,Pass
+18,Iraq,50,5,AKAM HASHIM,Off Target,Left Foot,Loose Ball
+18,Iraq,52,18,AYMEN HUSSEIN,Off Target,Head,Pass
+18,Iraq,62,3,HUSSEIN ALI,Off Target,Right Foot,Pass
+18,Norway,19,9,Erling HAALAND,Off Target,Head,Corner
+18,Norway,23,7,Alexander SORLOTH,Deflected On Target - Defensive Event,Upper Body,Other
+18,Norway,28,9,Erling HAALAND,On Target - Goal,Left Foot,Cross
+18,Norway,30,7,Alexander SORLOTH,Incomplete - Blocked,Left Foot,Pass
+18,Norway,36,10,Martin ODEGAARD,Off Target,Left Foot,Pass
+18,Norway,42,9,Erling HAALAND,On Target - Goal Prevented,Right Foot,Interception
+18,Norway,75,18,Kristian THORSTVEDT,Deflected Off Target - Defensive Event,Left Foot,Pass
+18,Norway,75,4,Leo OSTIGARD,On Target - Goal,Head,Corner
+18,Norway,81,4,Leo OSTIGARD,Off Target,Head,Freekick
+18,Norway,82,9,Erling HAALAND,On Target - Saved,Left Foot,Loose Ball
+18,Norway,90,18,Kristian THORSTVEDT,Off Target,Right Foot,Loose Ball
+19,Argentina,16,10,Lionel MESSI,On Target - Goal,Left Foot,Pass
+19,Argentina,36,10,Lionel MESSI,Incomplete - Referee Event,Left Foot,Freekick
+19,Argentina,41,16,Thiago ALMADA,Off Target - Player On Ball Error,Right Foot,Pass
+19,Argentina,49,20,Alexis MAC ALLISTER,Off Target,Head,Freekick
+19,Argentina,50,10,Lionel MESSI,Off Target,Left Foot,Pass
+19,Argentina,53,22,Lautaro MARTINEZ,On Target - Saved,Right Foot,Pass
+19,Argentina,59,20,Alexis MAC ALLISTER,On Target - Saved,Right Foot,Loose Ball
+19,Argentina,59,10,Lionel MESSI,On Target - Goal,Right Foot,Other
+19,Argentina,65,10,Lionel MESSI,On Target - Saved,Left Foot,Pass
+19,Argentina,75,10,Lionel MESSI,On Target - Goal,Left Foot,Pass
+19,Algeria,40,10,Fares CHAIBI,Off Target,Head,Pass
+19,Algeria,43,10,Fares CHAIBI,Off Target,Right Foot,Ball Progression
+19,Algeria,44,10,Fares CHAIBI,Off Target,Right Foot,Pass
+19,Algeria,48,11,Anis HADJ MOUSSA,Deflected On Target - Defensive Event,Left Foot,Ball Progression
+19,Algeria,56,22,Ibrahim MAZA,Incomplete - Blocked,Right Foot,Pass
+19,Algeria,68,8,Houssem AOUAR,Off Target,Right Foot,Pass
+19,Algeria,85,7,Riyad MAHREZ,Incomplete - Blocked,Left Foot,Freekick
+20,Austria,10,8,David ALABA,Incomplete - Blocked,Left Foot,Loose Ball
+20,Austria,18,9,Marcel SABITZER,Incomplete - Blocked,Left Foot,Pass
+20,Austria,20,18,Romano SCHMID,On Target - Goal,Right Foot,Pass
+20,Austria,32,5,Stefan POSCH,Off Target,Right Foot,Loose Ball
+20,Austria,48,14,Sasa KALAJDZIC,Off Target,Right Foot,Pass
+20,Austria,59,5,Stefan POSCH,Off Target,Right Foot,Other
+20,Austria,62,17,Carney CHUKWUEMEKA,On Target - Goal Prevented,Right Foot,Pass
+20,Austria,91,7,Marko ARNAUTOVIC,On Target - Saved,Left Foot,Loose Ball
+20,Austria,93,20,Konrad LAIMER,Off Target,Right Foot,Loose Ball
+20,Austria,101,7,Marko ARNAUTOVIC,On Target - Goal,Right Foot,Penalty
+20,Jordan,1,23,EHSAN HADDAD,Off Target,Right Foot,Pass
+20,Jordan,8,10,MOUSA ALTAMARI,On Target - Saved,Left Foot,Pass
+20,Jordan,16,11,ODEH FAKHOURY,Deflected On Target - Saved,Right Foot,Freekick
+20,Jordan,21,9,ALI OLWAN,Off Target,Head,Cross
+20,Jordan,33,9,ALI OLWAN,On Target - Saved,Right Foot,Pass
+20,Jordan,33,10,MOUSA ALTAMARI,Incomplete - Blocked,Left Foot,Other
+20,Jordan,43,10,MOUSA ALTAMARI,Incomplete - Blocked,Left Foot,Freekick
+20,Jordan,45,10,MOUSA ALTAMARI,Off Target,Left Foot,Ball Progression
+20,Jordan,49,9,ALI OLWAN,On Target - Goal,Right Foot,Pass
+20,Jordan,54,9,ALI OLWAN,Incomplete - Blocked,Right Foot,Ball Progression
+20,Jordan,92,24,ALI AZAIZEH,Off Target,Left Foot,Ball Progression
+21,Ghana,47,4,Jonas ADJETEY,On Target - Saved,Head,Cross
+21,Ghana,49,3,Caleb YIRENKYI,Off Target,Right Foot,Pass
+21,Ghana,58,7,Abdul FATAWU,Off Target,Left Foot,Loose Ball
+21,Ghana,65,11,Antoine SEMENYO,Incomplete - Player On Ball Error,Head,Other
+21,Ghana,66,11,Antoine SEMENYO,Incomplete - Blocked,Left Foot,Loose Ball
+21,Ghana,72,4,Jonas ADJETEY,Off Target,Head,Freekick
+21,Ghana,94,3,Caleb YIRENKYI,On Target - Goal,Right Foot,Cross
+21,Panama,1,18,Cecilio WATERMAN,On Target - Saved,Right Foot,Cross
+21,Panama,4,2,Cesar BLACKMAN,Incomplete - Blocked,Right Foot,Pass
+21,Panama,37,13,Jiovany RAMOS,Off Target,Right Foot,Loose Ball
+21,Panama,52,11,Edgar Yoel BARCENAS,Incomplete - Blocked,Left Foot,Loose Ball
+21,Panama,59,14,Carlos HARVEY,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+21,Panama,59,6,Cristian MARTINEZ,Off Target,Right Foot,Loose Ball
+21,Panama,63,2,Cesar BLACKMAN,On Target - Saved,Right Foot,Pass
+21,Panama,66,13,Jiovany RAMOS,Off Target,Left Foot,Ball Progression
+21,Panama,84,10,Ismael DIAZ,On Target - Saved,Right Foot,Other
+21,Panama,86,11,Edgar Yoel BARCENAS,Off Target,Right Foot,Pass
+21,Panama,98,10,Ismael DIAZ,On Target - Saved,Head,Pass
+22,England,7,9,Harry KANE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+22,England,8,2,Ezri KONSA,Incomplete - Player On Ball Error,Head,Other
+22,England,11,9,Harry KANE,On Target - Goal,Right Foot,Penalty
+22,England,15,20,Noni MADUEKE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+22,England,15,8,Elliot ANDERSON,Incomplete - Blocked,Right Foot,Loose Ball
+22,England,30,10,Jude BELLINGHAM,Incomplete - Player On Ball Error,Left Foot,Cross
+22,England,34,9,Harry KANE,Incomplete - Player On Ball Error,Head,Cross
+22,England,41,9,Harry KANE,On Target - Goal,Head,Corner
+22,England,45,24,Reece JAMES,Incomplete - Blocked,Right Foot,Freekick
+22,England,46,10,Jude BELLINGHAM,On Target - Goal,Right Foot,Pass
+22,England,47,10,Jude BELLINGHAM,On Target - Saved,Right Foot,Loose Ball
+22,England,48,3,Nico OREILLY,Off Target,Head,Corner
+22,England,51,4,Declan RICE,On Target - Saved,Right Foot,Pass
+22,England,55,3,Nico OREILLY,On Target - Saved,Head,Corner
+22,England,55,18,Anthony GORDON,On Target - Saved,Head,Other
+22,England,55,2,Ezri KONSA,On Target - Saved,Right Foot,Loose Ball
+22,England,56,9,Harry KANE,On Target - Saved,Left Foot,Pass
+22,England,56,9,Harry KANE,Off Target - Saved,Right Foot,Pass
+22,England,68,18,Anthony GORDON,Incomplete - Blocked,Right Foot,Pass
+22,England,81,25,Djed SPENCE,On Target - Saved,Right Foot,Pass
+22,England,84,11,Marcus RASHFORD,On Target - Goal,Right Foot,Pass
+22,England,95,9,Harry KANE,Off Target,Right Foot,Pass
+22,Croatia,2,6,Josip SUTALO,Off Target,Right Foot,Corner
+22,Croatia,35,16,Martin BATURINA,On Target - Goal,Right Foot,Pass
+22,Croatia,48,15,Mario PASALIC,Off Target,Right Foot,Pass
+22,Croatia,49,26,Petar MUSA,On Target - Goal,Right Foot,Pass
+22,Croatia,75,24,Marco PASALIC,On Target - Saved,Left Foot,Pass
+22,Croatia,76,20,Igor MATANOVIC,Deflected On Target - Saved,Right Foot,Ball Progression
+22,Croatia,80,17,Petar SUCIC,Off Target,Right Foot,Loose Ball
+22,Croatia,83,8,Mateo KOVACIC,On Target - Saved,Right Foot,Loose Ball
+22,Croatia,93,9,Andrej KRAMARIC,Incomplete - Blocked,Right Foot,Pass
+22,Croatia,94,4,Josko GVARDIOL,Incomplete - Blocked,Right Foot,Loose Ball
+23,Portugal,5,15,JOAO NEVES,On Target - Goal,Head,Cross
+23,Portugal,38,8,BRUNO FERNANDES,Incomplete - Blocked,Right Foot,Pass
+23,Portugal,67,7,CRISTIANO RONALDO,Off Target,Right Foot,Pass
+23,Portugal,73,7,CRISTIANO RONALDO,Off Target,Right Foot,Cross
+23,Portugal,77,26,FRANCISCO CONCEICAO,Deflected Off Target - Defensive Event,Left Foot,Cross
+23,Portugal,89,8,BRUNO FERNANDES,Off Target,Left Foot,Other
+23,Portugal,91,7,CRISTIANO RONALDO,Incomplete - Player On Ball Error,Upper Body,Cross
+23,Congo DR,10,20,Yoane WISSA,Off Target,Left Foot,Loose Ball
+23,Congo DR,13,17,Cedric BAKAMBU,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+23,Congo DR,32,25,Edo KAYEMBE,Deflected On Target - Saved,Left Foot,Ball Progression
+23,Congo DR,45,8,Samuel MOUTOUSSAMY,Incomplete,Left Foot,Pass
+23,Congo DR,47,8,Samuel MOUTOUSSAMY,Deflected Off Target - Defensive Event,Left Foot,Pass
+23,Congo DR,49,20,Yoane WISSA,On Target - Goal,Head,Cross
+23,Congo DR,62,3,Steve KAPUADI,Off Target,Head,Pass
+23,Congo DR,76,17,Cedric BAKAMBU,Off Target,Right Foot,Pass
+24,Uzbekistan,46,24,Behruzjon KARIMOV,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+24,Uzbekistan,59,14,Eldor SHOMURODOV,On Target - Saved,Right Foot,Cross
+24,Uzbekistan,59,22,Abbosbek FAYZULLAEV,On Target - Goal,Head,Other
+24,Uzbekistan,87,17,Dostonbek KHAMDAMOV,Deflected Off Target - Defensive Event,Left Foot,Pass
+24,Uzbekistan,89,6,Akmal MOZGOVOY,Off Target,Right Foot,Pass
+24,Uzbekistan,91,17,Dostonbek KHAMDAMOV,Incomplete - Player On Ball Error,Head,Pass
+24,Uzbekistan,100,20,Azizbek AMONOV,Incomplete - Blocked,Right Foot,Ball Progression
+24,Uzbekistan,100,24,Behruzjon KARIMOV,Off Target,Right Foot,Loose Ball
+24,Colombia,16,11,Jhon ARIAS,Off Target,Right Foot,Pass
+24,Colombia,31,7,Luis DIAZ,Off Target,Left Foot,Pass
+24,Colombia,39,10,James RODRIGUEZ,Incomplete - Blocked,Left Foot,Loose Ball
+24,Colombia,40,2,Daniel MUNOZ,On Target - Goal,Right Foot,Pass
+24,Colombia,44,10,James RODRIGUEZ,On Target - Saved,Left Foot,Pass
+24,Colombia,48,16,Jefferson LERMA,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+24,Colombia,48,14,Gustavo PUERTA,Incomplete - Blocked,Right Foot,Pass
+24,Colombia,63,11,Jhon ARIAS,Incomplete - Blocked,Left Foot,Pass
+24,Colombia,63,16,Jefferson LERMA,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+24,Colombia,63,23,Davinson SANCHEZ,Off Target,Head,Loose Ball
+24,Colombia,64,7,Luis DIAZ,On Target - Goal,Right Foot,Pass
+24,Colombia,81,17,Johan MOJICA,Off Target,Left Foot,Pass
+24,Colombia,85,16,Jefferson LERMA,Off Target,Right Foot,Pass
+24,Colombia,86,21,Jaminton CAMPAZ,Off Target,Left Foot,Other
+24,Colombia,98,21,Jaminton CAMPAZ,On Target - Goal,Head,Cross
+25,Czechia,0,10,Patrik SCHICK,Off Target,Head,Cross
+25,Czechia,4,7,Ladislav KREJCI,Incomplete - Player On Ball Error,Head,Corner
+25,Czechia,4,18,Michal SADILEK,Off Target,Left Foot,Loose Ball
+25,Czechia,5,18,Michal SADILEK,Deflected On Target - Goal,Left Foot,Pass
+25,Czechia,41,9,Adam HLOZEK,Off Target,Right Foot,Freekick
+25,Czechia,46,8,Vladimir DARIDA,Incomplete - Blocked,Right Foot,Pass
+25,Czechia,46,12,Lukas CERV,On Target - Saved,Left Foot,Loose Ball
+25,Czechia,47,10,Patrik SCHICK,On Target - Saved,Head,Corner
+25,Czechia,52,7,Ladislav KREJCI,Off Target,Head,Corner
+25,Czechia,58,18,Michal SADILEK,Incomplete - Defensive Event,Left Foot,Pass
+25,Czechia,67,7,Ladislav KREJCI,Incomplete - Blocked,Head,Other
+25,Czechia,89,7,Ladislav KREJCI,Incomplete - Player On Ball Error,Head,Cross
+25,Czechia,90,20,Jaroslav ZELENY,Incomplete - Referee Event,Head,Freekick
+25,Czechia,93,17,Lukas PROVOD,Off Target,Left Foot,Loose Ball
+25,South Africa,11,7,Oswin APPOLLIS,Deflected Off Target - Defensive Event,Right Foot,Pass
+25,South Africa,12,6,Aubrey MODIBA,Off Target,Left Foot,Pass
+25,South Africa,21,15,Iqraam RAYNERS,Incomplete - Blocked,Head,Cross
+25,South Africa,44,4,Teboho MOKOENA,Off Target,Right Foot,Pass
+25,South Africa,48,12,Thapelo MASEKO,Incomplete - Blocked,Left Foot,Loose Ball
+25,South Africa,49,14,Mbekezeli MBOKAZI,Incomplete - Blocked,Left Foot,Loose Ball
+25,South Africa,53,12,Thapelo MASEKO,Off Target,Left Foot,Pass
+25,South Africa,59,6,Aubrey MODIBA,Off Target,Left Foot,Pass
+25,South Africa,73,17,Evidence MAKGOPA,On Target - Saved,Head,Pass
+25,South Africa,75,14,Mbekezeli MBOKAZI,Incomplete - Blocked,Left Foot,Freekick
+25,South Africa,80,12,Thapelo MASEKO,Incomplete - Blocked,Left Foot,Pass
+25,South Africa,82,4,Teboho MOKOENA,On Target - Goal,Right Foot,Penalty
+25,South Africa,85,5,Thalente MBATHA,Incomplete - Blocked,Right Foot,Loose Ball
+25,South Africa,87,10,Relebohile MOFOKENG,On Target - Saved,Right Foot,Loose Ball
+25,South Africa,95,17,Evidence MAKGOPA,On Target - Saved,Left Foot,Loose Ball
+25,South Africa,96,6,Aubrey MODIBA,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+25,South Africa,96,14,Mbekezeli MBOKAZI,Incomplete - Blocked,Left Foot,Pass
+26,Switzerland,7,10,Granit XHAKA,Deflected Off Target - Defensive Event,Left Foot,Pass
+26,Switzerland,9,11,Dan NDOYE,Off Target,Left Foot,Pass
+26,Switzerland,19,11,Dan NDOYE,Deflected On Target - Saved,Right Foot,Pass
+26,Switzerland,22,8,Remo FREULER,Off Target,Right Foot,Pass
+26,Switzerland,50,11,Dan NDOYE,On Target - Saved,Right Foot,Pass
+26,Switzerland,52,20,Michel AEBISCHER,Off Target,Head,Pass
+26,Switzerland,54,11,Dan NDOYE,Deflected Off Target - Defensive Event,Right Foot,Pass
+26,Switzerland,61,7,Breel EMBOLO,Deflected Off Target - Defensive Event,Head,Loose Ball
+26,Switzerland,73,9,Johan MANZAMBI,On Target - Goal,Right Foot,Loose Ball
+26,Switzerland,80,17,Ruben VARGAS,On Target - Saved,Right Foot,Freekick
+26,Switzerland,83,17,Ruben VARGAS,On Target - Goal,Right Foot,Pass
+26,Switzerland,89,9,Johan MANZAMBI,On Target - Goal,Right Foot,Pass
+26,Switzerland,96,10,Granit XHAKA,On Target - Goal,Left Foot,Penalty
+26,Bosnia and Herzegovina,1,11,Edin DZEKO,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+26,Bosnia and Herzegovina,37,15,Amar MEMIC,On Target - Saved,Right Foot,Pass
+26,Bosnia and Herzegovina,40,11,Edin DZEKO,Incomplete - Blocked,Left Foot,Pass
+26,Bosnia and Herzegovina,67,7,Amar DEDIC,On Target - Saved,Right Foot,Pass
+26,Bosnia and Herzegovina,92,26,Ermin MAHMIC,On Target - Goal,Right Foot,Loose Ball
+27,Canada,6,10,Jonathan DAVID,On Target - Saved,Right Foot,Cross
+27,Canada,14,7,Stephen EUSTAQUIO,Incomplete - Defensive Event,Right Foot,Loose Ball
+27,Canada,15,10,Jonathan DAVID,On Target - Saved,Right Foot,Cross
+27,Canada,15,9,Cyle LARIN,On Target - Goal,Left Foot,Other
+27,Canada,20,13,Derek CORNELIUS,Off Target,Head,Freekick
+27,Canada,28,17,Tajon BUCHANAN,Incomplete - Blocked,Left Foot,Ball Progression
+27,Canada,28,10,Jonathan DAVID,On Target - Goal,Right Foot,Loose Ball
+27,Canada,34,20,Ali AHMED,Off Target,Right Foot,Freekick
+27,Canada,37,17,Tajon BUCHANAN,On Target - Goal Prevented,Right Foot,Cross
+27,Canada,39,10,Jonathan DAVID,Deflected On Target - Defensive Event,Right Foot,Pass
+27,Canada,44,9,Cyle LARIN,Deflected Off Target - Defensive Event,Right Foot,Pass
+27,Canada,47,9,Cyle LARIN,On Target - Saved,Head,Cross
+27,Canada,47,10,Jonathan DAVID,On Target - Goal,Right Foot,Other
+27,Canada,49,2,Alistair JOHNSTON,On Target - Saved,Right Foot,Pass
+27,Canada,47,8,Ismael KONE,Incomplete - Blocked,Left Foot,Pass
+27,Canada,49,9,Cyle LARIN,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+27,Canada,61,20,Ali AHMED,Incomplete - Foul For,Left Foot,Pass
+27,Canada,63,25,Nathan SALIBA,On Target - Goal,Right Foot,Freekick
+27,Canada,74,17,Tajon BUCHANAN,Incomplete - Blocked,Left Foot,Loose Ball
+27,Canada,74,14,Jacob SHAFFELBURG,Off Target - Defensive Event,Left Foot,Loose Ball
+27,Canada,76,17,Tajon BUCHANAN,Off Target,Right Foot,Pass
+27,Canada,77,22,Richie LARYEA,Deflected Off Target - Defensive Event,Right Foot,Pass
+27,Canada,79,14,Jacob SHAFFELBURG,Off Target,Left Foot,Loose Ball
+27,Canada,81,14,Jacob SHAFFELBURG,Off Target,Left Foot,Loose Ball
+27,Canada,83,10,Jonathan DAVID,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+27,Canada,83,12,Tani OLUWASEYI,Incomplete - Blocked,Left Foot,Loose Ball
+27,Canada,85,10,Jonathan DAVID,Incomplete - Blocked,Left Foot,Pass
+27,Canada,89,23,Niko SIGUR,Incomplete - Blocked,Right Foot,Pass
+27,Canada,91,25,Nathan SALIBA,Incomplete - Assist,Right Foot,Pass
+27,Canada,91,10,Jonathan DAVID,On Target - Goal,Left Foot,Loose Ball
+27,Canada,94,9,Cyle LARIN,Incomplete - Blocked,Head,Cross
+27,Canada,97,9,Cyle LARIN,Incomplete - Referee Event,Head,Cross
+27,Canada,99,25,Nathan SALIBA,Incomplete - Player On Ball Error,Head,Cross
+27,Qatar,0,8,EDMILSON JUNIOR,Off Target,Right Foot,Cross
+27,Qatar,9,16,BOUALEM KHOUKHI,Deflected Off Target - Defensive Event,Right Foot,Freekick
+28,Mexico,6,25,Roberto ALVARADO,Off Target - Saved,Left Foot,Loose Ball
+28,Mexico,7,26,Brian GUTIERREZ,Off Target - Saved,Right Foot,Pass
+28,Mexico,19,16,Julian QUINONES,On Target - Saved,Head,Cross
+28,Mexico,48,23,Jesus GALLARDO,Off Target,Left Foot,Pass
+28,Mexico,49,9,Raul JIMENEZ,Incomplete - Blocked,Head,Cross
+28,Mexico,49,7,Luis ROMO,On Target - Goal,Right Foot,Loose Ball
+28,Mexico,74,9,Raul JIMENEZ,On Target - Saved,Right Foot,Pass
+28,Mexico,84,18,Obed VARGAS,On Target - Saved,Right Foot,Other
+28,Korea Republic,40,22,SEOL Youngwoo,Off Target,Left Foot,Pass
+28,Korea Republic,43,19,LEE Kangin,Incomplete - Blocked,Right Foot,Pass
+28,Korea Republic,57,6,HWANG Inbeom,Incomplete - Blocked,Left Foot,Loose Ball
+28,Korea Republic,77,19,LEE Kangin,Off Target,Left Foot,Pass
+28,Korea Republic,86,9,CHO Guesung,On Target - Saved,Head,Cross
+28,Korea Republic,86,20,YANG Hyunjun,On Target - Saved,Left Foot,Other
+28,Korea Republic,91,2,LEE Hanbeom,Off Target,Head,Corner
+28,Korea Republic,93,9,CHO Guesung,Deflected Off Target - Defensive Event,Head,Cross
+28,Korea Republic,93,18,OH Hyeongyu,Incomplete - Player On Ball Error,Head,Corner
+29,Brazil,16,7,VINICIUS JUNIOR,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+29,Brazil,22,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Pass
+29,Brazil,28,11,RAPHINHA,On Target - Saved,Left Foot,Pass
+29,Brazil,35,9,MATHEUS CUNHA,On Target - Goal,Left Foot,Pass
+29,Brazil,47,7,VINICIUS JUNIOR,On Target - Goal,Right Foot,Pass
+29,Brazil,75,16,DOUGLAS SANTOS,Off Target,Left Foot,Pass
+29,Brazil,90,2,EDERSON SILVA,Incomplete - Player On Ball Error,Right Foot,Cross
+29,Haiti,48,18,Wilson ISIDOR,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+29,Haiti,62,4,Ricardo ADE,On Target - Saved,Head,Corner
+29,Haiti,65,15,Ruben PROVIDENCE,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+29,Haiti,65,22,Jean-Kevin DUVERNE,Off Target,Right Foot,Loose Ball
+29,Haiti,86,18,Wilson ISIDOR,On Target - Saved,Left Foot,Pass
+29,Haiti,88,4,Ricardo ADE,Off Target,Right Foot,Pass
+29,Haiti,92,25,Dominique SIMON,On Target - Saved,Right Foot,Pass
+30,Scotland,45,7,John McGINN,Off Target,Right Foot,Cross
+30,Scotland,46,6,Kieran TIERNEY,Incomplete - Blocked,Left Foot,Pass
+30,Scotland,63,11,Ryan CHRISTIE,Off Target,Right Foot,Pass
+30,Scotland,84,4,Scott McTOMINAY,Deflected Off Target - Defensive Event,Right Foot,Pass
+30,Scotland,85,9,Lyndon DYKES,Off Target,Head,Corner
+30,Scotland,87,4,Scott McTOMINAY,Incomplete - Blocked,Left Foot,Loose Ball
+30,Morocco,1,11,Ismael SAIBARI,On Target - Goal,Right Foot,Pass
+30,Morocco,20,6,Ayyoub BOUADDI,Incomplete - Blocked,Right Foot,Loose Ball
+30,Morocco,29,24,Neil EL AYNAOUI,Off Target,Right Foot,Pass
+30,Morocco,35,23,Bilal EL KHANNOUSS,Off Target,Right Foot,Pass
+30,Morocco,37,2,Achraf HAKIMI,Incomplete - Player On Ball Error,Right Foot,Cross
+30,Morocco,49,11,Ismael SAIBARI,Deflected Off Target - Defensive Event,Left Foot,Cross
+30,Morocco,51,23,Bilal EL KHANNOUSS,On Target - Saved,Head,Corner
+30,Morocco,57,10,Brahim DIAZ,Incomplete - Blocked,Right Foot,Pass
+30,Morocco,61,2,Achraf HAKIMI,Off Target,Right Foot,Ball Progression
+30,Morocco,90,7,Chemsdine TALBI,Incomplete - Blocked,Right Foot,Pass
+30,Morocco,92,7,Chemsdine TALBI,Off Target,Left Foot,Pass
+30,Morocco,94,21,Ayoube AMAIMOUNI,Off Target,Left Foot,Pass
+31,Türkiye,13,8,Arda GULER,Off Target,Right Foot,Cross
+31,Türkiye,14,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Ball Progression
+31,Türkiye,20,10,Hakan CALHANOGLU,Incomplete - Blocked,Right Foot,Loose Ball
+31,Türkiye,24,8,Arda GULER,Incomplete - Blocked,Left Foot,Loose Ball
+31,Türkiye,29,11,Kenan YILDIZ,On Target - Saved,Right Foot,Pass
+31,Türkiye,34,18,Mert MULDUR,Off Target,Head,Freekick
+31,Türkiye,35,11,Kenan YILDIZ,Incomplete - Defensive Event,Right Foot,Pass
+31,Türkiye,44,10,Hakan CALHANOGLU,Incomplete - Blocked,Right Foot,Pass
+31,Türkiye,50,16,Ismail YUKSEK,Off Target,Left Foot,Loose Ball
+31,Türkiye,52,16,Ismail YUKSEK,Off Target,Right Foot,Pass
+31,Türkiye,53,14,Abdulkerim BARDAKCI,Incomplete - Blocked,Left Foot,Pass
+31,Türkiye,54,10,Hakan CALHANOGLU,Incomplete - Blocked,Right Foot,Pass
+31,Türkiye,46,3,Merih DEMIRAL,On Target - Saved,Right Foot,Pass
+31,Türkiye,47,11,Kenan YILDIZ,Off Target,Left Foot,Pass
+31,Türkiye,56,10,Hakan CALHANOGLU,Off Target,Left Foot,Pass
+31,Türkiye,58,3,Merih DEMIRAL,Deflected On Target - Saved,Right Foot,Pass
+31,Türkiye,61,9,Deniz GUL,On Target - Saved,Head,Cross
+31,Türkiye,61,11,Kenan YILDIZ,Off Target,Right Foot,Pass
+31,Türkiye,64,3,Merih DEMIRAL,Off Target,Right Foot,Pass
+31,Türkiye,72,21,Baris Alper YILMAZ,Off Target,Right Foot,Pass
+31,Türkiye,74,18,Mert MULDUR,Deflected Off Target - Defensive Event,Head,Corner
+31,Türkiye,75,10,Hakan CALHANOGLU,Incomplete - Blocked,Right Foot,Other
+31,Türkiye,77,18,Mert MULDUR,Off Target,Head,Cross
+31,Türkiye,79,3,Merih DEMIRAL,Off Target,Right Foot,Cross
+31,Türkiye,81,26,Can UZUN,Off Target,Right Foot,Pass
+31,Türkiye,85,8,Arda GULER,Deflected Off Target - Defensive Event,Left Foot,Pass
+31,Türkiye,88,26,Can UZUN,On Target - Saved,Right Foot,Pass
+31,Türkiye,88,9,Deniz GUL,Off Target,Left Foot,Other
+31,Türkiye,95,11,Kenan YILDIZ,Incomplete - Blocked,Right Foot,Pass
+31,Türkiye,96,26,Can UZUN,Incomplete - Blocked,Right Foot,Pass
+31,Türkiye,96,3,Merih DEMIRAL,Off Target,Head,Cross
+31,Türkiye,98,10,Hakan CALHANOGLU,Off Target,Right Foot,Loose Ball
+31,Paraguay,1,23,Matias GALARZA,On Target - Goal,Left Foot,Pass
+31,Paraguay,10,3,Omar ALDERETE,Incomplete - Blocked,Left Foot,Loose Ball
+31,Paraguay,10,8,Diego GOMEZ,Off Target,Right Foot,Loose Ball
+31,Paraguay,36,4,Juan Jose CACERES,On Target - Saved,Right Foot,Pass
+31,Paraguay,59,19,Julio ENCISO,Off Target,Left Foot,Ball Progression
+31,Paraguay,88,15,Gustavo GOMEZ,Incomplete - Blocked,Head,Loose Ball
+31,Paraguay,89,23,Matias GALARZA,Incomplete - Blocked,Left Foot,Pass
+32,USA,4,9,Ricardo PEPI,Deflected Off Target - Defensive Event,Head,Cross
+32,USA,8,2,Sergino DEST,Incomplete - Blocked,Left Foot,Pass
+32,USA,14,8,Weston McKENNIE,Incomplete - Blocked,Head,Corner
+32,USA,16,8,Weston McKENNIE,Off Target,Right Foot,Freekick
+32,USA,21,20,Folarin BALOGUN,Incomplete - Blocked,Left Foot,Pass
+32,USA,37,9,Ricardo PEPI,Incomplete - Blocked,Head,Cross
+32,USA,42,2,Sergino DEST,Incomplete - Defensive Event,Right Foot,Freekick
+32,USA,42,16,Alex FREEMAN,On Target - Goal,Head,Loose Ball
+32,USA,51,2,Sergino DEST,On Target - Saved,Left Foot,Pass
+32,USA,51,20,Folarin BALOGUN,Deflected Off Target - Defensive Event,Right Foot,Pass
+32,Australia,0,9,Mohamed TOURE,On Target - Saved,Right Foot,Ball Progression
+32,Australia,12,7,Mathew LECKIE,Off Target,Right Foot,Loose Ball
+32,Australia,61,20,Cristian VOLPATO,Off Target,Right Foot,Pass
+32,Australia,64,8,Connor METCALFE,On Target - Saved,Left Foot,Pass
+32,Australia,86,3,Alessandro CIRCATI,Off Target,Left Foot,Loose Ball
+33,Germany,0,7,Kai HAVERTZ,Off Target,Left Foot,Pass
+33,Germany,9,7,Kai HAVERTZ,On Target - Saved,Head,Pass
+33,Germany,17,10,Jamal MUSIALA,Off Target,Right Foot,Pass
+33,Germany,20,23,Felix NMECHA,Deflected Off Target - Defensive Event,Right Foot,Pass
+33,Germany,40,17,Florian WIRTZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+33,Germany,41,10,Jamal MUSIALA,Incomplete - Defensive Event,Left Foot,Loose Ball
+33,Germany,46,23,Felix NMECHA,Incomplete - Blocked,Right Foot,Loose Ball
+33,Germany,51,17,Florian WIRTZ,On Target - Saved,Right Foot,Ball Progression
+33,Germany,56,2,Antonio RUEDIGER,Off Target,Right Foot,Pass
+33,Germany,60,9,Jamie LEWELING,Off Target,Left Foot,Pass
+33,Germany,62,7,Kai HAVERTZ,Off Target,Head,Corner
+33,Germany,67,26,Deniz UNDAV,On Target - Goal,Left Foot,Cross
+33,Germany,85,26,Deniz UNDAV,On Target - Saved,Right Foot,Pass
+33,Germany,88,18,Nathaniel BROWN,On Target - Saved,Left Foot,Pass
+33,Germany,90,20,Nadiem AMIRI,On Target - Saved,Right Foot,Pass
+33,Germany,93,26,Deniz UNDAV,On Target - Goal,Left Foot,Pass
+33,Côte d'Ivoire,11,5,Wilfried SINGO,Incomplete - Blocked,Right Foot,Loose Ball
+33,Côte d'Ivoire,29,15,Amad DIALLO,Incomplete - Blocked,Left Foot,Cross
+33,Côte d'Ivoire,29,8,Franck KESSIE,On Target - Goal,Right Foot,Loose Ball
+33,Côte d'Ivoire,37,9,Ange-Yoan BONNY,On Target - Saved,Right Foot,Pass
+33,Côte d'Ivoire,45,3,Ghislain KONAN,Incomplete - Blocked,Left Foot,Pass
+33,Côte d'Ivoire,49,8,Franck KESSIE,Incomplete - Defensive Event,Right Foot,Pass
+33,Côte d'Ivoire,50,26,Christ Inao OULAI,Off Target,Right Foot,Pass
+33,Côte d'Ivoire,55,11,Yan DIOMANDE,Off Target,Right Foot,Loose Ball
+33,Côte d'Ivoire,83,6,Seko FOFANA,Incomplete - Blocked,Right Foot,Pass
+34,Ecuador,2,13,Enner VALENCIA,On Target - Saved,Right Foot,Pass
+34,Ecuador,11,9,John YEBOAH,On Target - Saved,Left Foot,Pass
+34,Ecuador,13,15,Pedro VITE,Off Target,Left Foot,Ball Progression
+34,Ecuador,15,19,Gonzalo PLATA,On Target - Saved,Left Foot,Loose Ball
+34,Ecuador,19,13,Enner VALENCIA,Deflected On Target - Saved,Right Foot,Cross
+34,Ecuador,21,5,Jordy ALCIVAR,Deflected Off Target - Defensive Event,Right Foot,Pass
+34,Ecuador,27,19,Gonzalo PLATA,On Target - Saved,Right Foot,Pass
+34,Ecuador,41,9,John YEBOAH,On Target - Saved,Left Foot,Pass
+34,Ecuador,49,23,Moises CAICEDO,On Target - Saved,Right Foot,Pass
+34,Ecuador,49,19,Gonzalo PLATA,Off Target,Left Foot,Pass
+34,Ecuador,53,19,Gonzalo PLATA,Off Target,Right Foot,Pass
+34,Ecuador,58,3,Piero HINCAPIE,Incomplete - Player On Ball Error,Head,Corner
+34,Ecuador,58,19,Gonzalo PLATA,On Target - Saved,Head,Loose Ball
+34,Ecuador,60,13,Enner VALENCIA,On Target - Saved,Right Foot,Pass
+34,Ecuador,61,11,Kevin RODRIGUEZ,Off Target,Left Foot,Ball Progression
+34,Ecuador,63,11,Kevin RODRIGUEZ,Off Target,Head,Corner
+34,Ecuador,64,13,Enner VALENCIA,On Target - Saved,Head,Cross
+34,Ecuador,65,11,Kevin RODRIGUEZ,On Target - Saved,Head,Corner
+34,Ecuador,65,13,Enner VALENCIA,Incomplete - Blocked,Right Foot,Loose Ball
+34,Ecuador,65,6,Willian PACHO,On Target - Saved,Head,Loose Ball
+34,Ecuador,66,11,Kevin RODRIGUEZ,Incomplete - Blocked,Right Foot,Cross
+34,Ecuador,72,20,Nilson ANGULO,On Target - Saved,Right Foot,Ball Progression
+34,Ecuador,72,9,John YEBOAH,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+34,Ecuador,73,3,Piero HINCAPIE,Off Target,Head,Corner
+34,Ecuador,76,13,Enner VALENCIA,On Target - Saved,Head,Cross
+34,Ecuador,79,15,Pedro VITE,On Target - Saved,Left Foot,Pass
+34,Ecuador,83,13,Enner VALENCIA,Off Target,Right Foot,Loose Ball
+34,Curaçao,8,5,Sherel FLORANUS,Off Target,Right Foot,Pass
+34,Curaçao,17,8,Livano COMENENCIA,Incomplete - Blocked,Right Foot,Pass
+34,Curaçao,29,7,Juninho BACUNA,Incomplete,Left Foot,Pass
+34,Curaçao,32,7,Juninho BACUNA,Deflected Off Target - Defensive Event,Right Foot,Pass
+34,Curaçao,46,8,Livano COMENENCIA,Off Target - Saved,Left Foot,Ball Progression
+34,Curaçao,56,10,Leandro BACUNA,Off Target,Right Foot,Pass
+34,Curaçao,59,10,Leandro BACUNA,On Target - Saved,Right Foot,Pass
+34,Curaçao,59,8,Livano COMENENCIA,On Target - Saved,Right Foot,Pass
+34,Curaçao,59,9,Juergen LOCADIA,Deflected Off Target - Defensive Event,Right Foot,Other
+34,Curaçao,73,7,Juninho BACUNA,On Target - Saved,Left Foot,Pass
+35,Netherlands,5,19,Brian BROBBEY,On Target - Goal,Right Foot,Cross
+35,Netherlands,10,11,Cody GAKPO,On Target - Saved,Head,Cross
+35,Netherlands,14,14,Tijjani REIJNDERS,Off Target,Left Foot,Loose Ball
+35,Netherlands,16,19,Brian BROBBEY,On Target - Goal,Right Foot,Cross
+35,Netherlands,37,11,Cody GAKPO,On Target - Saved,Right Foot,Ball Progression
+35,Netherlands,46,11,Cody GAKPO,On Target - Goal,Left Foot,Cross
+35,Netherlands,49,11,Cody GAKPO,Incomplete - Defensive Event,Right Foot,Pass
+35,Netherlands,53,11,Cody GAKPO,On Target - Goal,Right Foot,Ball Progression
+35,Netherlands,56,8,Ryan GRAVENBERCH,Off Target,Right Foot,Pass
+35,Netherlands,88,24,Crysencio SUMMERVILLE,Deflected On Target - Goal,Right Foot,Pass
+35,Sweden,6,17,Viktor GYOKERES,On Target - Saved,Right Foot,Pass
+35,Sweden,26,16,Jesper KARLSTROM,Incomplete,Right Foot,Pass
+35,Sweden,30,18,Yasin AYARI,Off Target,Right Foot,Pass
+35,Sweden,32,17,Viktor GYOKERES,Off Target - Saved,Right Foot,Pass
+35,Sweden,36,17,Viktor GYOKERES,On Target - Saved,Right Foot,Pass
+35,Sweden,40,18,Yasin AYARI,Off Target,Right Foot,Pass
+35,Sweden,47,17,Viktor GYOKERES,On Target - Saved,Right Foot,Freekick
+35,Sweden,48,10,Benjamin NYGREN,Off Target,Left Foot,Loose Ball
+35,Sweden,49,18,Yasin AYARI,On Target - Saved,Right Foot,Pass
+35,Sweden,51,18,Yasin AYARI,Incomplete - Blocked,Right Foot,Pass
+35,Sweden,56,18,Yasin AYARI,Off Target,Right Foot,Ball Progression
+35,Sweden,58,11,Anthony ELANGA,On Target - Goal,Left Foot,Pass
+35,Sweden,83,9,Alexander ISAK,On Target - Saved,Right Foot,Pass
+35,Sweden,84,22,Besfort ZENELI,On Target - Saved,Left Foot,Pass
+35,Sweden,91,17,Viktor GYOKERES,Incomplete - Blocked,Right Foot,Pass
+35,Sweden,95,2,Gustaf LAGERBIELKE,On Target - Saved,Head,Corner
+36,Tunisia,2,10,Hannibal MEJBRI,Off Target,Right Foot,Loose Ball
+36,Tunisia,74,11,Ismael GHARBI,Incomplete - Blocked,Left Foot,Ball Progression
+36,Japan,5,18,Ayase UEDA,Off Target,Left Foot,Pass
+36,Japan,9,18,Ayase UEDA,Deflected On Target - Saved,Right Foot,Loose Ball
+36,Japan,9,22,Takehiro TOMIYASU,Off Target - Saved,Right Foot,Other
+36,Japan,30,18,Ayase UEDA,On Target - Goal,Right Foot,Pass
+36,Japan,47,7,Ao TANAKA,Off Target,Right Foot,Pass
+36,Japan,62,18,Ayase UEDA,Deflected Off Target - Defensive Event,Right Foot,Pass
+36,Japan,65,13,Keito NAKAMURA,Incomplete - Blocked,Right Foot,Pass
+36,Japan,68,14,Junya ITO,On Target - Goal,Right Foot,Pass
+36,Japan,82,18,Ayase UEDA,On Target - Goal,Head,Cross
+36,Japan,84,14,Junya ITO,Incomplete - Blocked,Right Foot,Ball Progression
+37,Uruguay,6,6,Rodrigo BENTANCUR,Incomplete - Blocked,Head,Corner
+37,Uruguay,13,8,Federico VALVERDE,Off Target,Left Foot,Pass
+37,Uruguay,23,8,Federico VALVERDE,Deflected Off Target - Defensive Event,Right Foot,Pass
+37,Uruguay,23,8,Federico VALVERDE,Deflected Off Target - Defensive Event,Right Foot,Pass
+37,Uruguay,27,8,Federico VALVERDE,Off Target,Right Foot,Loose Ball
+37,Uruguay,32,5,Manuel UGARTE,Off Target,Right Foot,Loose Ball
+37,Uruguay,33,8,Federico VALVERDE,Off Target,Right Foot,Pass
+37,Uruguay,39,20,Maxi ARAUJO,Off Target,Head,Cross
+37,Uruguay,41,3,Sebastian CACERES,Incomplete - Blocked,Right Foot,Pass
+37,Uruguay,43,20,Maxi ARAUJO,On Target - Goal,Head,Loose Ball
+37,Uruguay,50,14,Agustin CANOBBIO,On Target - Goal,Right Foot,Pass
+37,Uruguay,66,8,Federico VALVERDE,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+37,Uruguay,78,7,Nicolas DE LA CRUZ,Off Target,Right Foot,Pass
+37,Uruguay,85,18,Brian RODRIGUEZ,Deflected Off Target - Defensive Event,Right Foot,Other
+37,Uruguay,85,6,Rodrigo BENTANCUR,Deflected Off Target - Defensive Event,Head,Corner
+37,Uruguay,89,8,Federico VALVERDE,Off Target,Right Foot,Freekick
+37,Uruguay,92,14,Agustin CANOBBIO,Off Target,Right Foot,Ball Progression
+37,Cabo Verde,20,6,KEVIN PINA,On Target - Goal,Right Foot,Freekick
+37,Cabo Verde,42,3,DINEY BORGES,Incomplete - Player On Ball Error,Right Foot,Ball Progression
+37,Cabo Verde,51,13,SIDNY LOPES CABRAL,Off Target,Right Foot,Ball Progression
+37,Cabo Verde,58,10,JAMIRO MONTEIRO,Incomplete - Blocked,Right Foot,Freekick
+37,Cabo Verde,60,26,HELIO VARELA,On Target - Goal,Right Foot,Ball Progression
+37,Cabo Verde,62,10,JAMIRO MONTEIRO,Off Target,Right Foot,Pass
+37,Cabo Verde,75,4,PICO LOPES,Deflected Off Target - Defensive Event,Head,Corner
+37,Cabo Verde,92,13,SIDNY LOPES CABRAL,Incomplete - Blocked,Left Foot,Pass
+37,Cabo Verde,92,20,RYAN MENDES,Incomplete - Blocked,Right Foot,Loose Ball
+37,Cabo Verde,93,15,LAROS DUARTE,On Target - Saved,Left Foot,Pass
+37,Cabo Verde,95,20,RYAN MENDES,Incomplete - Blocked,Right Foot,Ball Progression
+37,Cabo Verde,96,15,LAROS DUARTE,On Target - Saved,Right Foot,Freekick
+38,Spain,1,15,Alex BAENA,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+38,Spain,3,19,Lamine YAMAL,Off Target,Left Foot,Ball Progression
+38,Spain,7,10,Dani OLMO,Off Target,Right Foot,Corner
+38,Spain,9,12,Pedro PORRO,Off Target,Right Foot,Pass
+38,Spain,9,19,Lamine YAMAL,On Target - Goal,Right Foot,Cross
+38,Spain,12,20,PEDRI,Off Target,Left Foot,Loose Ball
+38,Spain,14,15,Alex BAENA,Off Target,Right Foot,Pass
+38,Spain,16,21,Mikel OYARZABAL,On Target - Saved,Right Foot,Ball Progression
+38,Spain,20,10,Dani OLMO,Incomplete - Blocked,Right Foot,Loose Ball
+38,Spain,20,21,Mikel OYARZABAL,On Target - Goal,Left Foot,Pass
+38,Spain,23,21,Mikel OYARZABAL,On Target - Goal,Left Foot,Pass
+38,Spain,29,19,Lamine YAMAL,Off Target,Left Foot,Pass
+38,Spain,35,21,Mikel OYARZABAL,Off Target,Left Foot,Loose Ball
+38,Spain,35,19,Lamine YAMAL,On Target - Saved,Left Foot,Pass
+38,Spain,36,19,Lamine YAMAL,Off Target,Left Foot,Pass
+38,Spain,41,21,Mikel OYARZABAL,Off Target,Left Foot,Loose Ball
+38,Spain,45,16,RODRI,Off Target,Left Foot,Pass
+38,Spain,48,24,Marc CUCURELLA,On Target - Saved,Left Foot,Loose Ball
+38,Spain,52,12,Pedro PORRO,On Target - Saved,Right Foot,Pass
+38,Spain,52,7,Ferran TORRES,On Target - Saved,Head,Other
+38,Spain,64,7,Ferran TORRES,Off Target,Right Foot,Pass
+38,Spain,97,6,Mikel MERINO,Incomplete - Blocked,Left Foot,Pass
+38,Saudi Arabia,34,4,ABDULELAH ALAMRI,Off Target - Saved,Right Foot,Loose Ball
+38,Saudi Arabia,48,10,SALEM ALDAWSARI,Deflected On Target - Defensive Event,Right Foot,Loose Ball
+38,Saudi Arabia,80,19,ABDULLAH ALHAMDDAN,On Target - Saved,Left Foot,Loose Ball
+39,Belgium,7,7,Kevin DE BRUYNE,Off Target,Right Foot,Pass
+39,Belgium,8,7,Kevin DE BRUYNE,Incomplete - Blocked,Right Foot,Cross
+39,Belgium,8,5,Maxim DE CUYPER,On Target - Saved,Right Foot,Loose Ball
+39,Belgium,9,9,Romelu LUKAKU,Incomplete - Blocked,Left Foot,Pass
+39,Belgium,18,10,Leandro TROSSARD,Incomplete - Blocked,Left Foot,Pass
+39,Belgium,21,8,Youri TIELEMANS,On Target - Saved,Right Foot,Pass
+39,Belgium,22,25,Nathan NGOY,Off Target,Right Foot,Loose Ball
+39,Belgium,41,7,Kevin DE BRUYNE,On Target - Saved,Right Foot,Pass
+39,Belgium,43,5,Maxim DE CUYPER,On Target - Saved,Left Foot,Pass
+39,Belgium,43,22,Alexis SAELEMAEKERS,Incomplete - Blocked,Left Foot,Pass
+39,Belgium,47,7,Kevin DE BRUYNE,Deflected Off Target - Saved,Right Foot,Pass
+39,Belgium,46,7,Kevin DE BRUYNE,Incomplete - Blocked,Left Foot,Pass
+39,Belgium,49,22,Alexis SAELEMAEKERS,Off Target,Right Foot,Corner
+39,Belgium,50,5,Maxim DE CUYPER,Incomplete - Blocked,Left Foot,Ball Progression
+39,Belgium,58,5,Maxim DE CUYPER,On Target - Saved,Right Foot,Loose Ball
+39,Belgium,61,14,Dodi LUKEBAKIO,On Target - Saved,Left Foot,Pass
+39,Belgium,61,20,Hans VANAKEN,Off Target,Left Foot,Other
+39,Belgium,83,8,Youri TIELEMANS,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+39,Belgium,83,20,Hans VANAKEN,Off Target,Left Foot,Cross
+39,Belgium,85,5,Maxim DE CUYPER,On Target - Saved,Right Foot,Cross
+39,Belgium,92,4,Brandon MECHELE,Off Target,Head,Cross
+39,Belgium,93,26,Matias FERNANDEZ-PARDO,Off Target,Right Foot,Ball Progression
+39,Belgium,94,14,Dodi LUKEBAKIO,Off Target,Left Foot,Pass
+39,IR Iran,13,13,Hossein KANANI,On Target - Saved,Right Foot,Pass
+39,IR Iran,14,6,Saeid EZATOLAHI,Off Target,Head,Corner
+39,IR Iran,45,7,Alireza JAHANBAKHSH,Off Target,Left Foot,Ball Progression
+39,IR Iran,52,9,Mehdi TAREMI,On Target - Saved,Right Foot,Pass
+39,IR Iran,64,4,Shoja KHALILZADEH,Off Target,Head,Corner
+39,IR Iran,80,6,Saeid EZATOLAHI,On Target - Saved,Right Foot,Tackle
+39,IR Iran,87,18,Amirhossein HOSSEINZADEH,Incomplete - Blocked,Right Foot,Pass
+40,New Zealand,6,10,Sarpreet SINGH,Off Target,Left Foot,Pass
+40,New Zealand,13,11,Elijah JUST,On Target - Saved,Left Foot,Pass
+40,New Zealand,14,16,Finn SURMAN,On Target - Goal,Head,Corner
+40,New Zealand,18,11,Elijah JUST,Incomplete - Blocked,Left Foot,Loose Ball
+40,New Zealand,18,20,Callum McCOWATT,On Target - Saved,Left Foot,Loose Ball
+40,New Zealand,25,6,Joe BELL,Incomplete - Blocked,Right Foot,Pass
+40,New Zealand,26,9,Chris WOOD,Off Target,Head,Cross
+40,New Zealand,51,20,Callum McCOWATT,On Target - Saved,Head,Cross
+40,New Zealand,64,8,Marko STAMENIC,Incomplete - Blocked,Right Foot,Pass
+40,New Zealand,97,8,Marko STAMENIC,Incomplete,Right Foot,Loose Ball
+40,New Zealand,97,4,Tyler BINDON,On Target - Saved,Left Foot,Loose Ball
+40,Egypt,5,10,MOHAMED SALAH,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+40,Egypt,19,3,MOHAMED HANY,Deflected Off Target - Defensive Event,Right Foot,Pass
+40,Egypt,20,11,MOSTAFA ZICO,Off Target,Head,Cross
+40,Egypt,26,22,OMAR MARMOUSH,On Target - Saved,Right Foot,Pass
+40,Egypt,34,10,MOHAMED SALAH,Off Target,Left Foot,Freekick
+40,Egypt,45,8,EMAM ASHOUR,Off Target,Left Foot,Cross
+40,Egypt,45,10,MOHAMED SALAH,On Target - Saved,Right Foot,Cross
+40,Egypt,46,22,OMAR MARMOUSH,Off Target,Right Foot,Freekick
+40,Egypt,48,11,MOSTAFA ZICO,Incomplete - Blocked,Right Foot,Pass
+40,Egypt,49,8,EMAM ASHOUR,Off Target,Left Foot,Pass
+40,Egypt,49,22,OMAR MARMOUSH,Incomplete - Blocked,Right Foot,Pass
+40,Egypt,54,11,MOSTAFA ZICO,Incomplete - Blocked,Left Foot,Pass
+40,Egypt,54,8,EMAM ASHOUR,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+40,Egypt,57,11,MOSTAFA ZICO,On Target - Goal,Head,Cross
+40,Egypt,66,10,MOHAMED SALAH,On Target - Goal,Left Foot,Pass
+40,Egypt,79,13,AHMED FATOUH,On Target - Saved,Right Foot,Loose Ball
+40,Egypt,80,10,MOHAMED SALAH,Deflected Off Target - Defensive Event,Left Foot,Pass
+40,Egypt,81,7,TREZEGUET,On Target - Goal,Head,Corner
+40,Egypt,92,25,ZIZO,On Target - Saved,Right Foot,Interception
+41,Norway,1,20,Antonio NUSA,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+41,Norway,2,3,Kristoffer AJER,On Target - Saved,Head,Corner
+41,Norway,13,10,Martin ODEGAARD,Off Target,Left Foot,Cross
+41,Norway,36,10,Martin ODEGAARD,On Target - Saved,Left Foot,Pass
+41,Norway,41,10,Martin ODEGAARD,Incomplete - Blocked,Left Foot,Pass
+41,Norway,42,16,Marcus HOLMGREN PEDERSEN,On Target - Goal,Right Foot,Loose Ball
+41,Norway,48,9,Erling HAALAND,Off Target,Left Foot,Loose Ball
+41,Norway,48,9,Erling HAALAND,On Target - Saved,Head,Cross
+41,Norway,47,9,Erling HAALAND,On Target - Goal,Left Foot,Pass
+41,Norway,57,20,Antonio NUSA,Incomplete - Player On Ball Error,Right Foot,Other
+41,Norway,57,9,Erling HAALAND,On Target - Goal,Right Foot,Pass
+41,Norway,87,9,Erling HAALAND,Incomplete - Blocked,Left Foot,Pass
+41,Norway,89,22,Oscar BOBB,On Target - Goal Prevented,Left Foot,Loose Ball
+41,Senegal,7,5,Idrissa Gana GUEYE,Incomplete - Blocked,Right Foot,Loose Ball
+41,Senegal,16,11,Nicolas JACKSON,Incomplete - Blocked,Left Foot,Pass
+41,Senegal,27,11,Nicolas JACKSON,Off Target,Right Foot,Pass
+41,Senegal,38,5,Idrissa Gana GUEYE,Off Target,Right Foot,Pass
+41,Senegal,40,8,Lamine CAMARA,Off Target,Right Foot,Pass
+41,Senegal,45,18,Ismaila SARR,On Target - Saved,Right Foot,Cross
+41,Senegal,51,11,Nicolas JACKSON,On Target - Saved,Head,Cross
+41,Senegal,52,18,Ismaila SARR,On Target - Goal,Right Foot,Pass
+41,Senegal,55,8,Lamine CAMARA,Off Target,Right Foot,Pass
+41,Senegal,73,18,Ismaila SARR,Incomplete - Blocked,Right Foot,Pass
+41,Senegal,80,17,Pape Matar SARR,Off Target,Right Foot,Loose Ball
+41,Senegal,82,18,Ismaila SARR,Incomplete - Referee Event,Left Foot,Cross
+41,Senegal,91,17,Pape Matar SARR,Deflected Off Target - Saved,Right Foot,Loose Ball
+41,Senegal,92,18,Ismaila SARR,On Target - Goal,Right Foot,Cross
+41,Senegal,98,20,Ibrahim MBAYE,Incomplete - Blocked,Right Foot,Pass
+41,Senegal,98,18,Ismaila SARR,Off Target,Head,Corner
+42,France,1,6,Manu KONE,Off Target,Left Foot,Loose Ball
+42,France,7,11,Michael OLISE,Incomplete - Blocked,Left Foot,Loose Ball
+42,France,7,10,Kylian MBAPPE,Off Target,Right Foot,Loose Ball
+42,France,13,11,Michael OLISE,Incomplete - Blocked,Left Foot,Pass
+42,France,13,10,Kylian MBAPPE,On Target - Goal,Left Foot,Pass
+42,France,31,10,Kylian MBAPPE,Incomplete - Blocked,Right Foot,Pass
+42,France,39,10,Kylian MBAPPE,Off Target,Right Foot,Loose Ball
+42,France,52,12,Bradley BARCOLA,Incomplete - Player On Ball Error,Head,Cross
+42,France,53,10,Kylian MBAPPE,On Target - Goal,Right Foot,Pass
+42,France,57,11,Michael OLISE,Off Target,Left Foot,Pass
+42,France,58,7,Ousmane DEMBELE,On Target - Saved,Right Foot,Pass
+42,France,58,14,Adrien RABIOT,Off Target,Head,Other
+42,France,64,7,Ousmane DEMBELE,Deflected Off Target - Defensive Event,Left Foot,Pass
+42,France,65,17,William SALIBA,Deflected Off Target - Defensive Event,Head,Cross
+42,France,65,7,Ousmane DEMBELE,Off Target,Right Foot,Loose Ball
+42,France,65,7,Ousmane DEMBELE,On Target - Goal,Right Foot,Pass
+42,France,79,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+42,France,87,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+42,France,89,10,Kylian MBAPPE,Off Target,Left Foot,Ball Progression
+42,Iraq,26,9,ALI ALHAMADI,Incomplete - Blocked,Left Foot,Pass
+42,Iraq,26,9,ALI ALHAMADI,Off Target,Head,Cross
+42,Iraq,73,2,REBIN SULAKA,Off Target,Right Foot,Corner
+42,Iraq,75,9,ALI ALHAMADI,Off Target,Right Foot,Cross
+43,Argentina,8,10,Lionel MESSI,Off Target,Left Foot,Penalty
+43,Argentina,31,10,Lionel MESSI,On Target - Goal Prevented,Left Foot,Loose Ball
+43,Argentina,37,10,Lionel MESSI,On Target - Goal,Left Foot,Cross
+43,Argentina,61,24,Enzo FERNANDEZ,Incomplete - Blocked,Right Foot,Pass
+43,Argentina,64,10,Lionel MESSI,Off Target,Left Foot,Pass
+43,Argentina,72,15,Nico GONZALEZ,Off Target,Head,Corner
+43,Argentina,85,15,Nico GONZALEZ,Incomplete - Blocked,Right Foot,Pass
+43,Argentina,85,24,Enzo FERNANDEZ,Incomplete - Blocked,Right Foot,Loose Ball
+43,Argentina,93,9,Julian ALVAREZ,On Target - Saved,Left Foot,Pass
+43,Argentina,94,10,Lionel MESSI,On Target - Saved,Left Foot,Pass
+43,Argentina,94,10,Lionel MESSI,On Target - Goal,Left Foot,Loose Ball
+43,Argentina,97,10,Lionel MESSI,Off Target,Left Foot,Freekick
+43,Austria,22,24,Paul WANNER,Incomplete,Head,Pass
+43,Austria,22,9,Marcel SABITZER,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+43,Austria,45,9,Marcel SABITZER,Deflected Off Target - Defensive Event,Right Foot,Pass
+43,Austria,54,9,Marcel SABITZER,On Target - Saved,Right Foot,Freekick
+43,Austria,66,11,Michael GREGORITSCH,Off Target,Head,Cross
+43,Austria,92,21,Patrick WIMMER,Off Target,Head,Pass
+44,Jordan,0,21,NIZAR ALRASHDAN,Off Target,Head,Freekick
+44,Jordan,11,10,MOUSA ALTAMARI,On Target - Saved,Left Foot,Pass
+44,Jordan,22,9,ALI OLWAN,On Target - Saved,Right Foot,Loose Ball
+44,Jordan,35,10,MOUSA ALTAMARI,Incomplete - Assist,Left Foot,Pass
+44,Jordan,35,21,NIZAR ALRASHDAN,On Target - Goal,Right Foot,Loose Ball
+44,Jordan,45,9,ALI OLWAN,Off Target,Right Foot,Other
+44,Jordan,61,8,NOOR ALRAWABDEH,Off Target,Right Foot,Loose Ball
+44,Jordan,71,13,MAHMOUD ALMARDI,On Target - Saved,Left Foot,Pass
+44,Algeria,2,9,Amine GOUIRI,Off Target,Right Foot,Pass
+44,Algeria,20,10,Fares CHAIBI,Incomplete - Blocked,Right Foot,Pass
+44,Algeria,28,9,Amine GOUIRI,On Target - Saved,Right Foot,Pass
+44,Algeria,32,7,Riyad MAHREZ,On Target - Saved,Left Foot,Pass
+44,Algeria,47,17,Rafik BELGHALI,Incomplete - Defensive Event,Left Foot,Loose Ball
+44,Algeria,53,22,Ibrahim MAZA,On Target - Saved,Right Foot,Pass
+44,Algeria,53,15,Rayan AIT-NOURI,Off Target,Right Foot,Other
+44,Algeria,59,22,Ibrahim MAZA,Off Target,Left Foot,Pass
+44,Algeria,62,12,Nadhir BENBOUALI,On Target - Saved,Head,Pass
+44,Algeria,65,22,Ibrahim MAZA,Deflected Off Target - Defensive Event,Head,Freekick
+44,Algeria,68,12,Nadhir BENBOUALI,On Target - Goal,Head,Corner
+44,Algeria,72,10,Fares CHAIBI,On Target - Saved,Right Foot,Freekick
+44,Algeria,77,19,Nabil BENTALEB,Incomplete - Blocked,Left Foot,Pass
+44,Algeria,79,11,Anis HADJ MOUSSA,Deflected Off Target - Defensive Event,Right Foot,Pass
+44,Algeria,81,21,Ramy BENSEBAINI,Incomplete - Blocked,Head,Corner
+44,Algeria,81,9,Amine GOUIRI,On Target - Goal,Right Foot,Loose Ball
+44,Algeria,88,22,Ibrahim MAZA,On Target - Saved,Right Foot,Pass
+45,England,13,4,Declan RICE,Off Target,Right Foot,Freekick
+45,England,14,8,Elliot ANDERSON,Deflected Off Target - Defensive Event,Right Foot,Pass
+45,England,15,4,Declan RICE,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+45,England,32,10,Jude BELLINGHAM,Incomplete - Blocked,Right Foot,Loose Ball
+45,England,36,4,Declan RICE,Off Target,Head,Cross
+45,England,48,9,Harry KANE,Deflected Off Target - Defensive Event,Left Foot,Pass
+45,England,56,20,Noni MADUEKE,Deflected Off Target - Defensive Event,Left Foot,Pass
+45,England,56,18,Anthony GORDON,On Target - Saved,Right Foot,Pass
+45,England,60,8,Elliot ANDERSON,Deflected Off Target - Defensive Event,Head,Freekick
+45,England,61,8,Elliot ANDERSON,Off Target,Head,Corner
+45,England,62,8,Elliot ANDERSON,Incomplete - Blocked,Right Foot,Loose Ball
+45,England,63,20,Noni MADUEKE,Off Target,Left Foot,Pass
+45,England,68,9,Harry KANE,On Target - Saved,Left Foot,Loose Ball
+45,England,69,7,Bukayo SAKA,Off Target,Head,Cross
+45,England,85,7,Bukayo SAKA,On Target - Saved,Left Foot,Pass
+45,England,85,3,Nico OREILLY,Off Target,Head,Cross
+45,England,85,9,Harry KANE,Off Target,Left Foot,Other
+45,England,92,3,Nico OREILLY,Incomplete - Player On Ball Error,Head,Corner
+45,England,92,6,Marc GUEHI,Incomplete - Defensive Event,Head,Cross
+45,Ghana,49,26,Marvin SENAYA,Incomplete - Blocked,Right Foot,Pass
+45,Ghana,78,25,Prince ADU,Incomplete - Referee Event,Left Foot,Loose Ball
+46,Panama,3,23,Amir MURILLO,Incomplete - Blocked,Right Foot,Ball Progression
+46,Panama,59,17,Jose FAJARDO,Incomplete - Player On Ball Error,Head,Cross
+46,Panama,67,23,Amir MURILLO,On Target - Saved,Right Foot,Loose Ball
+46,Panama,67,14,Carlos HARVEY,Off Target - Saved,Head,Cross
+46,Panama,77,7,Jose Luis RODRIGUEZ,Off Target,Left Foot,Pass
+46,Panama,79,14,Carlos HARVEY,Off Target,Right Foot,Corner
+46,Panama,83,18,Cecilio WATERMAN,Incomplete - Blocked,Right Foot,Pass
+46,Panama,92,23,Amir MURILLO,Off Target,Right Foot,Freekick
+46,Croatia,1,10,Luka MODRIC,Off Target,Head,Cross
+46,Croatia,45,16,Martin BATURINA,Off Target - Saved,Right Foot,Pass
+46,Croatia,53,11,Ante BUDIMIR,On Target - Goal,Lower Body,Cross
+46,Croatia,56,24,Marco PASALIC,On Target - Saved,Left Foot,Pass
+46,Croatia,56,24,Marco PASALIC,Off Target,Left Foot,Other
+46,Croatia,81,21,Luka SUCIC,Deflected Off Target - Defensive Event,Left Foot,Freekick
+47,Portugal,1,8,BRUNO FERNANDES,Deflected Off Target - Defensive Event,Left Foot,Pass
+47,Portugal,3,7,CRISTIANO RONALDO,Incomplete - Player On Ball Error,Right Foot,Cross
+47,Portugal,5,7,CRISTIANO RONALDO,On Target - Goal,Right Foot,Cross
+47,Portugal,10,20,JOAO CANCELO,Incomplete - Blocked,Right Foot,Loose Ball
+47,Portugal,16,25,NUNO MENDES,On Target - Goal,Left Foot,Freekick
+47,Portugal,20,23,VITINHA,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+47,Portugal,38,7,CRISTIANO RONALDO,On Target - Goal,Right Foot,Pass
+47,Portugal,41,11,JOAO FELIX,Off Target,Left Foot,Pass
+47,Portugal,50,7,CRISTIANO RONALDO,On Target - Goal Prevented,Right Foot,Pass
+47,Portugal,46,11,JOAO FELIX,Off Target,Right Foot,Loose Ball
+47,Portugal,57,7,CRISTIANO RONALDO,On Target - Saved,Right Foot,Freekick
+47,Portugal,59,11,JOAO FELIX,On Target - Saved,Right Foot,Corner
+47,Portugal,72,7,CRISTIANO RONALDO,Off Target,Left Foot,Cross
+47,Portugal,73,7,CRISTIANO RONALDO,Deflected On Target - Saved,Left Foot,Loose Ball
+47,Portugal,83,8,BRUNO FERNANDES,On Target - Saved,Right Foot,Pass
+47,Portugal,86,17,RAFAEL LEAO,On Target - Goal,Right Foot,Loose Ball
+47,Portugal,92,16,FRANCISCO TRINCAO,Off Target,Left Foot,Cross
+47,Uzbekistan,18,13,Sherzod NASRULLAEV,On Target - Saved,Left Foot,Pass
+47,Uzbekistan,42,7,Otabek SHUKUROV,Off Target,Right Foot,Loose Ball
+47,Uzbekistan,46,9,Odiljon XAMROBEKOV,Incomplete - Blocked,Right Foot,Pass
+47,Uzbekistan,51,22,Abbosbek FAYZULLAEV,On Target - Saved,Right Foot,Pass
+47,Uzbekistan,54,7,Otabek SHUKUROV,Deflected Off Target - Defensive Event,Left Foot,Pass
+47,Uzbekistan,61,19,Azizjon GANIEV,Incomplete - Blocked,Right Foot,Pass
+47,Uzbekistan,77,14,Eldor SHOMURODOV,Off Target,Right Foot,Pass
+48,Colombia,3,11,Jhon ARIAS,On Target - Saved,Right Foot,Pass
+48,Colombia,3,2,Daniel MUNOZ,Off Target,Right Foot,Other
+48,Colombia,10,10,James RODRIGUEZ,On Target - Saved,Left Foot,Pass
+48,Colombia,11,3,Jhon LUCUMI,Off Target,Head,Corner
+48,Colombia,14,17,Johan MOJICA,On Target - Saved,Left Foot,Pass
+48,Colombia,15,7,Luis DIAZ,On Target - Saved,Right Foot,Ball Progression
+48,Colombia,16,14,Gustavo PUERTA,Off Target,Left Foot,Loose Ball
+48,Colombia,18,14,Gustavo PUERTA,On Target - Saved,Right Foot,Pass
+48,Colombia,23,7,Luis DIAZ,Incomplete - Blocked,Right Foot,Pass
+48,Colombia,30,7,Luis DIAZ,Incomplete - Blocked,Right Foot,Pass
+48,Colombia,38,23,Davinson SANCHEZ,On Target - Saved,Head,Freekick
+48,Colombia,40,25,Luis SUAREZ,Incomplete - Blocked,Right Foot,Loose Ball
+48,Colombia,44,7,Luis DIAZ,Incomplete - Defensive Event,Left Foot,Ball Progression
+48,Colombia,47,14,Gustavo PUERTA,Incomplete - Blocked,Right Foot,Pass
+48,Colombia,49,7,Luis DIAZ,On Target - Saved,Left Foot,Cross
+48,Colombia,49,11,Jhon ARIAS,Off Target,Left Foot,Other
+48,Colombia,75,2,Daniel MUNOZ,Deflected On Target - Goal,Left Foot,Pass
+48,Colombia,85,14,Gustavo PUERTA,Deflected Off Target - Defensive Event,Right Foot,Pass
+48,Colombia,85,14,Gustavo PUERTA,On Target - Saved,Right Foot,Loose Ball
+48,Colombia,95,20,Juan QUINTERO,Off Target,Left Foot,Freekick
+48,Congo DR,0,25,Edo KAYEMBE,Off Target,Left Foot,Pass
+48,Congo DR,44,17,Cedric BAKAMBU,Off Target,Head,Corner
+48,Congo DR,52,8,Samuel MOUTOUSSAMY,Off Target,Left Foot,Pass
+48,Congo DR,73,20,Yoane WISSA,Deflected Off Target - Defensive Event,Right Foot,Pass
+48,Congo DR,88,12,Joris KAYEMBE,Incomplete - Blocked,Left Foot,Pass
+48,Congo DR,90,7,Nathanael MBUKU,On Target - Saved,Left Foot,Loose Ball
+48,Congo DR,92,18,Charles PICKEL,Incomplete - Player On Ball Error,Right Foot,Corner
+49,Scotland,32,19,Lewis FERGUSON,Incomplete - Defensive Event,Right Foot,Loose Ball
+49,Scotland,35,23,Kenny McLEAN,Incomplete - Blocked,Left Foot,Pass
+49,Scotland,46,17,Ben GANNON-DOAK,Incomplete - Blocked,Right Foot,Pass
+49,Scotland,50,17,Ben GANNON-DOAK,Incomplete - Defensive Event,Right Foot,Pass
+49,Scotland,48,4,Scott McTOMINAY,On Target - Saved,Head,Cross
+49,Scotland,63,19,Lewis FERGUSON,On Target - Saved,Right Foot,Freekick
+49,Scotland,63,4,Scott McTOMINAY,On Target - Saved,Head,Cross
+49,Scotland,71,20,Lawrence SHANKLAND,Incomplete,Left Foot,Cross
+49,Scotland,71,4,Scott McTOMINAY,Off Target,Left Foot,Loose Ball
+49,Scotland,75,20,Lawrence SHANKLAND,Off Target,Head,Corner
+49,Scotland,82,11,Ryan CHRISTIE,Incomplete - Blocked,Left Foot,Loose Ball
+49,Scotland,83,6,Kieran TIERNEY,Incomplete - Blocked,Left Foot,Pass
+49,Scotland,88,24,Anthony RALSTON,On Target - Saved,Left Foot,Cross
+49,Scotland,95,4,Scott McTOMINAY,On Target - Saved,Left Foot,Cross
+49,Brazil,6,5,CASEMIRO,Incomplete - Blocked,Right Foot,Pass
+49,Brazil,6,7,VINICIUS JUNIOR,On Target - Goal,Right Foot,Ball Progression
+49,Brazil,10,8,BRUNO GUIMARAES,Incomplete - Blocked,Right Foot,Pass
+49,Brazil,11,9,MATHEUS CUNHA,Off Target,Right Foot,Pass
+49,Brazil,19,7,VINICIUS JUNIOR,Off Target,Right Foot,Pass
+49,Brazil,37,26,RAYAN,Off Target,Left Foot,Pass
+49,Brazil,41,9,MATHEUS CUNHA,Off Target,Right Foot,Ball Progression
+49,Brazil,44,9,MATHEUS CUNHA,Deflected On Target - Goal Prevented,Right Foot,Cross
+49,Brazil,47,7,VINICIUS JUNIOR,On Target - Goal,Head,Cross
+49,Brazil,50,26,RAYAN,On Target - Saved,Right Foot,Ball Progression
+49,Brazil,51,16,DOUGLAS SANTOS,Deflected Off Target - Referee Event,Left Foot,Loose Ball
+49,Brazil,50,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Pass
+49,Brazil,53,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Pass
+49,Brazil,58,9,MATHEUS CUNHA,Incomplete - Blocked,Right Foot,Pass
+49,Brazil,58,20,LUCAS PAQUETA,Off Target,Right Foot,Loose Ball
+49,Brazil,59,9,MATHEUS CUNHA,On Target - Goal,Right Foot,Pass
+49,Brazil,78,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Pass
+49,Brazil,80,7,VINICIUS JUNIOR,Off Target,Right Foot,Cross
+49,Brazil,85,3,GABRIEL MAGALHAES,Incomplete - Blocked,Left Foot,Corner
+49,Brazil,89,10,NEYMAR JR,On Target - Saved,Right Foot,Other
+49,Brazil,95,7,VINICIUS JUNIOR,Incomplete - Blocked,Left Foot,Pass
+50,Morocco,11,20,Ayoub EL KAABI,On Target - Saved,Right Foot,Pass
+50,Morocco,12,11,Ismael SAIBARI,Off Target,Right Foot,Cross
+50,Morocco,13,11,Ismael SAIBARI,Incomplete - Blocked,Left Foot,Pass
+50,Morocco,22,11,Ismael SAIBARI,Off Target - Saved,Right Foot,Pass
+50,Morocco,27,20,Ayoub EL KAABI,Incomplete - Player On Ball Error,Upper Body,Cross
+50,Morocco,29,2,Achraf HAKIMI,On Target - Saved,Left Foot,Pass
+50,Morocco,29,20,Ayoub EL KAABI,On Target - Saved,Left Foot,Other
+50,Morocco,35,11,Ismael SAIBARI,Off Target,Head,Cross
+50,Morocco,38,2,Achraf HAKIMI,On Target - Goal,Lower Body,Loose Ball
+50,Morocco,45,11,Ismael SAIBARI,On Target - Goal,Right Foot,Cross
+50,Morocco,47,10,Brahim DIAZ,Off Target,Left Foot,Pass
+50,Morocco,48,23,Bilal EL KHANNOUSS,On Target - Saved,Right Foot,Pass
+50,Morocco,49,24,Neil EL AYNAOUI,On Target - Saved,Head,Freekick
+50,Morocco,58,23,Bilal EL KHANNOUSS,On Target - Saved,Right Foot,Loose Ball
+50,Morocco,74,2,Achraf HAKIMI,Incomplete - Blocked,Right Foot,Freekick
+50,Morocco,74,2,Achraf HAKIMI,Incomplete - Blocked,Right Foot,Other
+50,Morocco,76,9,Soufiane RAHIMI,Deflected Off Target - Defensive Event,Head,Corner
+50,Morocco,77,18,Chadi RIAD,Incomplete - Assist,Head,Corner
+50,Morocco,77,9,Soufiane RAHIMI,Deflected On Target - Goal,Right Foot,Loose Ball
+50,Morocco,87,2,Achraf HAKIMI,On Target - Saved,Right Foot,Freekick
+50,Morocco,88,8,Azzedine OUNAHI,Incomplete - Blocked,Right Foot,Loose Ball
+50,Morocco,88,16,Gessime YASSINE,On Target - Goal,Left Foot,Cross
+50,Haiti,7,10,Jean-Ricner BELLEGARDE,Off Target,Right Foot,Freekick
+50,Haiti,9,16,Lenny JOSEPH,Incomplete - Player On Ball Error,Right Foot,Cross
+50,Haiti,33,16,Lenny JOSEPH,Off Target,Right Foot,Ball Progression
+50,Haiti,42,18,Wilson ISIDOR,On Target - Goal,Right Foot,Pass
+50,Haiti,63,10,Jean-Ricner BELLEGARDE,Incomplete - Blocked,Right Foot,Freekick
+50,Haiti,94,9,Duckens NAZON,On Target - Saved,Right Foot,Freekick
+50,Haiti,94,10,Jean-Ricner BELLEGARDE,Incomplete - Blocked,Head,Corner
+50,Haiti,97,11,Louicius DEEDSON,Incomplete - Blocked,Left Foot,Pass
+50,Haiti,97,4,Ricardo ADE,Off Target - Saved,Right Foot,Pass
+51,Switzerland,10,7,Breel EMBOLO,On Target - Saved,Right Foot,Pass
+51,Switzerland,10,9,Johan MANZAMBI,Incomplete - Blocked,Right Foot,Other
+51,Switzerland,16,7,Breel EMBOLO,On Target - Saved,Left Foot,Other
+51,Switzerland,37,10,Granit XHAKA,Off Target,Left Foot,Freekick
+51,Switzerland,45,17,Ruben VARGAS,On Target - Goal,Right Foot,Cross
+51,Switzerland,56,9,Johan MANZAMBI,On Target - Goal,Right Foot,Pass
+51,Canada,19,4,Luc DE FOUGEROLLES,On Target - Saved,Right Foot,Freekick
+51,Canada,32,9,Cyle LARIN,On Target - Saved,Right Foot,Pass
+51,Canada,39,2,Alistair JOHNSTON,Off Target,Right Foot,Loose Ball
+51,Canada,40,20,Ali AHMED,On Target - Saved,Right Foot,Pass
+51,Canada,43,10,Jonathan DAVID,Off Target,Left Foot,Pass
+51,Canada,60,11,Liam MILLAR,Deflected Off Target - Defensive Event,Head,Pass
+51,Canada,60,13,Derek CORNELIUS,Deflected Off Target - Defensive Event,Left Foot,Cross
+51,Canada,67,10,Jonathan DAVID,Deflected Off Target - Defensive Event,Left Foot,Cross
+51,Canada,75,24,Promise DAVID,On Target - Goal,Right Foot,Cross
+51,Canada,90,13,Derek CORNELIUS,Off Target,Head,Cross
+51,Canada,92,24,Promise DAVID,On Target - Saved,Head,Other
+51,Canada,95,2,Alistair JOHNSTON,On Target - Saved,Head,Cross
+51,Canada,95,24,Promise DAVID,On Target - Saved,Right Foot,Pass
+52,Bosnia and Herzegovina,1,10,Ermedin DEMIROVIC,On Target - Saved,Left Foot,Pass
+52,Bosnia and Herzegovina,2,14,Ivan SUNJIC,On Target - Saved,Left Foot,Pass
+52,Bosnia and Herzegovina,16,13,Ivan BASIC,Off Target,Left Foot,Ball Progression
+52,Bosnia and Herzegovina,17,13,Ivan BASIC,Deflected Off Target - Defensive Event,Left Foot,Pass
+52,Bosnia and Herzegovina,22,19,Kerim ALAJBEGOVIC,Incomplete - Blocked,Right Foot,Freekick
+52,Bosnia and Herzegovina,28,19,Kerim ALAJBEGOVIC,On Target - Goal,Right Foot,Ball Progression
+52,Bosnia and Herzegovina,32,13,Ivan BASIC,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+52,Bosnia and Herzegovina,32,18,Nikola KATIC,Off Target,Head,Pass
+52,Bosnia and Herzegovina,37,11,Edin DZEKO,Off Target,Left Foot,Pass
+52,Bosnia and Herzegovina,75,20,Esmir BAJRAKTAREVIC,Off Target,Left Foot,Pass
+52,Bosnia and Herzegovina,78,20,Esmir BAJRAKTAREVIC,On Target - Saved,Left Foot,Pass
+52,Bosnia and Herzegovina,79,13,Ivan BASIC,Incomplete - Blocked,Right Foot,Pass
+52,Bosnia and Herzegovina,79,21,Stjepan RADELJIC,Incomplete - Blocked,Left Foot,Loose Ball
+52,Bosnia and Herzegovina,79,26,Ermin MAHMIC,On Target - Goal,Right Foot,Pass
+52,Qatar,41,10,HASSAN ALHAYDOS,On Target - Goal,Right Foot,Cross
+52,Qatar,44,16,BOUALEM KHOUKHI,Off Target,Right Foot,Pass
+52,Qatar,47,2,PEDRO MIGUEL,Off Target,Right Foot,Pass
+52,Qatar,47,2,PEDRO MIGUEL,Off Target,Right Foot,Pass
+52,Qatar,56,11,AKRAM AFIF,Off Target,Left Foot,Pass
+52,Qatar,59,11,AKRAM AFIF,Off Target,Left Foot,Pass
+52,Qatar,85,17,AHMED ALGANEHI,Off Target,Right Foot,Freekick
+52,Qatar,93,2,PEDRO MIGUEL,On Target - Saved,Right Foot,Pass
+52,Qatar,93,19,ALMOEZ ALI,On Target - Saved,Head,Corner
+53,Czechia,6,5,Vladimir COUFAL,Incomplete - Blocked,Head,Cross
+53,Czechia,7,26,Denis VISINSKY,Off Target,Right Foot,Loose Ball
+53,Czechia,11,18,Michal SADILEK,Off Target,Left Foot,Loose Ball
+53,Czechia,14,26,Denis VISINSKY,Off Target,Right Foot,Pass
+53,Czechia,26,26,Denis VISINSKY,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+53,Czechia,43,21,David DOUDERA,Off Target,Right Foot,Loose Ball
+53,Czechia,45,12,Lukas CERV,Deflected On Target - Saved,Left Foot,Loose Ball
+53,Czechia,53,12,Lukas CERV,Incomplete,Right Foot,Loose Ball
+53,Czechia,60,18,Michal SADILEK,Incomplete - Blocked,Left Foot,Pass
+53,Czechia,67,21,David DOUDERA,Off Target,Right Foot,Loose Ball
+53,Czechia,80,21,David DOUDERA,Off Target,Right Foot,Loose Ball
+53,Czechia,91,15,Pavel SULC,Incomplete - Blocked,Right Foot,Ball Progression
+53,Czechia,92,21,David DOUDERA,Off Target,Right Foot,Cross
+53,Mexico,36,15,Israel REYES,Off Target,Right Foot,Loose Ball
+53,Mexico,38,19,Gilberto MORA,Incomplete - Blocked,Left Foot,Pass
+53,Mexico,38,2,Jorge SANCHEZ,On Target - Saved,Right Foot,Pass
+53,Mexico,38,25,Roberto ALVARADO,Off Target,Left Foot,Pass
+53,Mexico,47,16,Julian QUINONES,Off Target,Right Foot,Pass
+53,Mexico,49,16,Julian QUINONES,Incomplete - Blocked,Right Foot,Pass
+53,Mexico,54,20,Mateo CHAVEZ,On Target - Goal,Left Foot,Ball Progression
+53,Mexico,60,16,Julian QUINONES,On Target - Goal,Right Foot,Loose Ball
+53,Mexico,76,16,Julian QUINONES,Off Target,Head,Cross
+53,Mexico,93,11,Santiago GIMENEZ,On Target - Saved,Left Foot,Pass
+53,Mexico,93,8,Alvaro FIDALGO,On Target - Goal,Right Foot,Pass
+54,South Africa,5,10,Relebohile MOFOKENG,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+54,South Africa,13,17,Evidence MAKGOPA,Off Target,Head,Cross
+54,South Africa,18,12,Thapelo MASEKO,Deflected Off Target - Defensive Event,Left Foot,Pass
+54,South Africa,19,7,Oswin APPOLLIS,On Target - Saved,Right Foot,Pass
+54,South Africa,29,5,Thalente MBATHA,On Target - Saved,Left Foot,Loose Ball
+54,South Africa,29,17,Evidence MAKGOPA,On Target - Saved,Left Foot,Other
+54,South Africa,38,12,Thapelo MASEKO,Off Target,Left Foot,Pass
+54,South Africa,41,10,Relebohile MOFOKENG,Off Target,Right Foot,Pass
+54,South Africa,42,12,Thapelo MASEKO,Incomplete - Blocked,Left Foot,Pass
+54,South Africa,49,6,Aubrey MODIBA,Off Target,Left Foot,Loose Ball
+54,South Africa,50,12,Thapelo MASEKO,Incomplete - Blocked,Left Foot,Pass
+54,South Africa,50,5,Thalente MBATHA,Off Target,Right Foot,Pass
+54,South Africa,62,12,Thapelo MASEKO,On Target - Goal,Left Foot,Pass
+54,Korea Republic,1,4,KIM Minjae,On Target - Goal Prevented,Head,Corner
+54,Korea Republic,6,18,OH Hyeongyu,Incomplete - Player On Ball Error,Right Foot,Cross
+54,Korea Republic,7,19,LEE Kangin,Off Target,Left Foot,Cross
+54,Korea Republic,33,11,HWANG Heechan,Off Target,Right Foot,Pass
+54,Korea Republic,59,18,OH Hyeongyu,On Target - Saved,Head,Cross
+54,Korea Republic,85,22,SEOL Youngwoo,Off Target,Right Foot,Loose Ball
+54,Korea Republic,87,7,SON Heungmin,Incomplete - Blocked,Left Foot,Pass
+54,Korea Republic,92,16,PARK Jinseob,On Target - Saved,Head,Cross
+55,Curaçao,1,21,Tahith CHONG,On Target - Saved,Left Foot,Other
+55,Curaçao,13,3,Jurien GAARI,Off Target,Right Foot,Pass
+55,Curaçao,39,21,Tahith CHONG,Off Target,Left Foot,Pass
+55,Curaçao,43,10,Leandro BACUNA,Off Target,Right Foot,Ball Progression
+55,Curaçao,47,3,Jurien GAARI,Deflected Off Target - Defensive Event,Head,Corner
+55,Curaçao,54,5,Sherel FLORANUS,Off Target,Left Foot,Pass
+55,Curaçao,73,21,Tahith CHONG,On Target - Saved,Left Foot,Pass
+55,Curaçao,78,10,Leandro BACUNA,Incomplete - Player On Ball Error,Head,Freekick
+55,Curaçao,78,7,Juninho BACUNA,Off Target,Head,Loose Ball
+55,Curaçao,91,19,Gervane KASTANEER,Off Target,Left Foot,Loose Ball
+55,Curaçao,92,11,Jeremy ANTONISSE,Deflected Off Target - Referee Event,Right Foot,Loose Ball
+55,Côte d'Ivoire,6,19,Nicolas PEPE,On Target - Goal,Left Foot,Pass
+55,Côte d'Ivoire,9,15,Amad DIALLO,Off Target,Left Foot,Pass
+55,Côte d'Ivoire,17,15,Amad DIALLO,Off Target,Left Foot,Cross
+55,Côte d'Ivoire,22,15,Amad DIALLO,Incomplete - Blocked,Left Foot,Ball Progression
+55,Côte d'Ivoire,52,8,Franck KESSIE,Deflected Off Target - Defensive Event,Left Foot,Pass
+55,Côte d'Ivoire,63,19,Nicolas PEPE,On Target - Goal,Left Foot,Pass
+55,Côte d'Ivoire,88,12,Elye WAHI,On Target - Saved,Right Foot,Pass
+56,Ecuador,8,20,Nilson ANGULO,On Target - Goal,Right Foot,Pass
+56,Ecuador,31,13,Enner VALENCIA,Incomplete - Blocked,Right Foot,Pass
+56,Ecuador,53,23,Moises CAICEDO,Off Target,Head,Corner
+56,Ecuador,61,13,Enner VALENCIA,On Target - Saved,Right Foot,Pass
+56,Ecuador,72,19,Gonzalo PLATA,Off Target,Left Foot,Cross
+56,Ecuador,76,11,Kevin RODRIGUEZ,Deflected Off Target - Defensive Event,Left Foot,Pass
+56,Ecuador,77,19,Gonzalo PLATA,On Target - Goal,Left Foot,Pass
+56,Germany,1,19,Leroy SANE,On Target - Goal,Left Foot,Pass
+56,Germany,6,17,Florian WIRTZ,Incomplete - Blocked,Right Foot,Loose Ball
+56,Germany,13,23,Felix NMECHA,Off Target,Right Foot,Pass
+56,Germany,24,7,Kai HAVERTZ,On Target - Saved,Head,Cross
+56,Germany,34,10,Jamal MUSIALA,Deflected Off Target - Defensive Event,Left Foot,Pass
+56,Germany,37,23,Felix NMECHA,Deflected Off Target - Defensive Event,Right Foot,Pass
+56,Germany,48,17,Florian WIRTZ,Incomplete - Blocked,Right Foot,Ball Progression
+56,Germany,62,17,Florian WIRTZ,Incomplete - Blocked,Right Foot,Pass
+56,Germany,75,19,Leroy SANE,On Target - Saved,Left Foot,Loose Ball
+56,Germany,92,26,Deniz UNDAV,Off Target,Left Foot,Pass
+56,Germany,94,13,Pascal GROSS,Off Target,Left Foot,Loose Ball
+57,Japan,14,10,Ritsu DOAN,Incomplete - Blocked,Left Foot,Pass
+57,Japan,21,11,Daizen MAEDA,Off Target,Head,Cross
+57,Japan,39,2,Yukinari SUGAWARA,On Target - Saved,Right Foot,Pass
+57,Japan,44,13,Keito NAKAMURA,On Target - Saved,Right Foot,Pass
+57,Japan,47,7,Ao TANAKA,Off Target,Right Foot,Ball Progression
+57,Japan,51,18,Ayase UEDA,Deflected Off Target - Defensive Event,Right Foot,Pass
+57,Japan,55,11,Daizen MAEDA,On Target - Goal,Right Foot,Pass
+57,Japan,82,19,Koki OGAWA,Off Target,Left Foot,Cross
+57,Sweden,5,21,Alexander BERNHARDSSON,On Target - Saved,Left Foot,Pass
+57,Sweden,47,17,Viktor GYOKERES,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+57,Sweden,49,2,Gustaf LAGERBIELKE,Off Target,Head,Corner
+57,Sweden,61,11,Anthony ELANGA,On Target - Goal,Left Foot,Pass
+57,Sweden,64,9,Alexander ISAK,On Target - Saved,Right Foot,Loose Ball
+57,Sweden,77,8,Daniel SVENSSON,Deflected Off Target - Defensive Event,Left Foot,Pass
+57,Sweden,78,3,Victor LINDELOF,Off Target - Saved,Head,Corner
+57,Sweden,78,13,Ken SEMA,Incomplete - Blocked,Left Foot,Loose Ball
+57,Sweden,80,2,Gustaf LAGERBIELKE,Off Target,Head,Freekick
+57,Sweden,92,11,Anthony ELANGA,On Target - Saved,Right Foot,Pass
+57,Sweden,93,9,Alexander ISAK,On Target - Saved,Head,Corner
+58,Tunisia,1,11,Ismael GHARBI,Off Target,Right Foot,Cross
+58,Tunisia,8,2,Ali ABDI,Off Target,Right Foot,Cross
+58,Tunisia,11,25,Anis SLIMANE,On Target,Head,Cross
+58,Tunisia,31,11,Ismael GHARBI,Off Target,Right Foot,Freekick
+58,Tunisia,53,9,Hazem MASTOURI,On Target - Goal,Head,Corner
+58,Tunisia,64,9,Hazem MASTOURI,On Target - Saved,Right Foot,Pass
+58,Tunisia,75,10,Hannibal MEJBRI,On Target - Saved,Left Foot,Pass
+58,Tunisia,76,7,Elias ACHOURI,Off Target,Right Foot,Loose Ball
+58,Tunisia,89,9,Hazem MASTOURI,Off Target,Right Foot,Loose Ball
+58,Tunisia,93,7,Elias ACHOURI,Incomplete - Blocked,Right Foot,Loose Ball
+58,Netherlands,6,19,Brian BROBBEY,On Target - Goal,Right Foot,Pass
+58,Netherlands,10,21,Frenkie DE JONG,Incomplete - Blocked,Left Foot,Loose Ball
+58,Netherlands,16,6,Jan Paul VAN HECKE,Off Target,Head,Freekick
+58,Netherlands,18,14,Tijjani REIJNDERS,On Target - Saved,Right Foot,Loose Ball
+58,Netherlands,27,8,Ryan GRAVENBERCH,Deflected Off Target - Defensive Event,Right Foot,Pass
+58,Netherlands,28,18,Donyell MALEN,Off Target,Right Foot,Corner
+58,Netherlands,29,11,Cody GAKPO,Incomplete - Player On Ball Error,Head,Cross
+58,Netherlands,29,22,Denzel DUMFRIES,Deflected Off Target - Defensive Event,Right Foot,Pass
+58,Netherlands,30,18,Donyell MALEN,Incomplete - Defensive Event,Right Foot,Loose Ball
+58,Netherlands,38,8,Ryan GRAVENBERCH,Off Target,Right Foot,Pass
+58,Netherlands,41,19,Brian BROBBEY,Incomplete - Blocked,Right Foot,Pass
+58,Netherlands,43,22,Denzel DUMFRIES,On Target - Saved,Left Foot,Ball Progression
+58,Netherlands,50,22,Denzel DUMFRIES,On Target - Goal Prevented,Right Foot,Loose Ball
+58,Netherlands,60,11,Cody GAKPO,Incomplete - Blocked,Right Foot,Pass
+58,Netherlands,61,6,Jan Paul VAN HECKE,Deflected On Target - Goal,Head,Corner
+58,Netherlands,65,14,Tijjani REIJNDERS,Off Target,Right Foot,Loose Ball
+58,Netherlands,65,22,Denzel DUMFRIES,Incomplete - Player On Ball Error,Head,Loose Ball
+58,Netherlands,67,14,Tijjani REIJNDERS,On Target - Saved,Right Foot,Other
+58,Netherlands,77,4,Virgil VAN DIJK,On Target - Saved,Head,Freekick
+58,Netherlands,79,5,Nathan AKE,Off Target,Head,Pass
+59,Türkiye,9,8,Arda GULER,On Target - Goal,Left Foot,Pass
+59,Türkiye,30,6,Orkun KOKCU,Incomplete - Assist,Right Foot,Cross
+59,Türkiye,39,14,Abdulkerim BARDAKCI,Deflected Off Target - Defensive Event,Right Foot,Pass
+59,Türkiye,42,11,Kenan YILDIZ,Deflected Off Target - Defensive Event,Left Foot,Pass
+59,Türkiye,71,11,Kenan YILDIZ,Off Target,Right Foot,Pass
+59,Türkiye,80,6,Orkun KOKCU,Off Target,Right Foot,Pass
+59,Türkiye,97,26,Can UZUN,Incomplete - Blocked,Right Foot,Loose Ball
+59,Türkiye,97,22,Kaan AYHAN,On Target - Goal,Right Foot,Loose Ball
+59,USA,0,7,Giovanni REYNA,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+59,USA,1,6,Auston TRUSTY,On Target - Saved,Right Foot,Interception
+59,USA,2,6,Auston TRUSTY,On Target - Goal,Left Foot,Corner
+59,USA,12,11,Brenden AARONSON,Incomplete - Blocked,Left Foot,Pass
+59,USA,12,11,Brenden AARONSON,On Target - Saved,Right Foot,Loose Ball
+59,USA,28,12,Miles ROBINSON,Incomplete - Blocked,Head,Corner
+59,USA,44,8,Weston McKENNIE,On Target - Saved,Right Foot,Pass
+59,USA,47,6,Auston TRUSTY,Off Target,Head,Corner
+59,USA,48,14,Sebastian BERHALTER,On Target - Goal,Right Foot,Loose Ball
+59,USA,61,10,Christian PULISIC,On Target - Saved,Left Foot,Pass
+59,USA,61,11,Brenden AARONSON,Off Target,Right Foot,Other
+59,USA,62,9,Ricardo PEPI,Incomplete,Right Foot,Cross
+59,USA,62,10,Christian PULISIC,On Target - Saved,Lower Body,Loose Ball
+59,USA,62,8,Weston McKENNIE,Deflected Off Target - Defensive Event,Left Foot,Cross
+59,USA,65,8,Weston McKENNIE,Off Target,Head,Corner
+59,USA,76,10,Christian PULISIC,Off Target,Left Foot,Pass
+59,USA,92,26,Alex ZENDEJAS,Incomplete - Blocked,Left Foot,Pass
+59,USA,94,9,Ricardo PEPI,Incomplete - Blocked,Left Foot,Pass
+60,Paraguay,37,21,Gabriel AVALOS,Off Target,Right Foot,Pass
+60,Paraguay,45,4,Juan Jose CACERES,Off Target,Right Foot,Loose Ball
+60,Paraguay,47,14,Andres CUBAS,Off Target,Right Foot,Loose Ball
+60,Paraguay,49,11,MAURICIO,On Target - Saved,Right Foot,Ball Progression
+60,Paraguay,81,19,Julio ENCISO,Incomplete - Blocked,Right Foot,Ball Progression
+60,Paraguay,81,19,Julio ENCISO,Off Target,Right Foot,Pass
+60,Paraguay,92,11,MAURICIO,On Target - Saved,Left Foot,Pass
+60,Australia,3,22,Jackson IRVINE,On Target - Saved,Right Foot,Loose Ball
+60,Australia,9,13,Aiden ONEILL,Off Target,Right Foot,Loose Ball
+60,Australia,22,8,Connor METCALFE,Incomplete - Blocked,Left Foot,Pass
+60,Australia,35,5,Jordan BOS,On Target - Saved,Left Foot,Pass
+60,Australia,46,20,Cristian VOLPATO,On Target - Saved,Left Foot,Pass
+60,Australia,47,22,Jackson IRVINE,Off Target,Head,Cross
+60,Australia,58,17,Nestory IRANKUNDA,Off Target,Right Foot,Other
+60,Australia,59,17,Nestory IRANKUNDA,Incomplete - Blocked,Right Foot,Loose Ball
+60,Australia,60,10,Ajdin HRUSTIC,Deflected Off Target - Saved,Left Foot,Pass
+60,Australia,82,5,Jordan BOS,On Target - Saved,Left Foot,Ball Progression
+60,Australia,89,5,Jordan BOS,Off Target,Left Foot,Ball Progression
+60,Australia,92,26,Tete YENGI,On Target - Saved,Right Foot,Pass
+61,Norway,10,18,Kristian THORSTVEDT,On Target - Saved,Left Foot,Loose Ball
+61,Norway,13,11,Jorgen STRAND LARSEN,Off Target,Right Foot,Pass
+61,Norway,18,19,Thelo AASGAARD,Deflected Off Target - Defensive Event,Right Foot,Pass
+61,Norway,20,19,Thelo AASGAARD,On Target - Goal,Right Foot,Pass
+61,Norway,49,11,Jorgen STRAND LARSEN,On Target - Saved,Right Foot,Penalty
+61,Norway,54,4,Leo OSTIGARD,Off Target,Head,Corner
+61,Norway,63,22,Oscar BOBB,Deflected On Target - Defensive Event,Left Foot,Ball Progression
+61,Norway,71,22,Oscar BOBB,On Target - Saved,Left Foot,Pass
+61,Norway,78,6,Patrick BERG,Incomplete - Blocked,Right Foot,Pass
+61,Norway,86,14,Fredrik AURSNES,Off Target,Right Foot,Loose Ball
+61,France,0,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+61,France,3,6,Manu KONE,On Target - Saved,Right Foot,Loose Ball
+61,France,4,20,Desire DOUE,Deflected On Target - Saved,Right Foot,Pass
+61,France,6,7,Ousmane DEMBELE,On Target - Goal,Right Foot,Pass
+61,France,7,20,Desire DOUE,On Target - Saved,Right Foot,Other
+61,France,12,11,Michael OLISE,Incomplete - Blocked,Left Foot,Pass
+61,France,16,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+61,France,19,7,Ousmane DEMBELE,On Target - Goal,Left Foot,Pass
+61,France,22,11,Michael OLISE,Incomplete - Blocked,Right Foot,Cross
+61,France,22,20,Desire DOUE,Incomplete - Blocked,Right Foot,Pass
+61,France,23,19,Theo HERNANDEZ,Off Target,Left Foot,Pass
+61,France,31,7,Ousmane DEMBELE,On Target - Goal,Left Foot,Pass
+61,France,34,8,Aurelien TCHOUAMENI,Off Target,Right Foot,Pass
+61,France,45,11,Michael OLISE,Off Target,Right Foot,Pass
+61,France,55,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+61,France,63,10,Kylian MBAPPE,Incomplete - Blocked,Right Foot,Ball Progression
+61,France,91,19,Theo HERNANDEZ,Off Target,Left Foot,Pass
+61,France,93,20,Desire DOUE,On Target - Goal,Head,Cross
+62,Senegal,2,5,Idrissa Gana GUEYE,Deflected Off Target - Defensive Event,Right Foot,Other
+62,Senegal,3,4,Abdoulaye SECK,Incomplete - Assist,Head,Corner
+62,Senegal,13,10,Sadio MANE,Deflected On Target - Saved,Right Foot,Freekick
+62,Senegal,13,4,Abdoulaye SECK,Off Target,Right Foot,Pass
+62,Senegal,16,18,Ismaila SARR,Off Target,Right Foot,Loose Ball
+62,Senegal,32,14,Ismail JAKOBS,Off Target,Left Foot,Pass
+62,Senegal,45,10,Sadio MANE,Off Target,Right Foot,Pass
+62,Senegal,46,19,Moussa NIAKHATE,Incomplete - Referee Event,Head,Corner
+62,Senegal,50,8,Lamine CAMARA,Off Target,Right Foot,Loose Ball
+62,Senegal,45,21,Habib DIARRA,Off Target,Left Foot,Pass
+62,Senegal,50,10,Sadio MANE,Off Target,Lower Body,Cross
+62,Senegal,53,18,Ismaila SARR,On Target - Saved,Right Foot,Pass
+62,Senegal,55,18,Ismaila SARR,On Target - Goal,Right Foot,Pass
+62,Senegal,58,26,Pape GUEYE,On Target - Goal,Left Foot,Pass
+62,Senegal,60,26,Pape GUEYE,Deflected Off Target - Defensive Event,Left Foot,Pass
+62,Senegal,70,26,Pape GUEYE,On Target - Goal,Left Foot,Pass
+62,Senegal,73,26,Pape GUEYE,Incomplete - Blocked,Left Foot,Pass
+62,Senegal,73,15,Krepin DIATTA,Off Target,Right Foot,Pass
+62,Senegal,76,11,Nicolas JACKSON,Incomplete - Blocked,Right Foot,Cross
+62,Senegal,78,6,Pathe CISS,On Target - Saved,Head,Pass
+62,Senegal,78,11,Nicolas JACKSON,On Target - Saved,Right Foot,Pass
+62,Senegal,81,13,Iliman NDIAYE,On Target - Goal,Right Foot,Pass
+62,Senegal,85,10,Sadio MANE,Incomplete - Blocked,Left Foot,Pass
+62,Senegal,87,26,Pape GUEYE,Deflected Off Target - Defensive Event,Left Foot,Pass
+62,Senegal,90,11,Nicolas JACKSON,On Target - Saved,Head,Freekick
+62,Senegal,91,26,Pape GUEYE,On Target - Saved,Left Foot,Loose Ball
+62,Senegal,94,13,Iliman NDIAYE,Deflected On Target - Saved,Right Foot,Ball Progression
+62,Iraq,19,17,ALI JASIM,Incomplete - Blocked,Right Foot,Freekick
+62,Iraq,19,17,ALI JASIM,Deflected Off Target - Defensive Event,Right Foot,Other
+62,Iraq,40,23,MERCHAS DOSKI,Incomplete - Blocked,Left Foot,Pass
+62,Iraq,40,17,ALI JASIM,Incomplete - Blocked,Right Foot,Loose Ball
+62,Iraq,52,17,ALI JASIM,On Target - Saved,Right Foot,Other
+62,Iraq,72,19,KEVIN YAKOB,Incomplete - Blocked,Left Foot,Ball Progression
+63,Egypt,4,10,MOHAMED SALAH,Deflected Off Target - Defensive Event,Left Foot,Pass
+63,Egypt,4,21,MAHMOUD SABER,Deflected On Target - Goal,Left Foot,Loose Ball
+63,Egypt,16,11,MOSTAFA ZICO,Off Target,Right Foot,Cross
+63,Egypt,20,3,MOHAMED HANY,Deflected Off Target - Defensive Event,Right Foot,Pass
+63,Egypt,29,7,TREZEGUET,On Target - Saved,Right Foot,Pass
+63,Egypt,38,21,MAHMOUD SABER,Off Target,Right Foot,Loose Ball
+63,Egypt,40,7,TREZEGUET,Incomplete - Blocked,Right Foot,Loose Ball
+63,Egypt,48,21,MAHMOUD SABER,Off Target,Left Foot,Pass
+63,Egypt,48,7,TREZEGUET,On Target - Saved,Right Foot,Pass
+63,Egypt,51,7,TREZEGUET,Deflected Off Target - Defensive Event,Right Foot,Pass
+63,Egypt,51,17,MOHANAD LASHIN,Off Target,Head,Corner
+63,Egypt,61,25,ZIZO,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+63,Egypt,67,22,OMAR MARMOUSH,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+63,Egypt,71,7,TREZEGUET,Incomplete - Player On Ball Error,Head,Corner
+63,Egypt,83,17,MOHANAD LASHIN,Off Target,Right Foot,Other
+63,IR Iran,10,9,Mehdi TAREMI,On Target - Saved,Right Foot,Penalty
+63,IR Iran,10,14,Saman GHODDOS,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+63,IR Iran,13,5,Milad MOHAMMADI,On Target - Saved,Right Foot,Ball Progression
+63,IR Iran,13,23,Ramin REZAEIAN,On Target - Goal,Right Foot,Other
+63,IR Iran,33,23,Ramin REZAEIAN,Off Target,Left Foot,Loose Ball
+63,IR Iran,45,4,Shoja KHALILZADEH,Off Target,Head,Cross
+63,IR Iran,46,6,Saeid EZATOLAHI,Off Target,Right Foot,Pass
+63,IR Iran,54,14,Saman GHODDOS,Incomplete - Blocked,Right Foot,Loose Ball
+63,IR Iran,75,21,Mohammad GHORBANI,Incomplete - Blocked,Right Foot,Loose Ball
+63,IR Iran,92,21,Mohammad GHORBANI,Incomplete - Referee Event,Right Foot,Loose Ball
+63,IR Iran,96,9,Mehdi TAREMI,Incomplete - Blocked,Right Foot,Pass
+63,IR Iran,96,23,Ramin REZAEIAN,Deflected Off Target - Defensive Event,Right Foot,Pass
+63,IR Iran,96,6,Saeid EZATOLAHI,Off Target,Head,Cross
+64,New Zealand,54,11,Elijah JUST,On Target - Saved,Left Foot,Pass
+64,New Zealand,54,2,Tim PAYNE,Incomplete - Blocked,Right Foot,Other
+64,New Zealand,58,21,Jesse RANDALL,Off Target,Left Foot,Loose Ball
+64,New Zealand,75,11,Elijah JUST,Deflected Off Target - Defensive Event,Right Foot,Pass
+64,New Zealand,75,4,Tyler BINDON,Off Target,Head,Corner
+64,New Zealand,83,11,Elijah JUST,On Target - Goal,Left Foot,Loose Ball
+64,Belgium,3,8,Youri TIELEMANS,Off Target,Right Foot,Pass
+64,Belgium,10,10,Leandro TROSSARD,Off Target,Left Foot,Pass
+64,Belgium,11,4,Brandon MECHELE,Incomplete - Blocked,Head,Pass
+64,Belgium,11,7,Kevin DE BRUYNE,On Target - Saved,Right Foot,Pass
+64,Belgium,15,10,Leandro TROSSARD,Incomplete - Blocked,Left Foot,Loose Ball
+64,Belgium,15,11,Jeremy DOKU,On Target - Saved,Right Foot,Pass
+64,Belgium,18,10,Leandro TROSSARD,Incomplete - Blocked,Right Foot,Pass
+64,Belgium,27,10,Leandro TROSSARD,Deflected On Target - Goal,Right Foot,Loose Ball
+64,Belgium,30,20,Hans VANAKEN,Incomplete - Blocked,Right Foot,Cross
+64,Belgium,38,11,Jeremy DOKU,Off Target,Right Foot,Ball Progression
+64,Belgium,41,7,Kevin DE BRUYNE,Off Target,Right Foot,Pass
+64,Belgium,42,17,Charles DE KETELAERE,On Target - Saved,Left Foot,Pass
+64,Belgium,44,10,Leandro TROSSARD,Incomplete - Blocked,Right Foot,Loose Ball
+64,Belgium,46,20,Hans VANAKEN,Deflected Off Target - Defensive Event,Left Foot,Pass
+64,Belgium,46,3,Arthur THEATE,Incomplete - Player On Ball Error,Head,Other
+64,Belgium,47,21,Timothy CASTAGNE,Off Target,Right Foot,Cross
+64,Belgium,46,7,Kevin DE BRUYNE,Off Target,Right Foot,Pass
+64,Belgium,49,10,Leandro TROSSARD,Incomplete,Right Foot,Ball Progression
+64,Belgium,49,10,Leandro TROSSARD,On Target - Goal,Right Foot,Loose Ball
+64,Belgium,59,3,Arthur THEATE,Incomplete - Referee Event,Head,Corner
+64,Belgium,60,7,Kevin DE BRUYNE,Deflected Off Target - Defensive Event,Right Foot,Pass
+64,Belgium,61,3,Arthur THEATE,On Target - Saved,Right Foot,Loose Ball
+64,Belgium,61,7,Kevin DE BRUYNE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+64,Belgium,64,26,Matias FERNANDEZ-PARDO,Off Target,Left Foot,Pass
+64,Belgium,65,7,Kevin DE BRUYNE,Incomplete - Blocked,Left Foot,Pass
+64,Belgium,65,7,Kevin DE BRUYNE,On Target - Goal,Left Foot,Loose Ball
+64,Belgium,73,26,Matias FERNANDEZ-PARDO,Incomplete - Blocked,Right Foot,Pass
+64,Belgium,73,24,Amadou ONANA,Incomplete - Blocked,Left Foot,Loose Ball
+64,Belgium,77,5,Maxim DE CUYPER,Off Target,Left Foot,Freekick
+64,Belgium,80,22,Alexis SAELEMAEKERS,Off Target,Right Foot,Pass
+64,Belgium,85,9,Romelu LUKAKU,On Target - Goal,Head,Cross
+64,Belgium,89,24,Amadou ONANA,Off Target,Right Foot,Freekick
+64,Belgium,91,5,Maxim DE CUYPER,On Target - Saved,Left Foot,Pass
+64,Belgium,92,3,Arthur THEATE,Off Target,Left Foot,Loose Ball
+64,Belgium,93,22,Alexis SAELEMAEKERS,On Target - Goal,Right Foot,Pass
+65,Cabo Verde,21,17,WILLY SEMEDO,Off Target - Saved,Left Foot,Pass
+65,Cabo Verde,33,10,JAMIRO MONTEIRO,Incomplete - Blocked,Left Foot,Pass
+65,Cabo Verde,38,8,JOAO PAULO,Off Target,Head,Corner
+65,Cabo Verde,41,17,WILLY SEMEDO,Off Target,Right Foot,Loose Ball
+65,Cabo Verde,47,10,JAMIRO MONTEIRO,On Target - Saved,Right Foot,Cross
+65,Cabo Verde,49,6,KEVIN PINA,Off Target,Left Foot,Pass
+65,Cabo Verde,52,20,RYAN MENDES,Incomplete - Blocked,Left Foot,Loose Ball
+65,Cabo Verde,56,14,DEROY DUARTE,Off Target,Right Foot,Loose Ball
+65,Cabo Verde,73,15,LAROS DUARTE,On Target - Saved,Right Foot,Pass
+65,Cabo Verde,74,4,PICO LOPES,Off Target,Head,Corner
+65,Cabo Verde,76,8,JOAO PAULO,Incomplete - Blocked,Right Foot,Pass
+65,Cabo Verde,78,11,GARRY RODRIGUES,Incomplete - Blocked,Left Foot,Pass
+65,Cabo Verde,83,6,KEVIN PINA,Off Target,Right Foot,Loose Ball
+65,Cabo Verde,84,21,NUNO DA COSTA,Incomplete - Player On Ball Error,Left Foot,Ball Progression
+65,Cabo Verde,85,24,WAGNER PINA,Incomplete - Blocked,Right Foot,Cross
+65,Saudi Arabia,17,10,SALEM ALDAWSARI,Incomplete - Blocked,Left Foot,Cross
+65,Saudi Arabia,46,23,MOHAMED KANNO,On Target - Saved,Head,Pass
+65,Saudi Arabia,48,12,SAUD ABDULHAMID,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+65,Saudi Arabia,46,4,ABDULELAH ALAMRI,Incomplete - Player On Ball Error,Head,Other
+65,Saudi Arabia,66,26,MOHAMMED ABU ALSHAMAT,On Target - Saved,Right Foot,Pass
+65,Saudi Arabia,82,6,NASSER ALDAWSARI,Incomplete - Blocked,Left Foot,Pass
+65,Saudi Arabia,91,19,ABDULLAH ALHAMDDAN,On Target - Saved,Right Foot,Pass
+66,Uruguay,31,14,Agustin CANOBBIO,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+66,Uruguay,35,6,Rodrigo BENTANCUR,Off Target,Right Foot,Pass
+66,Uruguay,38,9,Darwin NUNEZ,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+66,Uruguay,63,21,Federico VINAS,Off Target,Left Foot,Cross
+66,Uruguay,84,7,Nicolas DE LA CRUZ,On Target - Saved,Right Foot,Pass
+66,Spain,16,19,Lamine YAMAL,Incomplete - Blocked,Left Foot,Pass
+66,Spain,19,22,Pau CUBARSI,Incomplete - Player On Ball Error,Head,Corner
+66,Spain,41,15,Alex BAENA,On Target - Goal,Right Foot,Cross
+66,Spain,52,21,Mikel OYARZABAL,Off Target,Left Foot,Pass
+66,Spain,62,10,Dani OLMO,Off Target,Right Foot,Pass
+66,Spain,85,7,Ferran TORRES,Off Target,Right Foot,Ball Progression
+67,Panama,0,9,Tomas RODRIGUEZ,On Target - Saved,Right Foot,Other
+67,Panama,25,7,Jose Luis RODRIGUEZ,On Target - Saved,Left Foot,Pass
+67,Panama,27,14,Carlos HARVEY,Off Target,Right Foot,Other
+67,Panama,55,7,Jose Luis RODRIGUEZ,Off Target,Right Foot,Loose Ball
+67,Panama,63,23,Amir MURILLO,Off Target,Right Foot,Pass
+67,Panama,73,24,Azarias LONDONO,Incomplete - Blocked,Left Foot,Loose Ball
+67,Panama,73,10,Ismael DIAZ,Off Target,Head,Cross
+67,Panama,74,10,Ismael DIAZ,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+67,Panama,75,14,Carlos HARVEY,Incomplete - Defensive Event,Head,Loose Ball
+67,Panama,75,23,Amir MURILLO,Incomplete - Blocked,Right Foot,Cross
+67,Panama,75,10,Ismael DIAZ,Off Target,Right Foot,Pass
+67,Panama,89,10,Ismael DIAZ,Off Target,Right Foot,Pass
+67,Panama,93,15,Eric DAVIS,Off Target,Left Foot,Other
+67,England,7,11,Marcus RASHFORD,On Target - Saved,Right Foot,Pass
+67,England,7,7,Bukayo SAKA,Off Target,Right Foot,Loose Ball
+67,England,14,7,Bukayo SAKA,Off Target - Saved,Left Foot,Ball Progression
+67,England,21,10,Jude BELLINGHAM,Off Target,Right Foot,Loose Ball
+67,England,21,7,Bukayo SAKA,Incomplete - Blocked,Left Foot,Pass
+67,England,32,3,Nico OREILLY,Off Target - Saved,Head,Pass
+67,England,34,8,Elliot ANDERSON,On Target - Saved,Right Foot,Pass
+67,England,37,11,Marcus RASHFORD,Off Target,Head,Pass
+67,England,47,11,Marcus RASHFORD,Off Target,Right Foot,Freekick
+67,England,54,11,Marcus RASHFORD,Off Target,Left Foot,Ball Progression
+67,England,56,9,Harry KANE,On Target - Saved,Right Foot,Pass
+67,England,61,10,Jude BELLINGHAM,On Target - Goal,Left Foot,Corner
+67,England,65,9,Harry KANE,Incomplete - Blocked,Left Foot,Ball Progression
+67,England,66,9,Harry KANE,On Target - Goal,Head,Cross
+67,England,86,11,Marcus RASHFORD,Off Target,Right Foot,Cross
+67,England,90,20,Noni MADUEKE,On Target - Saved,Right Foot,Pass
+67,England,93,21,Eberechi EZE,Deflected Off Target - Defensive Event,Left Foot,Pass
+68,Croatia,16,13,Nikola VLASIC,Off Target,Right Foot,Pass
+68,Croatia,20,3,Marin PONGRACIC,Off Target,Head,Freekick
+68,Croatia,29,14,Ivan PERISIC,On Target - Saved,Head,Freekick
+68,Croatia,30,17,Petar SUCIC,On Target - Goal,Right Foot,Pass
+68,Croatia,37,8,Mateo KOVACIC,Incomplete - Blocked,Right Foot,Pass
+68,Croatia,81,15,Mario PASALIC,On Target - Saved,Left Foot,Pass
+68,Croatia,82,13,Nikola VLASIC,On Target - Goal,Head,Corner
+68,Croatia,91,15,Mario PASALIC,Incomplete - Blocked,Left Foot,Pass
+68,Ghana,39,11,Antoine SEMENYO,Off Target,Right Foot,Ball Progression
+68,Ghana,46,7,Abdul FATAWU,Off Target,Left Foot,Pass
+68,Ghana,56,22,Kamaldeen SULEMANA,Incomplete - Blocked,Left Foot,Loose Ball
+68,Ghana,72,23,Derrick LUCKASSEN,On Target - Goal,Left Foot,Freekick
+68,Ghana,93,26,Marvin SENAYA,Incomplete - Blocked,Right Foot,Loose Ball
+68,Ghana,96,7,Abdul FATAWU,Off Target,Left Foot,Ball Progression
+69,Algeria,9,22,Ibrahim MAZA,Off Target,Right Foot,Ball Progression
+69,Algeria,31,17,Rafik BELGHALI,Off Target,Right Foot,Ball Progression
+69,Algeria,35,22,Ibrahim MAZA,Off Target,Left Foot,Ball Progression
+69,Algeria,39,10,Fares CHAIBI,Off Target,Left Foot,Ball Progression
+69,Algeria,41,7,Riyad MAHREZ,Incomplete - Blocked,Left Foot,Pass
+69,Algeria,43,22,Ibrahim MAZA,On Target - Saved,Left Foot,Pass
+69,Algeria,44,17,Rafik BELGHALI,On Target - Goal,Left Foot,Ball Progression
+69,Algeria,48,21,Ramy BENSEBAINI,Off Target,Left Foot,Loose Ball
+69,Algeria,53,10,Fares CHAIBI,On Target - Saved,Right Foot,Pass
+69,Algeria,58,10,Fares CHAIBI,Incomplete - Blocked,Right Foot,Pass
+69,Algeria,59,7,Riyad MAHREZ,On Target - Goal,Left Foot,Cross
+69,Algeria,92,7,Riyad MAHREZ,On Target - Goal,Right Foot,Pass
+69,Austria,7,4,Xaver SCHLAGER,Off Target,Left Foot,Loose Ball
+69,Austria,27,7,Marko ARNAUTOVIC,On Target - Goal,Right Foot,Pass
+69,Austria,37,18,Romano SCHMID,Off Target,Right Foot,Loose Ball
+69,Austria,40,16,Phillip MWENE,Off Target,Right Foot,Loose Ball
+69,Austria,46,6,Nicolas SEIWALD,Incomplete - Blocked,Left Foot,Loose Ball
+69,Austria,54,9,Marcel SABITZER,On Target - Goal,Right Foot,Pass
+69,Austria,64,6,Nicolas SEIWALD,Off Target,Right Foot,Pass
+69,Austria,67,3,Kevin DANSO,Off Target,Head,Corner
+69,Austria,94,15,Philipp LIENHART,Off Target,Left Foot,Pass
+69,Austria,95,14,Sasa KALAJDZIC,On Target - Goal,Head,Pass
+70,Jordan,34,11,ODEH FAKHOURY,Incomplete - Blocked,Right Foot,Interception
+70,Jordan,34,20,MOHANNAD ABUTAHA,Incomplete - Blocked,Left Foot,Loose Ball
+70,Jordan,37,24,ALI AZAIZEH,Off Target,Head,Cross
+70,Jordan,50,10,MOUSA ALTAMARI,Off Target,Left Foot,Cross
+70,Jordan,54,10,MOUSA ALTAMARI,On Target - Goal,Left Foot,Cross
+70,Argentina,12,19,Nicolas OTAMENDI,Off Target,Head,Corner
+70,Argentina,18,11,Giovani LO CELSO,On Target - Goal,Left Foot,Freekick
+70,Argentina,27,22,Lautaro MARTINEZ,Off Target,Left Foot,Cross
+70,Argentina,27,2,Marcos SENESI,Incomplete - Foul For,Head,Other
+70,Argentina,30,22,Lautaro MARTINEZ,On Target - Goal,Right Foot,Penalty
+70,Argentina,49,9,Julian ALVAREZ,On Target - Saved,Left Foot,Pass
+70,Argentina,52,22,Lautaro MARTINEZ,Off Target,Right Foot,Pass
+70,Argentina,58,18,Nico PAZ,Off Target,Right Foot,Loose Ball
+70,Argentina,64,10,Lionel MESSI,Off Target,Left Foot,Freekick
+70,Argentina,79,10,Lionel MESSI,On Target - Goal,Left Foot,Freekick
+70,Argentina,81,16,Thiago ALMADA,Off Target,Right Foot,Loose Ball
+70,Argentina,85,21,Jose Manuel LOPEZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+70,Argentina,90,2,Marcos SENESI,Off Target,Lower Body,Freekick
+71,Colombia,1,7,Luis DIAZ,Deflected On Target - Defensive Event,Right Foot,Pass
+71,Colombia,1,9,Jhon CORDOBA,Off Target,Head,Loose Ball
+71,Colombia,5,7,Luis DIAZ,Incomplete - Player On Ball Error,Right Foot,Pass
+71,Colombia,13,14,Gustavo PUERTA,Off Target,Left Foot,Pass
+71,Colombia,16,9,Jhon CORDOBA,On Target - Saved,Right Foot,Pass
+71,Colombia,16,7,Luis DIAZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+71,Colombia,21,11,Jhon ARIAS,Incomplete - Defensive Event,Right Foot,Pass
+71,Colombia,43,10,James RODRIGUEZ,Incomplete - Blocked,Right Foot,Cross
+71,Colombia,43,16,Jefferson LERMA,Incomplete - Defensive Event,Left Foot,Loose Ball
+71,Colombia,44,14,Gustavo PUERTA,On Target - Saved,Right Foot,Pass
+71,Colombia,45,7,Luis DIAZ,Off Target,Right Foot,Pass
+71,Colombia,47,10,James RODRIGUEZ,On Target - Saved,Left Foot,Pass
+71,Colombia,54,16,Jefferson LERMA,On Target - Saved,Right Foot,Pass
+71,Colombia,54,11,Jhon ARIAS,On Target - Saved,Right Foot,Pass
+71,Colombia,61,6,Richard RIOS,Off Target,Left Foot,Cross
+71,Colombia,64,25,Luis SUAREZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+71,Colombia,64,23,Davinson SANCHEZ,Off Target,Head,Cross
+71,Colombia,65,11,Jhon ARIAS,Deflected On Target - Saved,Right Foot,Pass
+71,Colombia,66,14,Gustavo PUERTA,Off Target,Right Foot,Pass
+71,Colombia,72,25,Luis SUAREZ,Incomplete - Blocked,Left Foot,Cross
+71,Colombia,73,10,James RODRIGUEZ,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+71,Colombia,87,25,Luis SUAREZ,Off Target,Right Foot,Other
+71,Colombia,90,25,Luis SUAREZ,Incomplete - Player On Ball Error,Head,Cross
+71,Colombia,94,14,Gustavo PUERTA,Incomplete - Blocked,Right Foot,Pass
+71,Portugal,3,21,RUBEN NEVES,Off Target,Right Foot,Loose Ball
+71,Portugal,11,8,BRUNO FERNANDES,Off Target,Right Foot,Pass
+71,Portugal,23,7,CRISTIANO RONALDO,On Target - Saved,Right Foot,Freekick
+71,Portugal,37,23,VITINHA,Incomplete - Blocked,Right Foot,Loose Ball
+71,Portugal,38,8,BRUNO FERNANDES,On Target - Saved,Right Foot,Cross
+71,Portugal,38,7,CRISTIANO RONALDO,Incomplete - Blocked,Right Foot,Other
+71,Portugal,39,21,RUBEN NEVES,Off Target,Right Foot,Pass
+71,Portugal,41,11,JOAO FELIX,Off Target,Right Foot,Ball Progression
+71,Portugal,46,7,CRISTIANO RONALDO,Incomplete - Blocked,Left Foot,Pass
+71,Portugal,50,11,JOAO FELIX,Off Target,Head,Pass
+71,Portugal,56,11,JOAO FELIX,Incomplete - Blocked,Right Foot,Pass
+71,Portugal,77,5,DIOGO DALOT,Off Target,Right Foot,Corner
+71,Portugal,92,17,RAFAEL LEAO,Off Target,Right Foot,Ball Progression
+72,Congo DR,1,20,Yoane WISSA,Off Target,Right Foot,Loose Ball
+72,Congo DR,28,20,Yoane WISSA,Off Target,Left Foot,Cross
+72,Congo DR,43,9,Brian CIPENGA,Incomplete - Defensive Event,Right Foot,Freekick
+72,Congo DR,47,22,Chancel MBEMBA,Off Target,Right Foot,Loose Ball
+72,Congo DR,47,9,Brian CIPENGA,Off Target,Right Foot,Pass
+72,Congo DR,49,20,Yoane WISSA,Off Target,Left Foot,Cross
+72,Congo DR,52,9,Brian CIPENGA,Off Target,Right Foot,Pass
+72,Congo DR,57,7,Nathanael MBUKU,On Target - Saved,Left Foot,Pass
+72,Congo DR,59,19,Fiston MAYELE,Off Target,Right Foot,Pass
+72,Congo DR,60,20,Yoane WISSA,Off Target,Head,Cross
+72,Congo DR,67,20,Yoane WISSA,On Target - Goal,Right Foot,Penalty
+72,Congo DR,74,19,Fiston MAYELE,Off Target,Head,Cross
+72,Congo DR,77,13,Meschack ELIA,Deflected On Target - Defensive Event,Right Foot,Pass
+72,Congo DR,77,19,Fiston MAYELE,On Target - Goal,Right Foot,Loose Ball
+72,Congo DR,87,19,Fiston MAYELE,Off Target,Right Foot,Pass
+72,Congo DR,90,19,Fiston MAYELE,Incomplete - Player On Ball Error,Right Foot,Pass
+72,Congo DR,90,20,Yoane WISSA,On Target - Goal,Right Foot,Pass
+72,Congo DR,94,6,Ngalayel MUKAU,Off Target,Left Foot,Pass
+72,Congo DR,95,10,Theo BONGONDA,Off Target,Left Foot,Cross
+72,Uzbekistan,9,14,Eldor SHOMURODOV,On Target - Goal,Left Foot,Pass
+72,Uzbekistan,50,22,Abbosbek FAYZULLAEV,Off Target,Right Foot,Freekick
+72,Uzbekistan,50,14,Eldor SHOMURODOV,Off Target,Right Foot,Pass
+100,Argentina,8,20,Alexis MAC ALLISTER,Deflected Off Target - Defensive Event,Right Foot,Pass
+100,Argentina,8,20,Alexis MAC ALLISTER,Incomplete - Player On Ball Error,Head,Corner
+100,Argentina,9,20,Alexis MAC ALLISTER,On Target - Goal,Head,Corner
+100,Argentina,49,26,Nahuel MOLINA,Off Target,Right Foot,Pass
+100,Argentina,51,9,Julian ALVAREZ,Deflected Off Target - Defensive Event,Left Foot,Other
+100,Argentina,88,20,Alexis MAC ALLISTER,Off Target,Head,Cross
+100,Argentina,91,10,Lionel MESSI,Off Target,Right Foot,Pass
+100,Argentina,92,15,Nico GONZALEZ,Off Target,Left Foot,Ball Progression
+100,Argentina,98,6,Lisandro MARTINEZ,On Target - Saved,Left Foot,Loose Ball
+100,Argentina,90,22,Lautaro MARTINEZ,Incomplete - Blocked,Right Foot,Loose Ball
+100,Argentina,90,15,Nico GONZALEZ,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+100,Argentina,91,9,Julian ALVAREZ,Off Target,Right Foot,Pass
+100,Argentina,92,16,Thiago ALMADA,On Target - Saved,Right Foot,Pass
+100,Argentina,94,16,Thiago ALMADA,Off Target,Right Foot,Pass
+100,Argentina,102,10,Lionel MESSI,Incomplete - Blocked,Left Foot,Freekick
+100,Argentina,105,6,Lisandro MARTINEZ,Incomplete - Blocked,Right Foot,Ball Progression
+100,Argentina,106,13,Cristian ROMERO,Off Target,Head,Corner
+100,Argentina,111,10,Lionel MESSI,On Target - Saved,Left Foot,Pass
+100,Argentina,111,9,Julian ALVAREZ,On Target - Goal,Right Foot,Pass
+100,Argentina,118,10,Lionel MESSI,Deflected Off Target - Defensive Event,Left Foot,Pass
+100,Argentina,120,16,Thiago ALMADA,On Target - Saved,Right Foot,Ball Progression
+100,Argentina,120,22,Lautaro MARTINEZ,On Target - Goal,Right Foot,Other
+100,Switzerland,0,6,Denis ZAKARIA,Incomplete - Blocked,Right Foot,Other
+100,Switzerland,6,10,Granit XHAKA,Off Target,Left Foot,Loose Ball
+100,Switzerland,19,15,Djibril SOW,On Target - Saved,Right Foot,Pass
+100,Switzerland,46,22,Fabian RIEDER,Deflected Off Target - Defensive Event,Left Foot,Pass
+100,Switzerland,54,11,Dan NDOYE,Incomplete - Blocked,Right Foot,Pass
+100,Switzerland,59,7,Breel EMBOLO,On Target - Saved,Head,Cross
+100,Switzerland,64,11,Dan NDOYE,On Target - Saved,Head,Cross
+100,Switzerland,65,10,Granit XHAKA,On Target - Saved,Left Foot,Pass
+100,Switzerland,66,11,Dan NDOYE,On Target - Goal,Right Foot,Pass
+100,Switzerland,98,10,Granit XHAKA,Off Target,Left Foot,Pass
+100,Switzerland,104,14,Ardon JASHARI,Off Target,Left Foot,Pass
+101,France,5,14,Adrien RABIOT,Off Target,Left Foot,Loose Ball
+101,France,35,12,Bradley BARCOLA,Off Target,Right Foot,Ball Progression
+101,France,64,8,Aurelien TCHOUAMENI,Off Target,Right Foot,Corner
+101,France,66,10,Kylian MBAPPE,Deflected Off Target - Defensive Event,Right Foot,Pass
+101,France,67,20,Desire DOUE,Incomplete - Blocked,Right Foot,Pass
+101,France,80,20,Desire DOUE,On Target - Saved,Right Foot,Loose Ball
+101,France,88,10,Kylian MBAPPE,Off Target,Right Foot,Freekick
+101,France,94,7,Ousmane DEMBELE,On Target - Saved,Left Foot,Pass
+101,France,96,7,Ousmane DEMBELE,On Target - Saved,Right Foot,Pass
+101,France,96,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+101,Spain,10,15,Alex BAENA,Incomplete - Blocked,Right Foot,Freekick
+101,Spain,21,21,Mikel OYARZABAL,On Target - Goal,Left Foot,Penalty
+101,Spain,33,10,Dani OLMO,Off Target,Right Foot,Pass
+101,Spain,36,12,Pedro PORRO,Off Target,Right Foot,Pass
+101,Spain,37,8,Fabian RUIZ,Deflected Off Target - Defensive Event,Left Foot,Cross
+101,Spain,51,21,Mikel OYARZABAL,Off Target,Left Foot,Pass
+101,Spain,57,15,Alex BAENA,Incomplete - Blocked,Right Foot,Pass
+101,Spain,57,12,Pedro PORRO,On Target - Goal,Right Foot,Pass
+101,Spain,77,7,Ferran TORRES,Off Target,Head,Pass
+101,Spain,93,17,Nico WILLIAMS,Off Target,Left Foot,Ball Progression
+102,England,32,5,John STONES,Off Target,Head,Freekick
+102,England,54,18,Anthony GORDON,On Target - Goal,Right Foot,Cross
+102,England,65,4,Declan RICE,On Target - Saved,Right Foot,Pass
+102,England,65,9,Harry KANE,Incomplete - Blocked,Right Foot,Pass
+102,England,78,17,Morgan ROGERS,Incomplete - Blocked,Right Foot,Loose Ball
+102,Argentina,37,10,Lionel MESSI,Deflected Off Target - Defensive Event,Left Foot,Ball Progression
+102,Argentina,37,24,Enzo FERNANDEZ,Off Target,Right Foot,Loose Ball
+102,Argentina,46,9,Julian ALVAREZ,On Target - Saved,Right Foot,Loose Ball
+102,Argentina,46,9,Julian ALVAREZ,Off Target - Saved,Right Foot,Ball Progression
+102,Argentina,53,5,Leandro PAREDES,Off Target,Right Foot,Pass
+102,Argentina,60,24,Enzo FERNANDEZ,Off Target,Right Foot,Pass
+102,Argentina,68,15,Nico GONZALEZ,On Target - Saved,Head,Cross
+102,Argentina,75,20,Alexis MAC ALLISTER,Off Target,Head,Cross
+102,Argentina,75,9,Julian ALVAREZ,Incomplete - Player On Ball Error,Left Foot,Other
+102,Argentina,75,20,Alexis MAC ALLISTER,On Target - Saved,Head,Cross
+102,Argentina,83,7,Rodrigo DE PAUL,Incomplete - Blocked,Right Foot,Pass
+102,Argentina,84,24,Enzo FERNANDEZ,Off Target - Saved,Right Foot,Pass
+102,Argentina,84,24,Enzo FERNANDEZ,On Target - Goal,Right Foot,Pass
+102,Argentina,91,20,Alexis MAC ALLISTER,Deflected Off Target - Defensive Event,Right Foot,Pass
+102,Argentina,91,22,Lautaro MARTINEZ,On Target - Goal,Head,Cross
+103,France,4,10,Kylian MBAPPE,Incomplete - Blocked,Right Foot,Pass
+103,France,10,24,Rayan CHERKI,On Target - Saved,Left Foot,Loose Ball
+103,France,10,18,Warren ZAIRE-EMERY,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+103,France,21,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+103,France,34,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+103,France,47,10,Kylian MBAPPE,On Target - Goal,Left Foot,Pass
+103,France,50,14,Adrien RABIOT,Off Target,Left Foot,Loose Ball
+103,France,53,12,Bradley BARCOLA,On Target - Goal,Right Foot,Pass
+103,France,60,11,Michael OLISE,Off Target,Left Foot,Ball Progression
+103,France,63,7,Ousmane DEMBELE,On Target - Saved,Left Foot,Pass
+103,France,64,4,Dayot UPAMECANO,Deflected On Target - Saved,Right Foot,Pass
+103,France,65,10,Kylian MBAPPE,On Target - Goal,Left Foot,Pass
+103,France,67,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+103,France,74,11,Michael OLISE,Off Target,Left Foot,Cross
+103,France,78,10,Kylian MBAPPE,Incomplete - Blocked,Left Foot,Loose Ball
+103,France,80,11,Michael OLISE,Off Target,Right Foot,Pass
+103,France,83,10,Kylian MBAPPE,On Target - Saved,Right Foot,Ball Progression
+103,France,90,12,Bradley BARCOLA,Deflected Off Target - Defensive Event,Right Foot,Pass
+103,France,95,7,Ousmane DEMBELE,On Target - Goal,Left Foot,Pass
+103,England,2,4,Declan RICE,On Target - Goal,Right Foot,Ball Progression
+103,England,6,11,Marcus RASHFORD,Deflected Off Target - Defensive Event,Right Foot,Cross
+103,England,7,21,Eberechi EZE,Incomplete - Blocked,Left Foot,Pass
+103,England,17,7,Bukayo SAKA,Deflected Off Target - Defensive Event,Left Foot,Ball Progression
+103,England,17,2,Ezri KONSA,On Target - Goal,Head,Corner
+103,England,32,11,Marcus RASHFORD,On Target - Saved,Right Foot,Ball Progression
+103,England,36,11,Marcus RASHFORD,On Target - Saved,Right Foot,Pass
+103,England,36,7,Bukayo SAKA,On Target - Goal Prevented,Left Foot,Ball Progression
+103,England,36,7,Bukayo SAKA,Deflected On Target - Goal,Left Foot,Pass
+103,England,45,7,Bukayo SAKA,On Target - Goal,Left Foot,Pass
+103,England,48,22,Ivan TONEY,Deflected Off Target - Defensive Event,Right Foot,Pass
+103,England,49,19,Ollie WATKINS,Off Target,Right Foot,Pass
+103,England,53,21,Eberechi EZE,Off Target,Left Foot,Ball Progression
+103,England,58,22,Ivan TONEY,On Target - Saved,Head,Corner
+103,England,63,21,Eberechi EZE,Incomplete - Blocked,Left Foot,Pass
+103,England,79,10,Jude BELLINGHAM,On Target - Saved,Right Foot,Ball Progression
+103,England,79,17,Morgan ROGERS,Incomplete - Blocked,Left Foot,Other
+103,England,86,7,Bukayo SAKA,On Target - Goal,Left Foot,Penalty
+103,England,97,10,Jude BELLINGHAM,On Target - Goal,Right Foot,Ball Progression
+104,Spain,4,19,Lamine YAMAL,Deflected On Target - Saved,Left Foot,Pass
+104,Spain,38,21,Mikel OYARZABAL,On Target - Saved,Left Foot,Pass
+104,Spain,42,24,Marc CUCURELLA,Off Target,Left Foot,Pass
+104,Spain,45,15,Alex BAENA,On Target - Saved,Right Foot,Loose Ball
+104,Spain,60,19,Lamine YAMAL,Incomplete - Blocked,Left Foot,Freekick
+104,Spain,63,10,Dani OLMO,On Target - Saved,Right Foot,Pass
+104,Spain,64,10,Dani OLMO,Deflected Off Target - Defensive Event,Head,Loose Ball
+104,Spain,66,7,Ferran TORRES,On Target - Saved,Head,Cross
+104,Spain,76,20,PEDRI,On Target - Saved,Left Foot,Pass
+104,Spain,76,22,Pau CUBARSI,On Target - Saved,Right Foot,Pass
+104,Spain,80,14,Aymeric LAPORTE,On Target - Saved,Head,Cross
+104,Spain,86,7,Ferran TORRES,Off Target,Right Foot,Pass
+104,Spain,88,16,RODRI,Off Target,Right Foot,Pass
+104,Spain,92,17,Nico WILLIAMS,On Target - Saved,Right Foot,Pass
+104,Spain,97,19,Lamine YAMAL,On Target - Saved,Left Foot,Freekick
+104,Spain,92,17,Nico WILLIAMS,On Target - Saved,Head,Pass
+104,Spain,100,19,Lamine YAMAL,Off Target,Left Foot,Pass
+104,Spain,102,6,Mikel MERINO,Off Target,Head,Cross
+104,Spain,103,17,Nico WILLIAMS,Incomplete - Blocked,Right Foot,Pass
+104,Spain,105,7,Ferran TORRES,On Target - Goal,Left Foot,Pass
+104,Argentina,116,10,Lionel MESSI,Incomplete - Blocked,Left Foot,Pass
+104,Argentina,121,17,Giuliano SIMEONE,Off Target,Right Foot,Pass
+73,South Africa,5,4,Teboho MOKOENA,On Target - Saved,Right Foot,Pass
+73,South Africa,22,4,Teboho MOKOENA,Incomplete - Blocked,Right Foot,Pass
+73,South Africa,35,21,Ime OKON,Off Target,Head,Corner
+73,South Africa,61,7,Oswin APPOLLIS,Off Target,Right Foot,Loose Ball
+73,South Africa,74,5,Thalente MBATHA,Off Target,Right Foot,Pass
+73,South Africa,84,7,Oswin APPOLLIS,Off Target - Saved,Right Foot,Ball Progression
+73,Canada,6,7,Stephen EUSTAQUIO,Off Target,Right Foot,Loose Ball
+73,Canada,16,10,Jonathan DAVID,Off Target,Right Foot,Corner
+73,Canada,21,13,Derek CORNELIUS,On Target - Saved,Head,Freekick
+73,Canada,34,12,Tani OLUWASEYI,On Target - Saved,Left Foot,Pass
+73,Canada,40,12,Tani OLUWASEYI,Off Target,Head,Freekick
+73,Canada,43,15,Moise BOMBITO,On Target - Goal Prevented,Head,Corner
+73,Canada,43,17,Tajon BUCHANAN,On Target - Saved,Right Foot,Loose Ball
+73,Canada,64,12,Tani OLUWASEYI,Deflected On Target - Saved,Left Foot,Pass
+73,Canada,65,4,Luc DE FOUGEROLLES,Off Target,Head,Corner
+73,Canada,75,24,Promise DAVID,Off Target,Right Foot,Pass
+73,Canada,77,10,Jonathan DAVID,On Target - Saved,Left Foot,Pass
+73,Canada,91,7,Stephen EUSTAQUIO,On Target - Goal,Right Foot,Loose Ball
+74,Germany,5,26,Deniz UNDAV,Off Target,Right Foot,Pass
+74,Germany,7,17,Florian WIRTZ,Off Target,Right Foot,Loose Ball
+74,Germany,32,7,Kai HAVERTZ,Incomplete - Blocked,Left Foot,Pass
+74,Germany,44,6,Joshua KIMMICH,Off Target,Left Foot,Loose Ball
+74,Germany,47,6,Joshua KIMMICH,Off Target - Saved,Right Foot,Cross
+74,Germany,53,7,Kai HAVERTZ,On Target - Goal,Head,Cross
+74,Germany,55,8,Leon GORETZKA,Incomplete - Blocked,Right Foot,Loose Ball
+74,Germany,55,5,Aleksandar PAVLOVIC,Incomplete - Blocked,Right Foot,Loose Ball
+74,Germany,65,19,Leroy SANE,Deflected Off Target - Defensive Event,Left Foot,Freekick
+74,Germany,77,7,Kai HAVERTZ,On Target - Saved,Head,Cross
+74,Germany,79,17,Florian WIRTZ,Incomplete - Blocked,Right Foot,Freekick
+74,Germany,85,8,Leon GORETZKA,Incomplete - Referee Event,Head,Corner
+74,Germany,90,6,Joshua KIMMICH,Deflected Off Target - Defensive Event,Right Foot,Pass
+74,Germany,91,4,Jonathan TAH,On Target - Saved,Head,Corner
+74,Germany,92,11,Nick WOLTEMADE,Incomplete - Blocked,Left Foot,Loose Ball
+74,Germany,92,6,Joshua KIMMICH,Incomplete - Blocked,Right Foot,Loose Ball
+74,Germany,96,11,Nick WOLTEMADE,Incomplete - Blocked,Left Foot,Other
+74,Germany,109,7,Kai HAVERTZ,On Target - Saved,Head,Cross
+74,Germany,110,6,Joshua KIMMICH,On Target - Saved,Right Foot,Other
+74,Germany,118,3,Waldemar ANTON,On Target - Saved,Head,Corner
+74,Germany,120,20,Nadiem AMIRI,Off Target,Right Foot,Freekick
+74,Paraguay,0,19,Julio ENCISO,Deflected Off Target - Defensive Event,Right Foot,Other
+74,Paraguay,1,6,Junior ALONSO,On Target - Saved,Left Foot,Corner
+74,Paraguay,41,19,Julio ENCISO,On Target - Goal,Head,Cross
+74,Paraguay,49,19,Julio ENCISO,Off Target - Saved,Right Foot,Interception
+74,Paraguay,58,24,Gustavo CABALLERO,On Target - Saved,Head,Cross
+74,Paraguay,69,15,Gustavo GOMEZ,Off Target - Saved,Head,Corner
+74,Paraguay,92,10,Miguel ALMIRON,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+75,Netherlands,6,8,Ryan GRAVENBERCH,Incomplete - Blocked,Left Foot,Loose Ball
+75,Netherlands,36,22,Denzel DUMFRIES,Deflected Off Target - Defensive Event,Head,Corner
+75,Netherlands,43,15,Micky VAN DE VEN,Off Target - Saved,Left Foot,Pass
+75,Netherlands,47,15,Micky VAN DE VEN,On Target - Saved,Head,Other
+75,Netherlands,58,8,Ryan GRAVENBERCH,Incomplete - Blocked,Left Foot,Loose Ball
+75,Netherlands,71,11,Cody GAKPO,On Target - Goal,Right Foot,Pass
+75,Morocco,19,24,Neil EL AYNAOUI,On Target - Saved,Head,Corner
+75,Morocco,19,6,Ayyoub BOUADDI,Off Target,Right Foot,Pass
+75,Morocco,20,2,Achraf HAKIMI,On Target - Saved,Right Foot,Pass
+75,Morocco,47,8,Azzedine OUNAHI,Off Target,Right Foot,Loose Ball
+75,Morocco,48,6,Ayyoub BOUADDI,Off Target,Left Foot,Pass
+75,Morocco,51,2,Achraf HAKIMI,Off Target,Right Foot,Pass
+75,Morocco,55,2,Achraf HAKIMI,Incomplete - Blocked,Right Foot,Pass
+75,Morocco,57,23,Bilal EL KHANNOUSS,Deflected On Target - Saved,Right Foot,Loose Ball
+75,Morocco,77,26,Anass SALAH EDDINE,Incomplete - Blocked,Left Foot,Loose Ball
+75,Morocco,90,14,Issa DIOP,On Target - Goal,Head,Cross
+75,Morocco,96,9,Soufiane RAHIMI,On Target - Saved,Right Foot,Ball Progression
+76,Brazil,1,8,BRUNO GUIMARAES,Deflected Off Target - Defensive Event,Left Foot,Other
+76,Brazil,9,8,BRUNO GUIMARAES,Deflected Off Target - Defensive Event,Left Foot,Pass
+76,Brazil,13,9,MATHEUS CUNHA,Off Target - Saved,Left Foot,Pass
+76,Brazil,13,8,BRUNO GUIMARAES,Off Target,Right Foot,Pass
+76,Brazil,33,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Pass
+76,Brazil,34,20,LUCAS PAQUETA,Incomplete - Blocked,Left Foot,Pass
+76,Brazil,37,9,MATHEUS CUNHA,On Target - Saved,Right Foot,Pass
+76,Brazil,45,20,LUCAS PAQUETA,Off Target,Head,Pass
+76,Brazil,51,8,BRUNO GUIMARAES,On Target - Saved,Head,Pass
+76,Brazil,52,19,ENDRICK,Incomplete - Player On Ball Error,Left Foot,Cross
+76,Brazil,53,5,CASEMIRO,On Target - Goal Prevented,Head,Pass
+76,Brazil,55,5,CASEMIRO,On Target - Goal,Head,Pass
+76,Brazil,57,7,VINICIUS JUNIOR,On Target - Saved,Right Foot,Ball Progression
+76,Brazil,57,9,MATHEUS CUNHA,Off Target,Right Foot,Loose Ball
+76,Brazil,73,26,RAYAN,Deflected Off Target - Defensive Event,Head,Pass
+76,Brazil,76,22,GABRIEL MARTINELLI,Off Target,Right Foot,Loose Ball
+76,Brazil,88,7,VINICIUS JUNIOR,Deflected Off Target - Defensive Event,Right Foot,Pass
+76,Brazil,93,17,FABINHO,Off Target,Head,Corner
+76,Brazil,95,22,GABRIEL MARTINELLI,On Target - Goal,Right Foot,Pass
+76,Japan,15,15,Daichi KAMADA,Deflected Off Target - Defensive Event,Right Foot,Freekick
+76,Japan,27,18,Ayase UEDA,Off Target,Head,Corner
+76,Japan,28,24,Kaishu SANO,On Target - Goal,Right Foot,Ball Progression
+76,Japan,44,14,Junya ITO,Incomplete - Blocked,Left Foot,Pass
+76,Japan,63,18,Ayase UEDA,Deflected On Target - Saved,Right Foot,Pass
+77,France,14,3,Lucas DIGNE,On Target - Saved,Left Foot,Loose Ball
+77,France,16,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+77,France,18,12,Bradley BARCOLA,Off Target,Left Foot,Ball Progression
+77,France,27,7,Ousmane DEMBELE,Deflected Off Target - Defensive Event,Right Foot,Pass
+77,France,29,14,Adrien RABIOT,On Target - Saved,Left Foot,Pass
+77,France,31,10,Kylian MBAPPE,Off Target,Right Foot,Cross
+77,France,32,14,Adrien RABIOT,Off Target,Left Foot,Pass
+77,France,35,11,Michael OLISE,Off Target,Left Foot,Loose Ball
+77,France,35,7,Ousmane DEMBELE,Off Target,Left Foot,Other
+77,France,38,4,Dayot UPAMECANO,Incomplete - Player On Ball Error,Head,Freekick
+77,France,39,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+77,France,41,11,Michael OLISE,Off Target,Left Foot,Pass
+77,France,43,5,Jules KOUNDE,Incomplete - Defensive Event,Left Foot,Loose Ball
+77,France,44,11,Michael OLISE,On Target - Saved,Left Foot,Pass
+77,France,44,10,Kylian MBAPPE,On Target - Goal,Right Foot,Ball Progression
+77,France,49,8,Aurelien TCHOUAMENI,Off Target,Right Foot,Pass
+77,France,52,12,Bradley BARCOLA,On Target - Goal,Right Foot,Pass
+77,France,60,11,Michael OLISE,On Target - Saved,Left Foot,Pass
+77,France,64,11,Michael OLISE,Deflected Off Target - Defensive Event,Left Foot,Pass
+77,France,65,4,Dayot UPAMECANO,Incomplete - Defensive Event,Right Foot,Pass
+77,France,70,11,Michael OLISE,On Target - Saved,Left Foot,Pass
+77,France,73,10,Kylian MBAPPE,On Target - Goal,Right Foot,Pass
+77,France,80,20,Desire DOUE,On Target - Saved,Right Foot,Ball Progression
+77,France,81,12,Bradley BARCOLA,On Target - Saved,Left Foot,Ball Progression
+77,France,91,22,Jean-Philippe MATETA,Off Target,Left Foot,Cross
+77,Sweden,2,9,Alexander ISAK,Deflected On Target - Saved,Right Foot,Pass
+77,Sweden,27,9,Alexander ISAK,Off Target - Saved,Right Foot,Freekick
+77,Sweden,46,24,Elliot STROUD,Off Target,Right Foot,Loose Ball
+77,Sweden,56,7,Lucas BERGVALL,Off Target,Head,Corner
+77,Sweden,85,19,Mattias SVANBERG,Off Target,Right Foot,Loose Ball
+77,Sweden,88,17,Viktor GYOKERES,On Target - Saved,Right Foot,Loose Ball
+77,Sweden,93,25,Gustaf NILSSON,Incomplete - Player On Ball Error,Head,Cross
+77,Sweden,93,19,Mattias SVANBERG,On Target - Saved,Right Foot,Pass
+78,Côte d'Ivoire,7,11,Yan DIOMANDE,Incomplete - Player On Ball Error,Head,Other
+78,Côte d'Ivoire,20,3,Ghislain KONAN,Off Target,Right Foot,Ball Progression
+78,Côte d'Ivoire,27,19,Nicolas PEPE,Incomplete - Player On Ball Error,Right Foot,Cross
+78,Côte d'Ivoire,34,20,Emmanuel AGBADOU,On Target - Saved,Right Foot,Loose Ball
+78,Côte d'Ivoire,46,20,Emmanuel AGBADOU,Off Target,Head,Freekick
+78,Côte d'Ivoire,51,18,Ibrahim SANGARE,Off Target,Right Foot,Loose Ball
+78,Côte d'Ivoire,54,19,Nicolas PEPE,On Target - Saved,Left Foot,Loose Ball
+78,Côte d'Ivoire,56,8,Franck KESSIE,Deflected On Target - Saved,Right Foot,Pass
+78,Côte d'Ivoire,58,20,Emmanuel AGBADOU,Off Target,Right Foot,Pass
+78,Côte d'Ivoire,63,17,Guela DOUE,Incomplete - Blocked,Left Foot,Pass
+78,Côte d'Ivoire,71,3,Ghislain KONAN,Incomplete - Blocked,Right Foot,Pass
+78,Côte d'Ivoire,73,15,Amad DIALLO,On Target - Goal,Left Foot,Ball Progression
+78,Côte d'Ivoire,95,15,Amad DIALLO,On Target - Saved,Left Foot,Freekick
+78,Côte d'Ivoire,97,22,Evann GUESSAND,Incomplete - Player On Ball Error,Head,Corner
+78,Norway,2,9,Erling HAALAND,Incomplete - Blocked,Head,Cross
+78,Norway,36,9,Erling HAALAND,On Target - Saved,Head,Cross
+78,Norway,37,10,Martin ODEGAARD,Incomplete - Blocked,Left Foot,Pass
+78,Norway,38,20,Antonio NUSA,On Target - Goal,Right Foot,Pass
+78,Norway,41,9,Erling HAALAND,Deflected Off Target - Defensive Event,Left Foot,Other
+78,Norway,41,7,Alexander SORLOTH,Incomplete,Head,Corner
+78,Norway,66,17,Torbjorn HEGGEM,On Target - Goal Prevented,Right Foot,Pass
+78,Norway,85,9,Erling HAALAND,On Target - Goal,Left Foot,Cross
+78,Norway,89,21,Andreas SCHJELDERUP,Off Target,Right Foot,Other
+79,Mexico,3,25,Roberto ALVARADO,Incomplete - Blocked,Left Foot,Pass
+79,Mexico,4,19,Gilberto MORA,Off Target,Right Foot,Pass
+79,Mexico,5,7,Luis ROMO,Off Target,Right Foot,Pass
+79,Mexico,6,9,Raul JIMENEZ,Off Target,Head,Cross
+79,Mexico,13,25,Roberto ALVARADO,Deflected Off Target - Defensive Event,Right Foot,Pass
+79,Mexico,14,19,Gilberto MORA,Off Target,Right Foot,Loose Ball
+79,Mexico,21,16,Julian QUINONES,On Target - Goal,Right Foot,Pass
+79,Mexico,30,9,Raul JIMENEZ,On Target - Goal,Right Foot,Pass
+79,Mexico,43,9,Raul JIMENEZ,Off Target,Head,Cross
+79,Mexico,44,9,Raul JIMENEZ,Off Target,Right Foot,Pass
+79,Mexico,45,25,Roberto ALVARADO,Off Target,Left Foot,Pass
+79,Mexico,51,19,Gilberto MORA,Incomplete - Blocked,Right Foot,Pass
+79,Mexico,66,3,Cesar MONTES,On Target - Saved,Head,Corner
+79,Mexico,66,5,Johan VASQUEZ,Off Target,Head,Corner
+79,Mexico,91,17,Orbelin PINEDA,Off Target,Right Foot,Pass
+79,Ecuador,17,9,John YEBOAH,Off Target,Left Foot,Ball Progression
+79,Ecuador,39,9,John YEBOAH,On Target - Saved,Left Foot,Pass
+79,Ecuador,50,15,Pedro VITE,Off Target,Left Foot,Pass
+79,Ecuador,73,11,Kevin RODRIGUEZ,Off Target,Right Foot,Pass
+79,Ecuador,84,23,Moises CAICEDO,Off Target,Right Foot,Other
+79,Ecuador,87,26,Yaimar MEDINA,Incomplete,Head,Pass
+79,Ecuador,88,16,Jordy CAICEDO,Incomplete - Blocked,Left Foot,Other
+80,England,29,10,Jude BELLINGHAM,On Target - Saved,Head,Pass
+80,England,34,9,Harry KANE,Incomplete - Blocked,Right Foot,Loose Ball
+80,England,34,3,Nico OREILLY,Incomplete - Player On Ball Error,Lower Body,Pass
+80,England,34,11,Marcus RASHFORD,On Target - Goal Prevented,Right Foot,Loose Ball
+80,England,35,20,Noni MADUEKE,Incomplete - Blocked,Left Foot,Loose Ball
+80,England,38,20,Noni MADUEKE,Incomplete - Blocked,Left Foot,Pass
+80,England,46,10,Jude BELLINGHAM,On Target - Saved,Head,Cross
+80,England,50,9,Harry KANE,On Target - Saved,Right Foot,Corner
+80,England,50,11,Marcus RASHFORD,Off Target,Left Foot,Ball Progression
+80,England,53,11,Marcus RASHFORD,Off Target,Head,Cross
+80,England,74,9,Harry KANE,On Target - Goal,Head,Cross
+80,England,78,8,Elliot ANDERSON,Off Target,Right Foot,Pass
+80,England,84,18,Anthony GORDON,Incomplete - Player On Ball Error,Head,Cross
+80,England,85,10,Jude BELLINGHAM,On Target - Saved,Left Foot,Pass
+80,England,85,9,Harry KANE,On Target - Goal,Right Foot,Pass
+80,England,89,9,Harry KANE,Off Target,Right Foot,Pass
+80,Congo DR,6,9,Brian CIPENGA,On Target - Goal,Right Foot,Pass
+80,Congo DR,31,9,Brian CIPENGA,Off Target,Right Foot,Pass
+80,Congo DR,41,20,Yoane WISSA,Off Target,Right Foot,Cross
+80,Congo DR,61,9,Brian CIPENGA,Incomplete - Blocked,Right Foot,Pass
+80,Congo DR,62,7,Nathanael MBUKU,Deflected Off Target - Defensive Event,Left Foot,Pass
+80,Congo DR,84,13,Meschack ELIA,On Target - Saved,Right Foot,Other
+80,Congo DR,96,20,Yoane WISSA,Off Target,Right Foot,Freekick
+81,USA,3,10,Christian PULISIC,Deflected Off Target - Defensive Event,Right Foot,Pass
+81,USA,14,20,Folarin BALOGUN,Off Target,Right Foot,Cross
+81,USA,41,20,Folarin BALOGUN,Off Target,Right Foot,Freekick
+81,USA,44,20,Folarin BALOGUN,On Target - Goal,Left Foot,Loose Ball
+81,USA,52,20,Folarin BALOGUN,Off Target,Right Foot,Pass
+81,USA,78,17,Malik TILLMAN,Incomplete - Referee Event,Left Foot,Cross
+81,USA,81,17,Malik TILLMAN,On Target - Goal,Right Foot,Freekick
+81,USA,95,16,Alex FREEMAN,Off Target,Right Foot,Loose Ball
+81,Bosnia and Herzegovina,9,10,Ermedin DEMIROVIC,On Target - Saved,Right Foot,Pass
+81,Bosnia and Herzegovina,55,18,Nikola KATIC,Off Target,Right Foot,Pass
+81,Bosnia and Herzegovina,65,10,Ermedin DEMIROVIC,Deflected On Target - Saved,Right Foot,Loose Ball
+81,Bosnia and Herzegovina,67,20,Esmir BAJRAKTAREVIC,On Target - Saved,Left Foot,Loose Ball
+81,Bosnia and Herzegovina,73,7,Amar DEDIC,Incomplete - Blocked,Left Foot,Pass
+81,Bosnia and Herzegovina,76,19,Kerim ALAJBEGOVIC,Incomplete - Blocked,Left Foot,Loose Ball
+81,Bosnia and Herzegovina,89,15,Amar MEMIC,Incomplete - Blocked,Right Foot,Cross
+81,Bosnia and Herzegovina,91,19,Kerim ALAJBEGOVIC,Off Target,Right Foot,Pass
+81,Bosnia and Herzegovina,97,26,Ermin MAHMIC,Off Target,Right Foot,Pass
+81,Bosnia and Herzegovina,98,26,Ermin MAHMIC,Off Target,Right Foot,Pass
+82,Belgium,8,10,Leandro TROSSARD,On Target - Saved,Right Foot,Pass
+82,Belgium,17,7,Kevin DE BRUYNE,Off Target,Right Foot,Pass
+82,Belgium,44,5,Maxim DE CUYPER,On Target - Saved,Right Foot,Corner
+82,Belgium,49,5,Maxim DE CUYPER,Incomplete - Blocked,Left Foot,Freekick
+82,Belgium,50,7,Kevin DE BRUYNE,Off Target - Saved,Right Foot,Loose Ball
+82,Belgium,55,4,Brandon MECHELE,Off Target,Head,Other
+82,Belgium,59,14,Dodi LUKEBAKIO,Incomplete - Blocked,Left Foot,Pass
+82,Belgium,59,8,Youri TIELEMANS,Deflected Off Target - Defensive Event,Right Foot,Pass
+82,Belgium,61,14,Dodi LUKEBAKIO,Incomplete - Blocked,Left Foot,Pass
+82,Belgium,76,3,Arthur THEATE,Incomplete - Blocked,Left Foot,Pass
+82,Belgium,77,14,Dodi LUKEBAKIO,Off Target,Left Foot,Pass
+82,Belgium,82,21,Timothy CASTAGNE,Off Target,Head,Cross
+82,Belgium,83,8,Youri TIELEMANS,Off Target,Left Foot,Pass
+82,Belgium,85,9,Romelu LUKAKU,On Target - Goal,Right Foot,Cross
+82,Belgium,88,8,Youri TIELEMANS,On Target - Goal,Head,Pass
+82,Belgium,92,15,Thomas MEUNIER,Incomplete - Defensive Event,Right Foot,Loose Ball
+82,Belgium,103,10,Leandro TROSSARD,Incomplete - Blocked,Right Foot,Ball Progression
+82,Belgium,106,23,Nicolas RASKIN,Off Target,Head,Cross
+82,Belgium,124,8,Youri TIELEMANS,On Target - Goal,Right Foot,Penalty
+82,Senegal,12,18,Ismaila SARR,Off Target,Right Foot,Loose Ball
+82,Senegal,12,18,Ismaila SARR,Off Target,Right Foot,Other
+82,Senegal,16,5,Idrissa Gana GUEYE,On Target - Saved,Right Foot,Loose Ball
+82,Senegal,24,18,Ismaila SARR,Off Target,Head,Cross
+82,Senegal,24,21,Habib DIARRA,On Target - Goal,Right Foot,Other
+82,Senegal,36,10,Sadio MANE,On Target - Saved,Right Foot,Pass
+82,Senegal,45,26,Pape GUEYE,Off Target,Left Foot,Loose Ball
+82,Senegal,45,26,Pape GUEYE,Incomplete - Blocked,Right Foot,Pass
+82,Senegal,45,13,Iliman NDIAYE,Off Target,Left Foot,Loose Ball
+82,Senegal,50,21,Habib DIARRA,Off Target,Left Foot,Cross
+82,Senegal,50,18,Ismaila SARR,On Target - Goal,Right Foot,Pass
+82,Senegal,87,20,Ibrahim MBAYE,Off Target,Right Foot,Pass
+82,Senegal,95,5,Idrissa Gana GUEYE,Off Target,Right Foot,Pass
+82,Senegal,108,20,Ibrahim MBAYE,Off Target,Left Foot,Cross
+82,Senegal,112,22,Bara Sapoko NDIAYE,On Target - Saved,Left Foot,Pass
+82,Senegal,126,17,Pape Matar SARR,Off Target,Left Foot,Pass
+82,Senegal,130,6,Pathe CISS,Incomplete - Blocked,Right Foot,Pass
+82,Senegal,130,18,Ismaila SARR,Incomplete - Blocked,Right Foot,Loose Ball
+82,Senegal,131,17,Pape Matar SARR,Off Target,Right Foot,Freekick
+83,Portugal,3,8,BRUNO FERNANDES,On Target - Saved,Right Foot,Cross
+83,Portugal,3,8,BRUNO FERNANDES,Deflected Off Target - Defensive Event,Right Foot,Other
+83,Portugal,3,23,VITINHA,Incomplete - Blocked,Right Foot,Loose Ball
+83,Portugal,6,20,JOAO CANCELO,Off Target,Right Foot,Loose Ball
+83,Portugal,12,7,CRISTIANO RONALDO,Incomplete - Blocked,Right Foot,Freekick
+83,Portugal,15,13,RENATO VEIGA,Off Target,Head,Corner
+83,Portugal,23,15,JOAO NEVES,Off Target,Left Foot,Corner
+83,Portugal,33,25,NUNO MENDES,Deflected Off Target - Defensive Event,Right Foot,Ball Progression
+83,Portugal,45,17,RAFAEL LEAO,Off Target,Lower Body,Loose Ball
+83,Portugal,57,17,RAFAEL LEAO,Off Target,Right Foot,Pass
+83,Portugal,67,7,CRISTIANO RONALDO,On Target - Goal,Right Foot,Penalty
+83,Portugal,86,13,RENATO VEIGA,Off Target,Head,Corner
+83,Portugal,90,9,GONCALO RAMOS,Off Target,Head,Corner
+83,Portugal,93,9,GONCALO RAMOS,On Target - Goal,Head,Cross
+83,Portugal,101,26,FRANCISCO CONCEICAO,Incomplete - Player On Ball Error,Left Foot,Pass
+83,Croatia,2,11,Ante BUDIMIR,Off Target - Saved,Left Foot,Pass
+83,Croatia,9,11,Ante BUDIMIR,Off Target,Head,Cross
+83,Croatia,27,16,Martin BATURINA,Incomplete - Blocked,Left Foot,Pass
+83,Croatia,47,8,Mateo KOVACIC,On Target - Saved,Left Foot,Ball Progression
+83,Croatia,48,13,Nikola VLASIC,Off Target,Right Foot,Loose Ball
+83,Croatia,52,14,Ivan PERISIC,On Target - Goal,Left Foot,Loose Ball
+83,Croatia,58,17,Petar SUCIC,On Target - Saved,Right Foot,Pass
+83,Croatia,74,8,Mateo KOVACIC,On Target - Saved,Right Foot,Ball Progression
+83,Croatia,74,8,Mateo KOVACIC,On Target - Saved,Right Foot,Pass
+83,Croatia,75,20,Igor MATANOVIC,Off Target,Head,Corner
+83,Croatia,76,20,Igor MATANOVIC,On Target - Saved,Right Foot,Ball Progression
+83,Croatia,88,15,Mario PASALIC,Off Target,Head,Cross
+83,Croatia,98,20,Igor MATANOVIC,Incomplete - Blocked,Head,Corner
+84,Spain,1,19,Lamine YAMAL,On Target - Saved,Left Foot,Pass
+84,Spain,7,10,Dani OLMO,Incomplete,Right Foot,Cross
+84,Spain,7,14,Aymeric LAPORTE,Off Target,Head,Corner
+84,Spain,31,19,Lamine YAMAL,Off Target - Saved,Left Foot,Ball Progression
+84,Spain,32,21,Mikel OYARZABAL,On Target - Saved,Left Foot,Ball Progression
+84,Spain,35,21,Mikel OYARZABAL,On Target - Goal,Left Foot,Cross
+84,Spain,37,19,Lamine YAMAL,On Target - Saved,Right Foot,Ball Progression
+84,Spain,38,21,Mikel OYARZABAL,Incomplete - Blocked,Left Foot,Pass
+84,Spain,41,14,Aymeric LAPORTE,Off Target,Left Foot,Pass
+84,Spain,46,15,Alex BAENA,On Target - Saved,Right Foot,Freekick
+84,Spain,46,19,Lamine YAMAL,On Target - Saved,Left Foot,Loose Ball
+84,Spain,48,21,Mikel OYARZABAL,On Target - Saved,Left Foot,Ball Progression
+84,Spain,51,21,Mikel OYARZABAL,Off Target,Head,Corner
+84,Spain,53,16,RODRI,Deflected Off Target - Defensive Event,Right Foot,Pass
+84,Spain,57,15,Alex BAENA,Incomplete - Blocked,Right Foot,Pass
+84,Spain,58,19,Lamine YAMAL,Incomplete - Blocked,Left Foot,Pass
+84,Spain,61,10,Dani OLMO,Incomplete - Blocked,Right Foot,Pass
+84,Spain,65,10,Dani OLMO,Incomplete - Blocked,Right Foot,Pass
+84,Spain,65,12,Pedro PORRO,On Target - Goal,Head,Cross
+84,Spain,77,7,Ferran TORRES,Off Target,Head,Corner
+84,Spain,84,19,Lamine YAMAL,On Target - Goal Prevented,Left Foot,Loose Ball
+84,Spain,88,21,Mikel OYARZABAL,On Target - Goal,Right Foot,Cross
+84,Spain,94,7,Ferran TORRES,Off Target,Right Foot,Pass
+84,Austria,34,8,David ALABA,Off Target,Left Foot,Loose Ball
+84,Austria,44,6,Nicolas SEIWALD,Incomplete - Blocked,Left Foot,Cross
+84,Austria,60,14,Sasa KALAJDZIC,Off Target,Head,Cross
+84,Austria,78,17,Carney CHUKWUEMEKA,Off Target,Right Foot,Pass
+84,Austria,81,5,Stefan POSCH,Off Target,Head,Cross
+85,Switzerland,10,7,Breel EMBOLO,On Target - Goal,Left Foot,Cross
+85,Switzerland,15,6,Denis ZAKARIA,On Target - Saved,Right Foot,Pass
+85,Switzerland,24,13,Ricardo RODRIGUEZ,Off Target,Left Foot,Pass
+85,Switzerland,36,6,Denis ZAKARIA,Off Target,Head,Freekick
+85,Switzerland,45,11,Dan NDOYE,On Target - Goal,Right Foot,Loose Ball
+85,Switzerland,64,4,Nico ELVEDI,Incomplete - Blocked,Head,Corner
+85,Switzerland,74,22,Fabian RIEDER,On Target - Goal Prevented,Left Foot,Loose Ball
+85,Switzerland,79,7,Breel EMBOLO,Off Target,Right Foot,Pass
+85,Switzerland,80,22,Fabian RIEDER,Off Target - Saved,Left Foot,Cross
+85,Switzerland,95,19,Noah OKAFOR,Incomplete - Blocked,Right Foot,Pass
+85,Switzerland,95,8,Remo FREULER,On Target - Saved,Right Foot,Loose Ball
+85,Algeria,5,8,Houssem AOUAR,Incomplete - Player On Ball Error,Right Foot,Cross
+85,Algeria,13,8,Houssem AOUAR,On Target - Saved,Right Foot,Pass
+85,Algeria,17,22,Ibrahim MAZA,Incomplete - Blocked,Right Foot,Pass
+85,Algeria,42,10,Fares CHAIBI,On Target - Saved,Right Foot,Pass
+85,Algeria,46,22,Ibrahim MAZA,Off Target,Left Foot,Other
+85,Algeria,49,7,Riyad MAHREZ,Incomplete - Blocked,Left Foot,Cross
+85,Algeria,76,13,Jaouen HADJAM,Off Target,Right Foot,Ball Progression
+85,Algeria,92,22,Ibrahim MAZA,Incomplete - Blocked,Right Foot,Pass
+86,Argentina,14,10,Lionel MESSI,Off Target,Left Foot,Pass
+86,Argentina,17,10,Lionel MESSI,On Target - Saved,Left Foot,Freekick
+86,Argentina,28,10,Lionel MESSI,On Target - Goal,Left Foot,Pass
+86,Argentina,44,24,Enzo FERNANDEZ,On Target - Saved,Right Foot,Loose Ball
+86,Argentina,62,10,Lionel MESSI,On Target - Saved,Right Foot,Ball Progression
+86,Argentina,66,24,Enzo FERNANDEZ,Off Target,Right Foot,Pass
+86,Argentina,68,10,Lionel MESSI,On Target - Saved,Right Foot,Freekick
+86,Argentina,72,10,Lionel MESSI,On Target - Saved,Left Foot,Freekick
+86,Argentina,72,15,Nico GONZALEZ,Off Target,Head,Corner
+86,Argentina,83,15,Nico GONZALEZ,Incomplete - Player On Ball Error,Head,Corner
+86,Argentina,86,20,Alexis MAC ALLISTER,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+86,Argentina,88,20,Alexis MAC ALLISTER,Incomplete - Blocked,Head,Pass
+86,Argentina,91,5,Leandro PAREDES,On Target - Saved,Right Foot,Pass
+86,Argentina,94,10,Lionel MESSI,Deflected On Target - Saved,Left Foot,Freekick
+86,Argentina,94,24,Enzo FERNANDEZ,On Target - Saved,Head,Other
+86,Argentina,91,6,Lisandro MARTINEZ,On Target - Goal,Left Foot,Pass
+86,Argentina,97,10,Lionel MESSI,Incomplete - Blocked,Left Foot,Pass
+86,Argentina,97,9,Julian ALVAREZ,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+86,Argentina,98,24,Enzo FERNANDEZ,Incomplete - Blocked,Right Foot,Loose Ball
+86,Argentina,105,10,Lionel MESSI,On Target - Saved,Left Foot,Loose Ball
+86,Argentina,105,4,Gonzalo MONTIEL,Incomplete - Blocked,Right Foot,Other
+86,Argentina,110,13,Cristian ROMERO,Deflected On Target - Defensive Event,Head,Corner
+86,Cabo Verde,6,20,RYAN MENDES,Deflected Off Target - Defensive Event,Left Foot,Other
+86,Cabo Verde,48,7,JOVANE CABRAL,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+86,Cabo Verde,49,20,RYAN MENDES,Off Target,Right Foot,Other
+86,Cabo Verde,53,14,DEROY DUARTE,On Target - Saved,Left Foot,Loose Ball
+86,Cabo Verde,58,14,DEROY DUARTE,On Target - Goal,Right Foot,Pass
+86,Cabo Verde,77,6,KEVIN PINA,Off Target,Right Foot,Freekick
+86,Cabo Verde,96,3,DINEY BORGES,Incomplete - Player On Ball Error,Head,Loose Ball
+86,Cabo Verde,96,22,STEVEN MOREIRA,Incomplete - Blocked,Right Foot,Pass
+86,Cabo Verde,102,13,SIDNY LOPES CABRAL,On Target - Goal,Right Foot,Ball Progression
+86,Cabo Verde,107,16,YANNICK SEMEDO,Off Target,Right Foot,Pass
+86,Cabo Verde,113,17,WILLY SEMEDO,Incomplete - Blocked,Left Foot,Pass
+86,Cabo Verde,115,13,SIDNY LOPES CABRAL,On Target - Saved,Right Foot,Freekick
+86,Cabo Verde,118,3,DINEY BORGES,Deflected On Target - Saved,Head,Cross
+86,Cabo Verde,120,26,HELIO VARELA,Deflected Off Target - Defensive Event,Right Foot,Pass
+86,Cabo Verde,121,10,JAMIRO MONTEIRO,Incomplete - Defensive Event,Right Foot,Corner
+86,Cabo Verde,121,26,HELIO VARELA,Off Target,Right Foot,Loose Ball
+87,Colombia,13,11,Jhon ARIAS,On Target - Goal,Right Foot,Cross
+87,Colombia,19,7,Luis DIAZ,On Target - Saved,Right Foot,Pass
+87,Colombia,38,7,Luis DIAZ,Off Target,Right Foot,Loose Ball
+87,Colombia,41,25,Luis SUAREZ,Off Target,Head,Cross
+87,Colombia,45,17,Johan MOJICA,On Target - Saved,Head,Cross
+87,Colombia,47,6,Richard RIOS,Off Target,Right Foot,Pass
+87,Colombia,54,14,Gustavo PUERTA,On Target - Saved,Right Foot,Corner
+87,Colombia,55,23,Davinson SANCHEZ,Off Target,Right Foot,Loose Ball
+87,Colombia,57,7,Luis DIAZ,On Target - Saved,Right Foot,Pass
+87,Colombia,76,20,Juan QUINTERO,Off Target,Left Foot,Freekick
+87,Colombia,79,7,Luis DIAZ,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+87,Colombia,80,23,Davinson SANCHEZ,On Target - Saved,Head,Corner
+87,Colombia,83,20,Juan QUINTERO,Off Target,Left Foot,Pass
+87,Colombia,86,7,Luis DIAZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+87,Colombia,91,6,Richard RIOS,Off Target,Head,Cross
+87,Colombia,94,21,Jaminton CAMPAZ,Off Target,Left Foot,Pass
+87,Colombia,94,25,Luis SUAREZ,Incomplete - Blocked,Right Foot,Pass
+87,Colombia,94,14,Gustavo PUERTA,Incomplete - Defensive Event,Right Foot,Loose Ball
+87,Colombia,95,6,Richard RIOS,On Target - Saved,Right Foot,Ball Progression
+87,Colombia,95,21,Jaminton CAMPAZ,On Target - Saved,Left Foot,Other
+87,Ghana,0,5,Thomas PARTEY,Off Target,Right Foot,Loose Ball
+87,Ghana,33,19,Inaki WILLIAMS,Incomplete - Blocked,Right Foot,Pass
+87,Ghana,36,11,Antoine SEMENYO,Deflected Off Target - Defensive Event,Right Foot,Pass
+87,Ghana,39,19,Inaki WILLIAMS,Off Target,Left Foot,Pass
+87,Ghana,43,11,Antoine SEMENYO,Incomplete - Blocked,Right Foot,Pass
+87,Ghana,43,19,Inaki WILLIAMS,Incomplete - Blocked,Left Foot,Loose Ball
+87,Ghana,68,11,Antoine SEMENYO,Incomplete - Blocked,Left Foot,Ball Progression
+87,Ghana,68,5,Thomas PARTEY,Off Target,Right Foot,Loose Ball
+88,Australia,4,20,Cristian VOLPATO,Off Target,Left Foot,Ball Progression
+88,Australia,14,8,Connor METCALFE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+88,Australia,14,13,Aiden ONEILL,Off Target,Left Foot,Pass
+88,Australia,34,16,Aziz BEHICH,On Target - Saved,Left Foot,Pass
+88,Australia,46,20,Cristian VOLPATO,Off Target,Left Foot,Ball Progression
+88,Australia,47,17,Nestory IRANKUNDA,Deflected On Target - Defensive Event,Head,Cross
+88,Australia,60,17,Nestory IRANKUNDA,Incomplete - Blocked,Right Foot,Loose Ball
+88,Australia,77,10,Ajdin HRUSTIC,Incomplete - Blocked,Left Foot,Ball Progression
+88,Australia,80,8,Connor METCALFE,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+88,Australia,85,10,Ajdin HRUSTIC,Incomplete - Blocked,Left Foot,Pass
+88,Australia,87,22,Jackson IRVINE,Incomplete,Upper Body,Corner
+88,Australia,87,15,Kai TREWIN,Incomplete - Blocked,Right Foot,Loose Ball
+88,Australia,105,9,Mohamed TOURE,Off Target,Head,Loose Ball
+88,Australia,117,11,Awer MABIL,Incomplete - Blocked,Right Foot,Freekick
+88,Australia,121,3,Alessandro CIRCATI,Incomplete - Blocked,Head,Freekick
+88,Australia,121,9,Mohamed TOURE,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+88,Egypt,12,8,EMAM ASHOUR,Incomplete - Blocked,Right Foot,Freekick
+88,Egypt,12,8,EMAM ASHOUR,On Target - Goal,Head,Pass
+88,Egypt,15,22,OMAR MARMOUSH,Incomplete - Blocked,Right Foot,Pass
+88,Egypt,45,22,OMAR MARMOUSH,Off Target,Right Foot,Pass
+88,Egypt,72,8,EMAM ASHOUR,Off Target,Right Foot,Loose Ball
+88,Egypt,85,19,MARAWAN ATTIA,Incomplete - Blocked,Right Foot,Loose Ball
+88,Egypt,92,5,RAMY RABIA,On Target - Saved,Head,Cross
+88,Egypt,93,10,MOHAMED SALAH,On Target - Saved,Left Foot,Loose Ball
+88,Egypt,94,19,MARAWAN ATTIA,Incomplete - Blocked,Right Foot,Pass
+88,Egypt,95,12,HAISSEM HASSAN,Incomplete - Blocked,Right Foot,Pass
+88,Egypt,92,10,MOHAMED SALAH,Off Target,Right Foot,Pass
+88,Egypt,102,8,EMAM ASHOUR,Off Target,Left Foot,Pass
+88,Egypt,108,19,MARAWAN ATTIA,Deflected On Target - Defensive Event,Right Foot,Pass
+88,Egypt,111,8,EMAM ASHOUR,Deflected Off Target - Defensive Event,Left Foot,Pass
+89,Paraguay,27,6,Junior ALONSO,Incomplete - Blocked,Left Foot,Ball Progression
+89,Paraguay,27,8,Diego GOMEZ,Off Target,Right Foot,Loose Ball
+89,Paraguay,49,10,Miguel ALMIRON,Deflected Off Target - Defensive Event,Left Foot,Ball Progression
+89,Paraguay,86,6,Junior ALONSO,Off Target,Left Foot,Pass
+89,Paraguay,89,11,MAURICIO,Off Target - Saved,Right Foot,Pass
+89,France,21,6,Manu KONE,Deflected Off Target - Defensive Event,Left Foot,Pass
+89,France,32,14,Adrien RABIOT,Off Target,Left Foot,Pass
+89,France,37,7,Ousmane DEMBELE,Deflected Off Target - Defensive Event,Left Foot,Pass
+89,France,42,6,Manu KONE,Off Target,Right Foot,Pass
+89,France,44,14,Adrien RABIOT,Deflected Off Target - Defensive Event,Left Foot,Pass
+89,France,48,14,Adrien RABIOT,Off Target,Left Foot,Pass
+89,France,51,7,Ousmane DEMBELE,Off Target,Right Foot,Corner
+89,France,53,6,Manu KONE,On Target - Saved,Right Foot,Pass
+89,France,59,12,Bradley BARCOLA,Off Target,Right Foot,Pass
+89,France,63,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+89,France,69,10,Kylian MBAPPE,On Target - Goal,Right Foot,Penalty
+89,France,88,10,Kylian MBAPPE,On Target - Saved,Right Foot,Pass
+89,France,90,20,Desire DOUE,Incomplete - Blocked,Right Foot,Pass
+89,France,95,10,Kylian MBAPPE,On Target - Saved,Left Foot,Pass
+89,France,95,10,Kylian MBAPPE,On Target - Saved,Left Foot,Other
+90,Canada,4,10,Jonathan DAVID,On Target - Saved,Left Foot,Pass
+90,Canada,9,12,Tani OLUWASEYI,On Target - Saved,Left Foot,Ball Progression
+90,Canada,10,12,Tani OLUWASEYI,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+90,Canada,17,2,Alistair JOHNSTON,Incomplete - Blocked,Head,Corner
+90,Canada,48,4,Luc DE FOUGEROLLES,Off Target,Right Foot,Pass
+90,Canada,77,10,Jonathan DAVID,Off Target,Right Foot,Freekick
+90,Canada,78,17,Tajon BUCHANAN,On Target - Saved,Right Foot,Pass
+90,Canada,83,10,Jonathan DAVID,Incomplete - Blocked,Left Foot,Pass
+90,Canada,89,21,Jonathan OSORIO,Incomplete - Blocked,Right Foot,Pass
+90,Canada,96,26,Jayden NELSON,Incomplete - Blocked,Right Foot,Freekick
+90,Morocco,28,9,Soufiane RAHIMI,Deflected On Target - Saved,Right Foot,Pass
+90,Morocco,49,8,Azzedine OUNAHI,On Target - Goal,Right Foot,Freekick
+90,Morocco,81,8,Azzedine OUNAHI,On Target - Goal,Right Foot,Pass
+90,Morocco,84,9,Soufiane RAHIMI,Off Target,Head,Cross
+90,Morocco,97,9,Soufiane RAHIMI,On Target - Goal,Left Foot,Pass
+91,Brazil,13,8,BRUNO GUIMARAES,On Target - Saved,Right Foot,Penalty
+91,Brazil,15,26,RAYAN,Off Target,Right Foot,Ball Progression
+91,Brazil,30,13,DANILO,Incomplete - Player On Ball Error,Right Foot,Pass
+91,Brazil,34,7,VINICIUS JUNIOR,Incomplete - Blocked,Right Foot,Pass
+91,Brazil,39,5,CASEMIRO,Incomplete - Blocked,Left Foot,Pass
+91,Brazil,39,7,VINICIUS JUNIOR,On Target - Saved,Left Foot,Ball Progression
+91,Brazil,48,8,BRUNO GUIMARAES,Incomplete,Right Foot,Pass
+91,Brazil,48,9,MATHEUS CUNHA,Incomplete - Player On Ball Error,Head,Loose Ball
+91,Brazil,58,19,ENDRICK,Off Target,Left Foot,Pass
+91,Brazil,60,19,ENDRICK,Deflected Off Target - Defensive Event,Left Foot,Pass
+91,Brazil,61,26,RAYAN,Deflected On Target - Saved,Right Foot,Pass
+91,Brazil,83,10,NEYMAR JR,Incomplete - Player On Ball Error,Right Foot,Ball Progression
+91,Brazil,93,2,EDERSON SILVA,Incomplete - Blocked,Right Foot,Pass
+91,Brazil,99,10,NEYMAR JR,On Target - Goal,Right Foot,Penalty
+91,Norway,34,10,Martin ODEGAARD,Off Target,Left Foot,Loose Ball
+91,Norway,36,9,Erling HAALAND,On Target - Saved,Left Foot,Cross
+91,Norway,42,10,Martin ODEGAARD,Deflected Off Target - Defensive Event,Left Foot,Pass
+91,Norway,47,10,Martin ODEGAARD,On Target - Saved,Left Foot,Loose Ball
+91,Norway,48,6,Patrick BERG,Off Target,Right Foot,Ball Progression
+91,Norway,66,9,Erling HAALAND,Off Target,Left Foot,Cross
+91,Norway,74,21,Andreas SCHJELDERUP,On Target - Saved,Right Foot,Pass
+91,Norway,79,9,Erling HAALAND,On Target - Goal,Head,Cross
+91,Norway,89,9,Erling HAALAND,On Target - Goal,Left Foot,Pass
+92,Mexico,2,9,Raul JIMENEZ,Incomplete - Blocked,Right Foot,Ball Progression
+92,Mexico,14,9,Raul JIMENEZ,On Target - Saved,Head,Cross
+92,Mexico,18,19,Gilberto MORA,Incomplete - Blocked,Right Foot,Pass
+92,Mexico,31,7,Luis ROMO,Off Target,Right Foot,Pass
+92,Mexico,41,16,Julian QUINONES,On Target - Goal,Right Foot,Loose Ball
+92,Mexico,45,9,Raul JIMENEZ,Off Target,Left Foot,Pass
+92,Mexico,47,9,Raul JIMENEZ,On Target - Saved,Head,Pass
+92,Mexico,47,16,Julian QUINONES,Incomplete - Blocked,Right Foot,Pass
+92,Mexico,56,16,Julian QUINONES,Off Target,Right Foot,Pass
+92,Mexico,68,9,Raul JIMENEZ,On Target - Goal,Right Foot,Penalty
+92,Mexico,77,26,Brian GUTIERREZ,Incomplete - Blocked,Right Foot,Pass
+92,Mexico,79,4,Edson ALVAREZ,Incomplete - Player On Ball Error,Head,Corner
+92,Mexico,81,11,Santiago GIMENEZ,Off Target,Left Foot,Pass
+92,Mexico,88,8,Alvaro FIDALGO,Deflected On Target - Saved,Right Foot,Pass
+92,Mexico,93,23,Jesus GALLARDO,Off Target,Right Foot,Pass
+92,Mexico,95,9,Raul JIMENEZ,Incomplete - Blocked,Right Foot,Pass
+92,Mexico,95,4,Edson ALVAREZ,Incomplete - Blocked,Right Foot,Pass
+92,Mexico,96,9,Raul JIMENEZ,Off Target,Right Foot,Cross
+92,Mexico,101,9,Raul JIMENEZ,Incomplete - Blocked,Right Foot,Loose Ball
+92,Mexico,101,8,Alvaro FIDALGO,Deflected Off Target - Defensive Event,Right Foot,Loose Ball
+92,England,25,18,Anthony GORDON,On Target - Saved,Right Foot,Ball Progression
+92,England,35,10,Jude BELLINGHAM,On Target - Goal,Head,Cross
+92,England,37,10,Jude BELLINGHAM,Deflected On Target - Goal,Right Foot,Cross
+92,England,48,3,Nico OREILLY,Incomplete,Left Foot,Loose Ball
+92,England,59,9,Harry KANE,On Target - Goal,Right Foot,Penalty
+92,England,92,10,Jude BELLINGHAM,On Target - Saved,Right Foot,Pass
+93,Portugal,6,20,JOAO CANCELO,Off Target,Right Foot,Pass
+93,Portugal,9,18,PEDRO NETO,Incomplete - Blocked,Left Foot,Loose Ball
+93,Portugal,11,7,CRISTIANO RONALDO,On Target - Saved,Right Foot,Pass
+93,Portugal,36,7,CRISTIANO RONALDO,On Target - Saved,Right Foot,Loose Ball
+93,Portugal,40,25,NUNO MENDES,Deflected Off Target - Defensive Event,Left Foot,Pass
+93,Portugal,58,7,CRISTIANO RONALDO,Off Target - Saved,Right Foot,Pass
+93,Portugal,75,23,VITINHA,Incomplete - Blocked,Right Foot,Pass
+93,Portugal,75,8,BRUNO FERNANDES,Off Target,Right Foot,Loose Ball
+93,Portugal,96,10,BERNARDO SILVA,Off Target,Head,Cross
+93,Portugal,98,15,JOAO NEVES,Off Target,Head,Freekick
+93,Spain,2,21,Mikel OYARZABAL,On Target - Saved,Left Foot,Ball Progression
+93,Spain,7,21,Mikel OYARZABAL,Off Target,Left Foot,Pass
+93,Spain,13,15,Alex BAENA,Off Target,Right Foot,Loose Ball
+93,Spain,15,19,Lamine YAMAL,On Target - Saved,Left Foot,Pass
+93,Spain,15,15,Alex BAENA,On Target - Saved,Right Foot,Other
+93,Spain,22,12,Pedro PORRO,Incomplete,Right Foot,Loose Ball
+93,Spain,30,10,Dani OLMO,Off Target,Head,Loose Ball
+93,Spain,44,16,RODRI,Off Target,Right Foot,Loose Ball
+93,Spain,60,20,PEDRI,Deflected Off Target - Defensive Event,Right Foot,Pass
+93,Spain,61,19,Lamine YAMAL,Deflected Off Target - Defensive Event,Left Foot,Loose Ball
+93,Spain,64,15,Alex BAENA,On Target - Saved,Left Foot,Loose Ball
+93,Spain,72,19,Lamine YAMAL,On Target - Saved,Left Foot,Freekick
+93,Spain,76,7,Ferran TORRES,Off Target,Right Foot,Pass
+93,Spain,77,10,Dani OLMO,Deflected Off Target - Defensive Event,Right Foot,Pass
+93,Spain,90,6,Mikel MERINO,On Target - Goal,Left Foot,Pass
+94,USA,30,17,Malik TILLMAN,Deflected On Target - Goal,Right Foot,Freekick
+94,USA,44,16,Alex FREEMAN,Incomplete - Player On Ball Error,Head,Other
+94,USA,44,20,Folarin BALOGUN,Off Target,Right Foot,Loose Ball
+94,USA,65,16,Alex FREEMAN,Off Target,Head,Corner
+94,USA,78,14,Sebastian BERHALTER,Off Target,Left Foot,Loose Ball
+94,USA,81,20,Folarin BALOGUN,On Target - Saved,Left Foot,Pass
+94,USA,82,20,Folarin BALOGUN,Deflected Off Target - Defensive Event,Head,Corner
+94,Belgium,0,10,Leandro TROSSARD,Incomplete - Blocked,Left Foot,Loose Ball
+94,Belgium,0,8,Youri TIELEMANS,Incomplete - Blocked,Left Foot,Loose Ball
+94,Belgium,0,21,Timothy CASTAGNE,On Target - Saved,Right Foot,Loose Ball
+94,Belgium,1,17,Charles DE KETELAERE,On Target - Saved,Head,Corner
+94,Belgium,7,8,Youri TIELEMANS,Incomplete - Player On Ball Error,Right Foot,Cross
+94,Belgium,8,17,Charles DE KETELAERE,On Target - Goal,Right Foot,Cross
+94,Belgium,13,10,Leandro TROSSARD,Off Target,Right Foot,Pass
+94,Belgium,32,17,Charles DE KETELAERE,Deflected On Target - Goal,Head,Cross
+94,Belgium,38,23,Nicolas RASKIN,On Target - Saved,Right Foot,Corner
+94,Belgium,42,14,Dodi LUKEBAKIO,Off Target,Head,Freekick
+94,Belgium,48,14,Dodi LUKEBAKIO,Off Target,Left Foot,Pass
+94,Belgium,56,20,Hans VANAKEN,Deflected On Target - Goal,Right Foot,Loose Ball
+94,Belgium,61,10,Leandro TROSSARD,Deflected Off Target - Defensive Event,Left Foot,Pass
+94,Belgium,85,10,Leandro TROSSARD,Incomplete - Blocked,Left Foot,Pass
+94,Belgium,92,9,Romelu LUKAKU,On Target - Goal,Right Foot,Loose Ball
+95,Argentina,20,10,Lionel MESSI,On Target - Saved,Left Foot,Penalty
+95,Argentina,27,20,Alexis MAC ALLISTER,On Target - Saved,Head,Cross
+95,Argentina,28,24,Enzo FERNANDEZ,Deflected Off Target - Defensive Event,Left Foot,Pass
+95,Argentina,30,10,Lionel MESSI,Off Target,Left Foot,Freekick
+95,Argentina,37,10,Lionel MESSI,Off Target,Left Foot,Pass
+95,Argentina,38,9,Julian ALVAREZ,On Target - Saved,Left Foot,Pass
+95,Argentina,42,9,Julian ALVAREZ,Off Target,Right Foot,Pass
+95,Argentina,46,7,Rodrigo DE PAUL,On Target - Saved,Right Foot,Pass
+95,Argentina,52,5,Leandro PAREDES,Off Target,Right Foot,Ball Progression
+95,Argentina,57,5,Leandro PAREDES,Deflected Off Target - Defensive Event,Right Foot,Pass
+95,Argentina,60,20,Alexis MAC ALLISTER,Deflected Off Target - Defensive Event,Head,Freekick
+95,Argentina,69,6,Lisandro MARTINEZ,Incomplete - Player On Ball Error,Left Foot,Loose Ball
+95,Argentina,73,22,Lautaro MARTINEZ,Incomplete - Blocked,Left Foot,Cross
+95,Argentina,74,22,Lautaro MARTINEZ,Off Target,Right Foot,Cross
+95,Argentina,77,10,Lionel MESSI,Incomplete - Blocked,Right Foot,Pass
+95,Argentina,78,13,Cristian ROMERO,On Target - Goal,Head,Cross
+95,Argentina,81,22,Lautaro MARTINEZ,Off Target,Head,Cross
+95,Argentina,82,10,Lionel MESSI,On Target - Goal,Left Foot,Pass
+95,Argentina,91,24,Enzo FERNANDEZ,On Target - Goal,Head,Cross
+95,Egypt,14,2,YASSER IBRAHIM,On Target - Goal,Head,Pass
+95,Egypt,34,15,KARIM HAFEZ,Off Target,Right Foot,Interception
+95,Egypt,66,11,MOSTAFA ZICO,On Target - Goal,Right Foot,Cross
+95,Egypt,76,7,TREZEGUET,Off Target,Right Foot,Pass
+95,Egypt,91,7,TREZEGUET,Incomplete - Blocked,Head,Cross
+96,Switzerland,29,22,Fabian RIEDER,On Target - Saved,Left Foot,Loose Ball
+96,Switzerland,31,11,Dan NDOYE,On Target - Saved,Left Foot,Pass
+96,Switzerland,46,15,Djibril SOW,Off Target,Left Foot,Cross
+96,Switzerland,52,22,Fabian RIEDER,Off Target,Left Foot,Freekick
+96,Switzerland,60,22,Fabian RIEDER,Incomplete - Blocked,Left Foot,Ball Progression
+96,Switzerland,90,11,Dan NDOYE,Incomplete - Player On Ball Error,Right Foot,Pass
+96,Switzerland,113,10,Granit XHAKA,Off Target,Left Foot,Pass
+96,Colombia,2,11,Jhon ARIAS,Incomplete - Blocked,Right Foot,Cross
+96,Colombia,20,14,Gustavo PUERTA,On Target - Saved,Right Foot,Pass
+96,Colombia,32,7,Luis DIAZ,Incomplete - Blocked,Right Foot,Pass
+96,Colombia,38,25,Luis SUAREZ,Incomplete - Blocked,Right Foot,Pass
+96,Colombia,38,14,Gustavo PUERTA,Incomplete - Player On Ball Error,Right Foot,Loose Ball
+96,Colombia,59,7,Luis DIAZ,On Target - Saved,Left Foot,Other
+96,Colombia,62,25,Luis SUAREZ,Off Target,Right Foot,Other
+96,Colombia,92,23,Davinson SANCHEZ,Off Target,Right Foot,Loose Ball
+96,Colombia,98,3,Jhon LUCUMI,Off Target,Head,Corner
+96,Colombia,99,6,Richard RIOS,Off Target,Right Foot,Pass
+96,Colombia,100,21,Jaminton CAMPAZ,On Target - Saved,Left Foot,Ball Progression
+96,Colombia,105,7,Luis DIAZ,Deflected Off Target - Defensive Event,Right Foot,Pass
+96,Colombia,111,20,Juan QUINTERO,Off Target,Left Foot,Pass
+96,Colombia,114,21,Jaminton CAMPAZ,Off Target,Left Foot,Loose Ball
+96,Colombia,116,19,Cucho HERNANDEZ,Incomplete - Player On Ball Error,Head,Freekick
+97,France,3,10,Kylian MBAPPE,Off Target - Saved,Right Foot,Pass
+97,France,3,4,Dayot UPAMECANO,On Target - Saved,Head,Cross
+97,France,9,20,Desire DOUE,Incomplete - Blocked,Right Foot,Pass
+97,France,17,7,Ousmane DEMBELE,Off Target,Head,Cross
+97,France,19,7,Ousmane DEMBELE,Incomplete - Blocked,Left Foot,Pass
+97,France,20,14,Adrien RABIOT,Off Target,Head,Cross
+97,France,27,10,Kylian MBAPPE,On Target - Saved,Right Foot,Penalty
+97,France,32,7,Ousmane DEMBELE,Off Target,Left Foot,Pass
+97,France,34,20,Desire DOUE,On Target - Saved,Right Foot,Tackle
+97,France,35,5,Jules KOUNDE,Deflected Off Target - Defensive Event,Head,Corner
+97,France,45,6,Manu KONE,Incomplete - Blocked,Right Foot,Pass
+97,France,46,11,Michael OLISE,Incomplete - Blocked,Left Foot,Pass
+97,France,46,3,Lucas DIGNE,Off Target,Left Foot,Loose Ball
+97,France,54,20,Desire DOUE,On Target - Saved,Right Foot,Pass
+97,France,55,10,Kylian MBAPPE,Off Target,Right Foot,Pass
+97,France,59,10,Kylian MBAPPE,On Target - Goal,Right Foot,Pass
+97,France,65,7,Ousmane DEMBELE,On Target - Goal,Right Foot,Pass
+97,France,85,11,Michael OLISE,Off Target,Left Foot,Pass
+97,France,87,12,Bradley BARCOLA,On Target - Saved,Right Foot,Loose Ball
+97,France,87,22,Jean-Philippe MATETA,Off Target,Head,Corner
+97,France,93,22,Jean-Philippe MATETA,On Target - Saved,Left Foot,Ball Progression
+97,France,96,11,Michael OLISE,Off Target,Left Foot,Pass
+97,Morocco,49,2,Achraf HAKIMI,Off Target,Right Foot,Freekick
+97,Morocco,47,10,Brahim DIAZ,Incomplete - Blocked,Right Foot,Pass
+97,Morocco,82,8,Azzedine OUNAHI,On Target - Saved,Right Foot,Freekick
+97,Morocco,83,24,Neil EL AYNAOUI,Off Target,Head,Corner
+97,Morocco,94,16,Gessime YASSINE,Off Target,Left Foot,Pass
+98,Spain,9,16,RODRI,Incomplete - Blocked,Right Foot,Cross
+98,Spain,12,15,Alex BAENA,Incomplete - Blocked,Right Foot,Pass
+98,Spain,20,19,Lamine YAMAL,Off Target,Left Foot,Loose Ball
+98,Spain,29,10,Dani OLMO,On Target - Saved,Right Foot,Cross
+98,Spain,29,8,Fabian RUIZ,Deflected On Target - Goal,Right Foot,Other
+98,Spain,34,19,Lamine YAMAL,On Target - Saved,Left Foot,Freekick
+98,Spain,39,19,Lamine YAMAL,Off Target,Left Foot,Ball Progression
+98,Spain,44,12,Pedro PORRO,Off Target,Left Foot,Pass
+98,Spain,46,8,Fabian RUIZ,Incomplete - Blocked,Left Foot,Pass
+98,Spain,51,19,Lamine YAMAL,Deflected Off Target - Defensive Event,Left Foot,Other
+98,Spain,52,10,Dani OLMO,Off Target,Right Foot,Loose Ball
+98,Spain,60,19,Lamine YAMAL,On Target - Saved,Left Foot,Pass
+98,Spain,61,21,Mikel OYARZABAL,Deflected On Target - Saved,Right Foot,Pass
+98,Spain,73,19,Lamine YAMAL,Deflected Off Target - Defensive Event,Left Foot,Pass
+98,Spain,87,22,Pau CUBARSI,On Target - Saved,Right Foot,Pass
+98,Spain,87,6,Mikel MERINO,On Target - Goal,Left Foot,Other
+98,Spain,96,24,Marc CUCURELLA,On Target - Saved,Left Foot,Ball Progression
+98,Belgium,14,17,Charles DE KETELAERE,Incomplete - Blocked,Left Foot,Pass
+98,Belgium,40,17,Charles DE KETELAERE,On Target - Goal,Head,Cross
+98,Belgium,54,5,Maxim DE CUYPER,Off Target,Left Foot,Loose Ball
+98,Belgium,61,7,Kevin DE BRUYNE,On Target - Saved,Right Foot,Loose Ball
+98,Belgium,83,7,Kevin DE BRUYNE,Incomplete - Blocked,Left Foot,Loose Ball
+99,Norway,34,9,Erling HAALAND,On Target - Saved,Head,Cross
+99,Norway,35,21,Andreas SCHJELDERUP,On Target - Goal,Left Foot,Pass
+99,Norway,38,7,Alexander SORLOTH,Off Target,Left Foot,Freekick
+99,Norway,39,10,Martin ODEGAARD,On Target - Saved,Left Foot,Pass
+99,Norway,43,7,Alexander SORLOTH,Deflected Off Target - Defensive Event,Left Foot,Pass
+99,Norway,52,9,Erling HAALAND,Off Target - Saved,Head,Cross
+99,Norway,75,14,Fredrik AURSNES,Incomplete,Right Foot,Loose Ball
+99,Norway,75,3,Kristoffer AJER,Off Target,Head,Loose Ball
+99,Norway,84,20,Antonio NUSA,On Target - Saved,Right Foot,Pass
+99,Norway,103,20,Antonio NUSA,Incomplete - Blocked,Left Foot,Pass
+99,Norway,108,6,Patrick BERG,Off Target,Right Foot,Pass
+99,Norway,113,20,Antonio NUSA,Deflected Off Target - Defensive Event,Right Foot,Pass
+99,Norway,113,22,Oscar BOBB,Off Target,Left Foot,Loose Ball
+99,England,28,9,Harry KANE,Off Target,Right Foot,Freekick
+99,England,44,10,Jude BELLINGHAM,Incomplete - Blocked,Right Foot,Corner
+99,England,46,10,Jude BELLINGHAM,On Target - Goal,Left Foot,Pass
+99,England,47,9,Harry KANE,Off Target - Saved,Right Foot,Loose Ball
+99,England,47,21,Eberechi EZE,Incomplete,Right Foot,Freekick
+99,England,51,7,Bukayo SAKA,Incomplete - Blocked,Left Foot,Pass
+99,England,94,10,Jude BELLINGHAM,Off Target,Head,Pass
+99,England,92,9,Harry KANE,On Target - Saved,Head,Cross
+99,England,92,17,Morgan ROGERS,On Target - Saved,Right Foot,Pass
+99,England,92,10,Jude BELLINGHAM,On Target - Goal,Right Foot,Other
+99,England,107,10,Jude BELLINGHAM,Off Target,Right Foot,Pass
+99,England,109,7,Bukayo SAKA,On Target - Saved,Left Foot,Ball Progression
+99,England,109,25,Djed SPENCE,On Target - Saved,Right Foot,Interception
+99,England,109,7,Bukayo SAKA,On Target - Saved,Right Foot,Other
